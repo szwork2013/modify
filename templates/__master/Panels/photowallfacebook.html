@@ -1,0 +1,213 @@
+<script type="text/javascript">
+
+$(function() {
+	
+	var $container = $('#photoWall');
+	var width = $("#Container").width()/5-20;
+	var modalOpened = false;
+	var indivURL = function(id) {
+		return 'http://www.modifywatches.com/photowall.php?id=' + id;
+	}
+	
+	$(".box").css('width', width);
+    
+    $container.imagesLoaded(function(){
+	  $("#preLoad").fadeOut(500, function () {
+	  	$container.fadeIn(500, function() {
+			$container.masonry({
+				itemSelector: '.box',
+   		    });	
+			height = $("#Container").height() + 100;
+			FB.Canvas.setSize({ width: 810, height: height });
+		});
+	  });
+    });
+    
+    $container.infinitescroll({
+      navSelector  : '#page-nav',    // selector for the paged navigation 
+      nextSelector : '#page-nav a',  // selector for the NEXT link (to page 2)
+      itemSelector : '.box',     // selector for all items you'll retrieve
+      loading: {
+          finishedMsg: 'No more images to load. :)',
+          img: 'https://www.modifywatches.com/templates/modify/images/blue/loader.gif'
+        }
+      },
+      // trigger Masonry as a callback
+      function( newElements ) {
+        // hide new items while they are loading
+        var $newElems = $( newElements ).css({ opacity: 0 });
+        // ensure that images load before adding to masonry layout
+        $newElems.imagesLoaded(function(){
+			// show elems now they're ready
+			$newElems.animate({ opacity: 1 });
+			$container.masonry( 'appended', $newElems, true ); 
+			$(".box").css('width', width);
+			height = $("#Container").height() + 2000;
+			FB.Canvas.setSize({ width: 900, height: height });
+        });
+      }
+    );
+	$(window).unbind('.infscr');
+
+	$("a.photoimage").live('click', function() {
+		$("body").css('overflow', 'hidden');
+		$("#theatreReady").hide();
+		
+		FB.Canvas.getPageInfo(
+			function(info) {
+				$("#theatreBase").css("top", info.scrollTop);
+			}
+		);
+		
+		$("#theatreDrop").show();
+		$("#theatreLoad").show();
+		id = $(this).children("img").attr('id').substr(5);
+		$.getJSON('photowall.php?ismodal=true&id='+id, function(data) {
+			$("#theatrePhotoElem").attr('src', data.ImageURL);
+			$("#theatreDesc").html(data.ImageDescription);
+			
+			// Add new Facebook Button
+			$("#fbLike").remove();
+			$("#theatreSide iframe").remove();
+			$("#theatreComments").empty();
+			var dynLike = document.createElement('fb:like');
+				dynLike.setAttribute('href', encodeURI(indivURL(data.ImageId)));
+				dynLike.setAttribute('send', 'true');
+				dynLike.setAttribute('layout', 'button_count');
+				dynLike.setAttribute('width', '100');
+				dynLike.setAttribute('show_faces', 'false');
+				dynLike.setAttribute('font', 'trebuchet ms');
+				dynLike.setAttribute('id', 'fbLike');
+				document.getElementById('theatreSide').appendChild(dynLike); // Or wherever you want it
+				$("#theatreComments").append('<fb:comments href="'+ encodeURIComponent(indivURL(data.ImageId)) + '" num_posts="10" width="730"></fb:comments>');
+				FB.XFBML.parse();
+				
+			// Add new Twitter button
+			$("#theatreSide").append('<a href="https://twitter.com/share" class="twitter-share-button" data-url="'+indivURL(data.ImageId)+'" data-text="Super Dope Photo: '+indivURL(data.ImageId)+'" data-via="ModifyWatches">Tweet</a>');
+			twttr.widgets.load();
+			
+			var pinParams = $("#pinItBtn iframe").attr("src");
+				if (pinParams != undefined) {
+					pinParams = pinParams.indexOf("?");	
+					pinParams = $("#pinItBtn iframe").attr("src").slice(0,pinParams+1);
+					$("#pinItBtn iframe").attr("src", pinParams + "url="+encodeURIComponent(indivURL(data.ImageId))+"&media="+encodeURIComponent(data.ImageURL)+"&description="+encodeURIComponent("Super Dope Photo: "+indivURL(data.ImageId))+"&layout=horizontal");
+					$("#pinItBtn iframe").clone().appendTo("#theatreSide");
+				}
+			
+			$("#theatreBody").imagesLoaded(function(){
+				$("#theatreLoad").fadeOut(500, function() {
+					$("#theatreReady").fadeIn(500);
+				});
+			});
+		});
+		
+		modalOpened = true;
+		clearInterval(window.checkScroll);
+		
+		return false;
+	});
+	
+	$(document).keyup(function(e) {
+		if (e.keyCode == 27 && modalOpened) { 
+			$('#theatreClose').click(); 
+		}
+	});
+	
+	$("#theatreClose").click(function() {
+		$("body").css('overflow', '');
+		$("#theatreDrop").fadeOut(200);
+		modalOpened = false;
+		resetInterval();
+	});
+	
+	$("#productImageNewUpload").click(function() {
+		top.location.href = "http://www.facebook.com/dialog/oauth/?client_id=319111784818583&redirect_uri=http://www.facebook.com/ModifyWatches/app_319111784818583&state=upload";
+		// Check if logged in.
+		FB.getLoginStatus(function(response) {
+			console.log(response);
+			if (response.status === 'connected') {
+				console.log("Connected to app");
+			} else if (response.status === 'not_authorized') {
+				top.location.href = "http://www.facebook.com/dialog/oauth/?client_id=319111784818583&redirect_uri=http://www.facebook.com/ModifyWatches/app_319111784818583&state=upload";
+			}
+			else {
+				console.log("Not logged into Facebook");	
+			}
+		}, true);
+	});
+	
+	function resetInterval() {
+		window.checkScroll = setInterval(function() {
+			FB.Canvas.getPageInfo(
+				function(info) {
+					if (info.scrollTop > 0) {
+						screenOffset = info.scrollTop + info.clientHeight;
+						lastOffset = $(".box").last().offset().top;
+						offset = lastOffset - screenOffset;
+						if(offset < 20) {
+							$container.infinitescroll('retrieve');
+						}
+					}
+				}
+			);
+		}, 1000);
+	}
+	
+	resetInterval();
+
+});
+
+</script>
+
+<div id="fbIntro">
+	<span>Welcome to the Modify Photowall</span><br />
+    Browse photos of ModiFamily members rocking their favorite mods!
+</div>
+
+<div id="fbUpload">
+	<div>
+        <span class="up">Submit your very own, super awesome Modify related photo:</span>
+        <span id="productImageNewUploadPlaceholder"></span><a id="productImageNewUpload" class="ProductImageNewUpload" href="#"></a>
+    </div>
+    <br class="clear" />
+</div>
+
+<center><img id="preLoad" src="templates/modify/images/blue/loader.gif" /></center>
+
+<div id="photoWall" style="display:none;">
+	%%GLOBAL_ImageURLs%%
+</div>
+
+%%GLOBAL_PageNumber%%
+
+<div id="theatreDrop">
+    <div id="theatreBase" class="greyDrop">
+    	<div id="theatreLoad">
+        	<center><img id="preLoad" src="templates/modify/images/blue/loader.gif" /></center>
+        </div>
+        <div id="theatreReady">
+            <div id="theatreHead" class="whiteShadow">
+                <span id="theatreHeadText">
+                    <span class="spaced">Posted By:</span> Aaron Schwartz
+                </span>
+                <span id="theatreClose">
+                    X
+                </span>
+            </div>
+            <div id="theatrePhoto">
+                <img id="theatrePhotoElem" />
+            </div>
+            <div id="theatreSide">
+                <span class="spaced">Share this photo:</span>
+            </div>
+            <div id="theatreDesc">
+            </div>
+            <div id="theatreComments">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="pinItBtn">
+<a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.modifywatches.com%2Fphotowall.php&media=http%3A%2F%2Fwww.modifywatches.com%2Fproduct_images%2Fv%2F597%2FFotoenvy_1__05353_thumb.jpg&description=Modify%20Watches%20are%20dope!" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+</div>

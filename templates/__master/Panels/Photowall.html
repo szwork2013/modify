@@ -1,0 +1,71 @@
+<script type="text/javascript">
+
+$(function() {
+	
+	var $container = $('#photoWall');
+	var width = $("#Container").width()/8-20;
+	
+	$(".box").css('width', width);
+    
+    $container.imagesLoaded(function(){
+	  $("#preLoad").fadeOut(500, function () {
+	  	$container.fadeIn(500, function() {
+			$container.masonry({
+				itemSelector: '.box',
+   		    });	
+		});
+	  });
+    });
+    
+    $container.infinitescroll({
+      navSelector  : '#page-nav',    // selector for the paged navigation 
+      nextSelector : '#page-nav a',  // selector for the NEXT link (to page 2)
+      itemSelector : '.box',     // selector for all items you'll retrieve
+      loading: {
+          finishedMsg: 'No more images to load. :)',
+          img: 'https://www.modifywatches.com/templates/modify/images/blue/loader.gif'
+        }
+      },
+      // trigger Masonry as a callback
+      function( newElements ) {
+        // hide new items while they are loading
+        var $newElems = $( newElements ).css({ opacity: 0 });
+        // ensure that images load before adding to masonry layout
+        $newElems.imagesLoaded(function(){
+          // show elems now they're ready
+          $newElems.animate({ opacity: 1 });
+          $container.masonry( 'appended', $newElems, true ); 
+		  $(".box").css('width', width);
+        });
+      }
+    );
+
+	$("a.photoimage").live('click', function() {
+		$("body").css('overflow', 'hidden');
+		$("#theatreDrop").show();
+		$("#theatrePhotoElem").attr('src', $(this).children('img').attr('src'));
+		return false;
+	});
+
+});
+
+</script>
+
+<center><img id="preLoad" src="templates/modify/images/blue/loader.gif" /></center>
+
+<div id="photoWall" style="display:none;">
+	%%GLOBAL_ImageURLs%%
+</div>
+
+%%GLOBAL_PageNumber%%
+
+<div id="theatreDrop">
+    <div id="theatreBase">
+        <div id="theatrePhoto">
+            <img id="theatrePhotoElem" />
+        </div>
+        <div id="theatreSide">
+            This is where the social sharing stuff will go
+        </div>
+    </div>
+</div>

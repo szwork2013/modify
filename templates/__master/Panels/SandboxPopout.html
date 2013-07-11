@@ -1,0 +1,56 @@
+<span>
+	<script type="text/template" id="sandbox-template">
+		<div id="whiteDrop">
+		</div>
+		<div class="opened">
+			<div class="sboxFHCont">
+				<header>
+					<div class="sboxHContainer">
+						<div class="collapse">
+							<div class="x"></div>Close
+						</div>
+						<div class="share">
+							Share your Visualizer
+							<a onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href), 'sharewindow', 'width=500,height=320');return false;" class="but fb"></a>
+							<a onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent('My Modify Watches Visualizer: ' + window.location.href), 'sharewindow', 'width=500,height=320');return false;" class="but twt"></a>
+						</div>
+						<div class="nBut" id="clearAll">Empty Visualizer</div>
+					</div>
+				</header>
+			</div>
+			<div class="sboxContains">
+				
+			</div>
+		</div>
+		<div style="clear:both;"></div>
+	</script>
+
+	<script type="text/template" id="sandboxproducts-template">
+		<div id="hideMods">
+			<div id="classicMods">
+				<h3 class="headerText">Classic Mods</h3>
+				<div id="classicModContainer">
+				</div>
+			</div>
+			<div id="miniMods">
+				<h3 class="headerText">Mini Mods</h3>
+				<div id="miniModContainer">
+				</div>
+			</div>
+		</div>
+		<div style="clear:both;"></div>
+	</script>
+
+	<script type="text/template" id="sandboxproduct-template">
+		<a class="popshow iframe" rel="gallery" href="<%= quicklink %>" title="<%= prodname %>"><img src="<%= imagefilethumb %>" alt="<%= prodname %>">
+		<br/><figcaption><%= prodname %></figcaption>
+	</script>
+
+	<script type="text/template" id="sandboxrecommend-template">
+		// type: figure, class: product
+		// Drop these in a div called 'recommend'
+		<img class="strap" src="img/products/silverface.jpg" alt="Silver Face">
+		<span class="x"></span>
+		<div><a class="bBut" href="#">Add</a></div>
+	</script>
+</span>

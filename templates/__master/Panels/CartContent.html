@@ -1,0 +1,82 @@
+<script type="text/javascript">
+lang=new Object();
+lang.InvalidQuantity = "%%LNG_InvalidQuantity%%";
+lang.Calculating = "%%LNG_Calculating%%"
+lang.CalculateShipping = "%%LNG_CalculateShipping%%"
+lang.ChooseShippingMethod = "%%LNG_ChooseShippingMethod%%"
+lang.CartRemoveConfirm = '%%LNG_CartRemoveConfirm%%';
+lang.ConfirmRemoveGiftWrapping = '%%LNG_ConfirmRemoveGiftWrapping%%';
+lang.SelectCountry = '%%LNG_ChooseShippingCountry%%';
+lang.SelectState = '%%LNG_ChooseShippingState%%';
+lang.EnterZip = '%%LNG_EnterShippingZip%%';
+</script>
+<script src="%%GLOBAL_ShopPath%%/javascript/jquery/plugins/imodal/imodal.js?%%GLOBAL_JSCacheToken%%" type="text/javascript"></script>
+
+<div class="Block Moveable Panel" id="CartContent">
+	<div class="BlockContent">
+		<div style="display: %%GLOBAL_HideShoppingCartGrid%%">
+			<form enctype="multipart/form-data" onsubmit="return Cart.ValidateQuantityForm(this);" action="cart.php" name="cartForm" id="cartForm" method="post">
+			<input type="hidden" name="action" value="update" />
+            <div class="cartContentHeaderText">Your Cart Has <b>%%GLOBAL_TotalNumCartItems%%</b> Items In It</div>
+			<table class="CartContents Stylize General" cellspacing="0" cellpadding="0">
+				<tfoot>
+					<tr class="SubTotal">
+						<td colspan="4">%%LNG_Subtotal%%:</td>
+						<td><em class="ProductPrice">%%GLOBAL_CartItemTotal%%</em></td>
+					</tr>
+					<tr class="SubTotal" style="%%GLOBAL_HideGiftWrappingTotal%%">
+						<td colspan="4">%%LNG_GiftWrapping%%:</td>
+						<td><em class="ProductPrice">%%GLOBAL_GiftWrappingTotal%%</em></td>
+					</tr>
+					%%SNIPPET_NormalCoupons%%
+					<tr class="SubTotal" style="%%GLOBAL_HideDiscountAmount%%">
+						<td colspan="4">%%LNG_Discount%%:</td>
+						<td><em class="ProductPrice">%%GLOBAL_DiscountAmount%%</em></td>
+					</tr>
+					<tr style="display:%%GLOBAL_HideShoppingCartShippingCost%%" class="SubTotal">
+						<td colspan="4">%%LNG_Shipping%% (%%GLOBAL_ShippingProvider%%):</td>
+						<td><em class="ProductPrice">%%GLOBAL_ShippingCost%%</em></td>
+					</tr>
+					%%SNIPPET_FreeShippingCoupons%%
+					%%GLOBAL_Taxes%%
+					%%SNIPPET_GiftCertificates%%
+					%%GLOBAL_InclusiveTaxes%%
+				</tfoot>
+				<tbody>
+					%%SNIPPET_CartItems%%
+				</tbody>
+			</table>
+			<div class="FloatLeft divSubtotal" style="display: %%GLOBAL_HideCartQuantityTextBox%%">
+				<input type="submit" class="nBut" value="%%LNG_Update%%" />
+				<a class="rBut" href="%%GLOBAL_ShopPath%%/cart.php?action=removeall">Clear Cart</a>
+			</div>
+            <div class="FloatRight divSubtotal">
+                    Cart Total:<br />
+                    <em class="ProductPrice">%%GLOBAL_CartTotal%%</em>
+            </div>
+            <br class="Clear" />
+			</form>
+			<div id="PaymentTypes" class="ProceedToCheckout">
+                <div class="checkoutMargins">
+                    <div class="CheckoutButton FloatRight" style="%%GLOBAL_HideCheckoutButton%%">
+                        <a href="%%GLOBAL_ShopPath%%/checkout.php" class="ctaBut">Checkout With Credit Card</a>
+                    </div>
+                    <div class="AlternativeCheckout" style="%%GLOBAL_HideMultipleAddressShipping%%">
+    <p style="%%GLOBAL_HideMultipleAddressShippingOr%%">-- %%LNG_or%% --</p>
+    <a href="%%GLOBAL_ShopPath%%/checkout.php?action=multiple">%%LNG_CheckoutWithMultipleAddresses%%</a>
+                    </div>
+                    %%GLOBAL_AdditionalCheckoutButtons%%
+                </div>
+			</div>
+		</div>
+
+		<div style="display: %%GLOBAL_HideShoppingCartEmptyMessage%%">
+			<p class="InfoMessage">
+				<strong>%%LNG_NoItemsInCart%%</strong>
+			</p>
+			%%LNG_EmptyCartInfo%%
+			<br /><br />	
+			<a href="%%GLOBAL_ShopPath%%/">%%LNG_ContinueShopping%%</a> %%LNG_OnThe%% %%GLOBAL_StoreName%% %%LNG_EmptyHomePage%%
+		</div>
+	</div>
+</div>

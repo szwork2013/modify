@@ -1,0 +1,186 @@
+%%Panel.AjaxLoad%%
+
+<style type='text/css'>
+	.mini #christmasguarantee { display:none; }
+</style>
+<header id="top" class="fncysans wShad">
+	<div id="banner">
+	</div>
+	<div id="header">
+		<div id="contentwrap">
+			<div class="headcontent">
+				<div id="logo">
+					<div class="pad"></div>
+					<a href="%%GLOBAL_ShopPath%%"></a>
+				</div>
+				<div id="nav">
+					<nav id="topLinks">
+						<ul>
+							<li class="shipping">Free Shipping on Orders Over $60</li>
+							<li><a class="eSubscribe" href="#">Subscribe to Newsletter</a></li>
+							<!--<li><a href="#">Earn Free Mods</a></li>-->
+							<li><a href="%%GLOBAL_AccountLink%%">%%GLOBAL_AccountText%%</a> %%GLOBAL_AccountLogout%%</li>
+						</ul>
+					</nav>
+					<iframe id="headerFB" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmodifywatches&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=198063910254631" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px;margin-top:4px;float:right;" allowTransparency="true"></iframe>
+					<nav id="mainLinks">
+						<ul>
+							<li id="navShopOuter" class="%%GLOBAL_ShopActive%%">
+								<a id="navShop" href="%%GLOBAL_ShopPath%%/categories?a=build">Shop</a>
+								<div class="sDrop">
+									<ul>
+										<li>
+											<a href="%%GLOBAL_ShopPath%%/categories?a=build">
+												<img src="%%GLOBAL_ShopPath%%/templates/Modify/images/default/builddrop3.jpg" style="
+												display: block;
+												margin-bottom: 5px;">
+												<span class="fncyBlanche">Build</span>
+												<span class="copy">Start From Scratch ></span>
+											</a>
+										</li>
+										<li>
+											<a href="%%GLOBAL_ShopPath%%/sets.php">
+												<img src="%%GLOBAL_ShopPath%%/templates/Modify/images/default/browsedrop3.jpg" style="
+												display: block;
+												margin-bottom: 5px;">
+												<span class="fncyBlanche">Browse</span>
+												<span class="copy">Curated Sets ></span>
+											</a>
+										</li>
+									</ul>
+								</div>
+							</li>
+							<li class="%%GLOBAL_AboutActive%%"><a id="navAbout" href="%%GLOBAL_ShopPath%%/about.php">About</a></li>
+							<li class="%%GLOBAL_CommActive%%"><a id="navComm" href="%%GLOBAL_ShopPath%%/community.php">Community</a></li>
+							<!--<li><a id="navSupport" href="#"><span class="icon"></span>Support</a><span class="divide"></span></li> -->
+						</ul>
+						<ul id="rightLinks">
+							<li id="oSandbox" class="inbox dropdown cart" style="display:none;">
+								<a onClick="return false;" class="bBut drop" href="#">
+									<span class="sboxicon"> </span>
+									Visualizer
+								</a>
+							</li>
+							<li id="cart" class="cart dropdown %%GLOBAL_CartActive%%">
+								<a id="navCart" class="bBut drop" href="%%GLOBAL_ShopPath%%/cart.php">
+									<span class="cart"> </span>
+									Cart
+									<span class="arrow"></span>
+								</a>    
+								<ul id="cartLoading">
+									<li>
+										<img src="%%GLOBAL_ShopPath%%/templates/Modify/images/SmallLoad.gif" />
+									</li>
+								</ul>
+								<!-- Insert Cart Quickview Here -->
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		
+		<div id="leftwrap">
+			<div id="lside">
+			</div>
+		</div>
+		<div id="rightwrap">
+			<div id="rside">
+			</div>            
+		</div>
+		
+		<div style="clear:both;"></div>
+	</div>
+	<div style="clear:both;"></div>
+</header>
+
+%%Panel.BootstrapCart%%
+%%Panel.BootstrapSandbox%%
+
+	<span>
+	<script type="text/template" id="esubscribe-template">
+		<h3 class="headerText">Great choice. Really, really great choice!</h3>
+		<p>We'll hook you up with sweet deals and entertain you with awesome jokes. Get. Excited.</p>
+		<form action="http://modifywatches.us2.list-manage1.com/subscribe/post?u=ff6348c49444f0d8101e7a204&amp;id=1300f32261" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+			<input name="EMAIL" onfocus="if(this.value == 'E-mail Address') { this.value = ''; }" value="E-mail Address" class="nInput" type="text">
+			<input type="submit" alt="Go" class="nBut" value="Sign Up">
+		</form>
+	</script>
+
+	<script type="text/template" id="sboxsizechoose-template">
+		<div class="content">
+			<div class="close">X Close</div>
+			<h3 class="headerText">Choose Your Size</h3>
+			<p>If you need help, click the image to see a life-sized version.</p>
+			<iframe width='400' height='190' src='http://embed.lifesizer.com/html/widget.html?user=10&ref=_8&img=c1e6ef417753734a' frameborder='0'></iframe>
+
+			<span class="mini ctaBut">Choose Mini</span> - or - <span class="classic ctaBut">Choose Classic</span>
+		</div>
+	</script>
+
+	<script type="text/template" id="genericmodal-template">
+		<div class="content">
+			<div class="close">X Close</div>
+			<p>
+			<%= message %>
+			</p>
+		</div>
+	</script>
+
+	<script type="text/template" id="sandquick-template">
+		<!-- Parent Elem Needs to be 'ul -->
+		<li>
+			<div>
+				<% if (numproducts > 0) { %>
+					Visualizer Total: <span class="total">$<%= total %></span>
+					<a class="ctaBut" href="<%= config.ShopPath %>/sandbox.php?action=addall">Add All To Cart »</a>
+				<% } %>
+			</div>
+		</li>
+		<!-- Drop Each Product Type Here -->
+	</script>
+
+	<script type="text/template" id="cartquick-template">
+		<!-- Parent Elem Needs to be 'ul -->
+		<li>
+			<div>
+				<% if (numproducts > 0) { %>
+					<%= type.capfirst() %> Total: <span class="total">$<%= total %></span>
+					<% if(type == "sandbox") { %>
+						<a class="ctaBut" href="<%= config.ShopPath %>/sandbox.php?action=addall">Add All To Cart</a>
+					<% } else { %>
+						<a class="ctaBut" href="<%= config.ShopPath %>/checkout.php">Proceed to Checkout »</a>
+					<% } %>
+				<% } else { %>
+					No Products In Cart
+				<% } %>
+			</div>
+		</li>
+		<!-- Drop Each Product Type Here -->
+	</script>
+
+	<script type="text/template" id="cartquicktype-template">
+		<!-- Parent elem needs to be 'li' -->
+		<span><%= title %></span>
+		<ul>
+			<!-- Drop Each Product Here -->
+		</ul>
+	</script>
+
+	<script type="text/template" id="cartquickitem-template">
+		<!-- Parent Elem needs to be 'li' -->
+		<div class="cartRow">
+			<a class="x" href="#"></a>
+			<img src="<%= thumb %>" style="width:55px;">
+			<ul>
+				<li><div><%= name %></div></li>
+				<li>$<%= price %> <small>(each)</small></li>
+				<li>Size: <b><%= size.Size %></b></li>
+				<li class="quantity">Quantity: <input type="text" value="<%= quantity %>" /> <span class="quantity minus">-</span><span class="quantity plus">+</span>
+			</ul>
+			<br class="Clear">
+		</div>
+	</script>
+</span>
+
+%%GLOBAL_HeadJS%%

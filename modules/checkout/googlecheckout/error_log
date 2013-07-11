@@ -1,0 +1,5 @@
+[19-Nov-2011 20:04:35] PHP Fatal error:  Call to a member function removeAllGiftCertificates() on a non-object in /home1/modiwatc/public_html/modules/checkout/googlecheckout/class.handler.php on line 178
+[19-Nov-2011 20:04:46] PHP Fatal error:  Call to a member function removeAllGiftCertificates() on a non-object in /home1/modiwatc/public_html/modules/checkout/googlecheckout/class.handler.php on line 178
+[19-Nov-2011 20:07:30] PHP Fatal error:  Call to a member function removeAllGiftCertificates() on a non-object in /home1/modiwatc/public_html/modules/checkout/googlecheckout/class.handler.php on line 178
+[19-Nov-2011 20:07:52] PHP Fatal error:  Call to a member function removeAllGiftCertificates() on a non-object in /home1/modiwatc/public_html/modules/checkout/googlecheckout/class.handler.php on line 178
+[19-Nov-2011 20:07:53] PHP Notice:  Undefined index:  merchant-private-data in /home1/modiwatc/public_html/modules/checkout/googlecheckout/class.handler.php on line 91

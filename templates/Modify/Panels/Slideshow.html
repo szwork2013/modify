@@ -1,0 +1,65 @@
+	<script>
+		$(function(){
+			$("#slides").slides({
+				play: 60000,
+				hoverPause: true,
+			});
+			
+			$("img.lazy").lazyload({ 
+				effect : "fadeIn",
+				event: "loadem"
+			});
+			$("img.lazy").trigger("loadem");
+		});
+	</script>
+	<div class="gradBG">
+		<div id="slides">
+			<div class="slides_container">
+				<div>
+					<a href="categories/Community-Voted/Fan-Designs/">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/GRAPHENE_slide.jpg">
+					</a>
+				</div>
+				<div>
+					<a href="categories?a=build">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/mixmatch-3.jpg">
+					</a>
+				</div>
+				<div>
+					<a href="products/Silver-Glitter-Face-with-Black-Glitter-Strap.html">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/glitter.jpg">
+					</a>
+				</div>
+				<div>
+					<a href="http://www.modifywatches.com/categories/Animal-Prints/">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/giraffe.jpg">
+					</a>
+				</div>
+                <div>
+					<a href="categories/New-Products/?action=browse">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/summerstraps.jpg">
+					</a>
+				</div>
+                <div>
+					<a href="categories/New-Products/?action=browse">
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/summer.jpg">
+					</a>
+				</div>
+				<div>
+					<a href="categories?a=build">
+						<span class="cta" style="top:60%;left:75%;">Create Your Own »</span>
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/colors.jpg">
+					</a>
+				</div>
+				<div>
+					<a href="categories/Brands-You-Love/Deadmau5/?action=browse">
+						<span class="cta" style="top:85%;">Create Your Own »</span>
+						<img class="lazy" src="templates/Modify/images/default/ph.jpg" data-original="templates/Modify/images/default/slides/deadmau5.jpg">
+					</a>
+				</div>
+			</div>
+			<a href="#" class="next"><img src="templates/Modify/images/default/rarrow.png" /></a>
+			<a href="#" class="prev"><img src="templates/Modify/images/default/larrow.png" /></a>
+		</div>
+	</div>
+	

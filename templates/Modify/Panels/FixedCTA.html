@@ -1,0 +1,16 @@
+<div class="fixedCTA">
+	<a href="categories?a=build"><span class="cta">Create Yours »</span></a>
+</div>
+
+<script type="text/javascript">
+$(function() {
+	var offset = $(".row").offset().top;
+	$(window).scroll(function() {
+		if($(window).scrollTop() > offset && !$(".fixedCTA").hasClass('visi')) {
+			$(".fixedCTA").addClass('visi').animate({ top: 35 });
+		} else if ($(window).scrollTop() < offset && $(".fixedCTA").hasClass('visi')) {
+			$(".fixedCTA").animate({ top: -100 }).removeClass('visi');	
+		}
+	});
+});
+</script>

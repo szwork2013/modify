@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=95&amp;type=atom" />
+	<id>http://www.modifywatches.com</id>
+	<updated>2013-06-20T22:35:35Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-12-27T16:18:10Z</published>
+		<updated>2012-12-27T16:18:10Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Watch-of-the-Month-Club.html" />
+		<id>http://www.modifywatches.com/products/Watch-of-the-Month-Club.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Watch of the Month Club]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Watch-of-the-Month-Club.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club.html"  ><img src="http://www.modifywatches.com/product_images/x/069/motmc__07065_thumb.jpg" alt="Watch of the Month Club" /></a></div><p><strong>Price: $35.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1612]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/069/motmc__07065_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/729/motmc__32164_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$35.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-12-27T16:49:37Z</published>
+		<updated>2012-12-27T16:49:37Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html" />
+		<id>http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Watch of the Month Club - 3 Months]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/035/motmc__79429_thumb.jpg" alt="Watch of the Month Club - 3 Months" /></a></div><p><strong>Price: $96.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1613]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/035/motmc__79429_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/282/motmc__98471_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$96.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-12-27T16:50:09Z</published>
+		<updated>2012-12-27T16:50:09Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html" />
+		<id>http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Watch of the Month  - 6 Months]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/094/motmc__71640_thumb.jpg" alt="Watch of the Month  - 6 Months" /></a></div><p><strong>Price: $168.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1614]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/094/motmc__71640_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://www.modifywatches.com/product_images/g/975/motmc__90850_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$168.00]]></isc:price>
+	</entry>
+</feed>

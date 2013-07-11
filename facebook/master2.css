@@ -1,0 +1,956 @@
+/*
+Orange color: #ff7f00
+Grey color: #455560
+
+Yellow face: #f3d35a
+Red face: #e92d47
+Blue face: #0995d4
+Green face: #8fcb47
+Pink face: #e6429d
+*/
+
+/* Remove all default padding/margins */
+  * 
+  {
+  padding:0;
+  margin:0;
+  vertical-align: top;
+  font-family: 'Trebuchet MS', sans-serif;
+  color:#455560;
+  }
+
+/* Universal elements */
+
+body
+  {
+  text-align: center;
+  background-color: rgb(200,200,200);
+  height:100%;
+  font-size: 14px;
+  }
+
+img
+  {
+  border:0;
+  }
+
+a
+  {
+  color:ff7f00;
+  text-decoration: none;
+  }
+
+p
+  {
+  padding:10px;
+  }
+
+/* LAYOUT CONTAINERS -------------------------------------------------------- */
+
+#outercontainer
+  {
+  width:1000px;
+  background-color:white;
+  margin: 0 auto;
+  text-align: left;
+  padding-top:5px;
+  }
+
+#contentcontainer
+  {
+  width:960px;
+  background-color:none;
+  clear:both;
+  }
+
+#innercontentcontainer
+  {
+  margin-left: 40px;
+  padding:0px;
+  clear:both;
+  }
+
+#innercontenttitle
+  {
+  height:31px;
+  background-color:#455560;
+  clear:both;
+  text-align:left;
+  margin-top:5px;
+  margin-left: 40px;
+  }
+  
+#innercontenttitletext 
+  {
+  font-size:18px;
+  font-weight:normal;
+  padding-left:10px;
+  padding-top:3px;
+  color:white;
+  float:left;
+  }
+
+/* NAVIGATION --------------------------------------------------------------- */
+
+#navigation
+  {
+  width:980px;
+  height:85px;
+  margin-top:10px;
+  background-color:white;
+  clear:both;
+  padding-left:0px;
+  }
+  
+#logo
+  {
+  float:left;
+  padding-left:0px;
+  width:225px;
+  background-color: none;
+  }
+  
+#navigationitemsdiv
+  {
+  height:75px;
+  float:right;
+  width:680px;
+  background-color: none;
+  }
+
+#navigationitemsdiv ul
+  {
+  list-style: none;
+  padding:0px;
+  }
+
+#navigationitemsdiv li
+  {
+  float:left;
+  padding: 0px 0px 10px 0px;
+  color:white;
+  }
+
+#navigitem
+  {
+  padding-top:23px;
+  padding-right:10px;
+  color:#ff7f00;
+  text-decoration: none;
+  }
+
+#navigitem a
+  {
+  font-weight: bold;
+  color:#ff7f00;
+  text-decoration: none;
+  font-size: 16px;
+  }
+
+#clockdiv
+  {
+  height:75px;
+  width:75px;
+  background-color: rgb(255,255,255);
+  margin-left:0px;
+  cursor: hand;
+  }
+
+/* MAIN CONTENT  ------------------------------------------------------------ */
+
+#maintitle				
+  {
+  width:900px;
+  height:38px;
+  background-color:#455560;
+  clear:both;
+  text-align:left;
+  margin-left:37px;
+  margin-top:0px;
+  }
+  
+#maintitletext 
+  {
+  color:#ff7f00;
+  font-size:20px;
+  font-weight:normal;
+  padding-left:10px;
+  padding-top:2px;
+  }
+
+#maincontentouter
+  {
+  width:900px;
+  background-color:white;
+  clear:both;
+  opacity:0.75;
+  filter:alpha(opacity=75);
+  margin-left:37px;
+  }
+
+#maincontentinner					
+	{
+  width:894px;
+  background-color:white;
+  clear:both;
+  position:relative;
+  left:40px;
+  overflow: hidden;
+  }	
+
+#contentleftcol
+  {
+  float:left;
+  width:500px;
+  background-color: none;
+  text-align: justify;
+  line-height: 20px;
+  }
+
+#contentrightcol
+  {
+  float:right;
+  width:350px;
+  background-color: none;
+  text-align: center;
+  padding-top:10px;
+  }
+
+#orangefont
+  {
+  color:#8fcb47;
+  }
+
+/* GET STARTED -------------------------------------------------------------- */
+#starterbox
+  {
+  float:left;
+  width:300px;
+  height:300px;
+  margin-bottom:10px;
+  }
+
+#giftbox
+  {
+  float:left;
+  width:300px;
+  height:250px;
+  margin-bottom:10px;
+  }
+
+#lgstarterbox
+  {
+  float:left;
+  width:300px;
+  height:360px;
+  margin-bottom:10px;
+  }
+
+#packlabel
+  {
+  float:left;
+  background-color:#eee;
+  width:30px;
+  height:300px;
+  }
+
+#lgpacklabel
+  {
+  float:left;
+  background-color:#eee;
+  width:30px;
+  height:360px;
+  }
+
+#packdetails
+  {
+  float:right;
+  width:260px;
+  }
+
+#packaddtocart
+  {
+  padding:3 15 3 15;
+  font-size:16px;
+  font-weight:bold;
+  float:right;
+  margin-right:15px;
+  margin-top:3px;
+  color:white;
+  background-color:#ff7f00;
+  }
+
+/* BOTTOM CONTENT ----------------------------------------------------------- */
+
+#bottomcontent
+  {
+  margin-left:auto;
+  margin-right:auto;
+  width:920px;
+  height:170px;
+  background-color:none;
+  clear:both;
+  margin-left:40px;
+  margin-top:20px;
+  }
+
+#bottomcontent ul
+  {
+  list-style: none;
+  padding:0px;
+  }
+
+#bottomcontent li
+  {
+  float:left;
+  padding: 0px 0px 0px 10px;
+  }
+
+/* CAROUSELS AND CART FOR SANDBOX PAGE -------------------------------------- */
+
+#carouselsdiv
+  {
+  float:left;
+  overflow: hidden;
+  background-color: none;
+  width:800px;
+  height:200px;
+  }
+
+#cartbuttonsdiv
+  {
+  padding:0px;
+  float:right;
+  background-color: none;
+  margin-right:35px;
+  overflow:hidden;
+  }
+  
+#buybutton
+  {
+  width:150px;
+  height:32px;
+  background-color:#ff7f00;
+  clear: both;
+  text-align:center;
+  font-size:18px;
+  color:white;
+  font-weight: bold;
+  cursor: hand;
+  padding-top:5px;
+  overflow: hidden;
+  margin-top:2px;
+  }
+
+#buybutton a
+  {
+  color:#ffffff;
+  text-decoration: none;
+  }
+
+#clearbutton
+  {
+  width:68px;
+  height:28px;
+  background-color:#455560;
+  float:left;
+  text-align:center;
+  font-size:18px;
+  color:white;
+  font-weight: bold;
+  line-height: 96%;
+  cursor: hand;
+  margin-top:5px;
+  }
+  
+#clearbutton a
+  {
+  color:#ffffff;
+  text-decoration: none;
+  }
+
+#addallbutton
+  {
+  width:75px;
+  height:28px;
+  background-color:#eeeeee;
+  float:left;
+  text-align:center;
+  font-size:18px;
+  color:white;
+  font-weight: bold;
+  line-height: 96%;
+  cursor: hand;
+  margin-top:5px;
+  }
+  
+#addallbutton a
+  {
+  color:orange;
+  text-decoration: none;
+  }
+
+#face-carousel
+  {
+  clear:both;
+  padding:5px 0px 0px 0px;
+  overflow: hidden;
+  height:100px;
+  }
+
+#strap-carousel
+  {
+  clear:both;
+  padding:5px 0px 0px 0px;
+  overflow: hidden;
+  height:100px;
+  }
+
+#carouseltitle
+  {
+  margin-left: 10px;
+  padding: 19px 0px 0px 0px;
+  font-size:18px;
+  font-weight:bold;
+  width:150px;
+  text-align: left;
+  float: left;
+  background-image: url(../images/logo_grey_no_text.gif);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-color: none;
+  height:63px;
+  }
+
+.itemimage
+  {
+  cursor: hand;
+  overflow:hidden;
+  }
+
+#cartitemoptions
+  {
+  clear: both;
+  background-color: rgb(220,220,220);
+  width:65px;
+  overflow: hidden;
+  height:23px;
+  border-bottom: 1px grey solid;
+  }
+
+#numberordereddiv
+  {
+  text-align: center;
+  color:black;
+  font-size:16px;
+  background-color: none;
+  margin-top:5px;
+  position:relative;
+  top:-17px;
+  }
+
+#plusdiv
+  {
+  color:rgb(96,96,96);
+  font-size:20px;
+  font-weight: bold;
+  background-color: none;
+  position:relative;
+  top:-4px;
+  cursor:hand;
+  
+  }
+
+#minusdiv
+  {
+  color:rgb(96,96,96);
+  font-size:24px;
+  font-weight: bold;
+  background-color: none;
+  position:relative;
+  top:-30px;
+  cursor:hand;
+  }
+
+#vertcarouseldiv
+  {
+  width:70px;
+  height:55px;
+  background-color:none;
+  margin-top:0px;
+  margin-bottom:0px;
+  }
+
+#bottominfobox
+  {
+  margin-left:00px;
+  margin-top:10px;
+  width:590px;
+  border: 1px grey solid;
+  height:80px;
+  overflow:hidden;
+  float:left;
+  }
+
+/* ABOUT US ----------------------------------------------------------------- */
+#employeesgallery
+  {
+  list-style: none url();
+  }
+
+#employeesgallery li
+  {
+  float: left;
+  padding:10px;
+  }
+
+#employeesgallery img
+  {
+  border: 8px rgb(208,208,208) solid;
+  }
+
+/* HOW TO ------------------------------------------------------------------- */
+#howtogallery
+  {
+  list-style: none url();
+  margin-left:0px;
+  margin-top:15px;
+  }
+
+#howtogallery li
+  {
+  float: left;
+  padding:10px;
+  height:150px;
+  width:130px;
+  text-align: center;
+  font-size:14px;
+  }
+
+#howtogallery img
+  {
+  }
+
+/* SANDBOX ------------------------------------------------------------------ */
+
+#sandboxouter
+  {
+  display: table; 
+  height: 410px;
+  width:760px; 
+  #position: relative; 
+  overflow: hidden;
+  float:left;
+  }
+
+#sandboxinner
+  {
+  background-color: none;
+  #position:absolute;
+  #top:50%;
+  #left:0px;
+  display:table-cell;
+  vertical-align: middle;
+  width:760px;
+  }
+
+#sandbox
+  {
+  #position:relative;
+  #top:-50%;
+  background-color:none;
+  clear:both;
+  text-align:center;
+  width:760px;
+  }
+
+#scores
+  {
+  height:360px;
+  width:288px;
+  margin-right:2px;
+  float: right;
+  background-color: none;
+  text-align: left;
+  }
+  
+#scorebox
+  {
+  width: 250px;
+  margin-top:0px;
+  text-align: left;
+  float:left;
+  }
+
+#scoreboxtitle
+  {
+  height:20px;
+  background-color:rgb(208,208,208);
+  color:#455560;
+  font-weight: bold;
+  padding:0px 2px 1px 4px;
+  width:50%;
+  font-style: italic;
+  font-size: 14px;
+  clear:both;
+  }
+
+#scoreboxresult
+  {
+  font-size: 20px;
+  color:#455560;
+  font-weight: bold;
+  padding-left:10px;
+  padding-top:5px;
+  }
+
+#scoreboxresultpricecomments
+  {
+  font-size: 12px;
+  color:#455560;
+  font-weight: bold;
+  padding-left:10px;
+  padding-top:12px;
+  float:right;
+  width:180px;
+  }
+
+#scoreboxpricehelp
+  {
+  float:right;
+  font-size:10px;
+  padding: 3px 3px 0px 0px;
+  font-weight: bold;
+  }
+  
+#scoreboxadvice
+  {
+  font-size: 16px;
+  clear: both;
+  padding:5px 0px 0px 10px;
+  color:#455560;
+  font-weight: bold;
+  }
+
+#sandboxpic
+  {
+  border:1px solid grey;
+  margin:3px;
+  }
+  
+#priceperwatch
+  {
+  font-size: -4;
+  }
+
+#totalprice
+  {
+  font-size: 28px;
+  margin-left:0px;
+  }
+
+/* INDEX BOTTOM COLUMNS ----------------------------------------------------- */
+
+#indexbottomcolumnsdivleft
+  {
+  float:left;
+  height:150px;
+  width:450px;
+  background-color: none;
+  }
+
+#indexbottomcolumnsdivright
+  {
+  float:right;
+  height:150px;
+  width:450px;
+  background-color: none;
+  }
+  
+#indexbottomcolumnone
+  {
+  float: left;
+  width:48%;
+  height:160px;
+  background-color: white;
+  }
+
+#indexbottomcolumntwo
+  {
+  float: right;
+  width:48%;
+  height:160px;
+  background-color: white;
+  cursor: hand;
+  }
+
+#indexbottomcolumnthree
+  {
+  float: right;
+  width:92%;
+  height:160px;
+  background-color: white;
+  cursor: hand;
+  }
+
+#indexbottomcolumnstitle
+  {
+  height:26px;
+  background-color:#455560;
+  clear:both;
+  text-align:left;
+  }
+  
+#indexbottomcolumnstitletext 
+  {
+  color:#ff7f00;
+  font-size:16px;
+  font-weight:bold;
+  padding-left:10px;
+  padding-top:1px;
+  margin-bottom:2px;
+  }
+
+#indexbottomcolumnscontent 
+  {
+  float:left;
+  width:110px;
+  background-color: none;
+  padding-left:10px;
+  padding-top:7px;
+  }
+
+#indexbottomcolumnspic 
+  {
+  float:right;
+  width:90px;  
+  overflow: hidden;
+  border-left:1px grey solid;
+  height:130px;
+  background-color: white;
+  }
+
+.indexinput
+  {
+  border: 1px solid grey;
+  }
+
+#indexbannermessage
+  {
+  background-color: rgb(153,0,0);
+  opacity:0.8;
+  filter:alpha(opacity=80);
+  width:900px;
+  height:30px;
+  position: relative;
+  top:-45px;
+  color:white;
+  font-size: 22px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: hand;
+  z-index:100;
+  }
+
+/* FAMILY PAGE STYLES ------------------------------------------------------- */
+
+#familygallery
+  {
+  text-align: center;
+  }
+
+#familygallery ul
+  {
+  list-style: none;
+  padding:0px;
+  }
+
+#familygallery li
+  {
+  float:left;
+  padding: 0px 0px 0px 0px;
+  color:white;
+  }
+
+/* PREMOD PAGE STYLE -------------------------------------------------------- */
+#premodouter
+  {
+  clear: both;
+  background-color: none;
+  width:900px;
+  margin-bottom:15px;
+  overflow: hidden;
+  }
+
+#premoddesc
+  {
+  float:left;
+  width:500px;
+  background-color: none;
+  }
+
+#modoftheweekpic
+  {
+  float:left;
+  width:350px;
+  background-color: none;
+  padding-left: 25px;
+  }
+  
+#modoftheweekdesc
+  {
+  float:right;
+  width:500px;
+  background-color: none;
+  }
+
+#premodpic
+  {
+  float:right;
+  width:294px;
+  background-color: none;
+  padding-top:25px;
+  }
+  
+#premodlabel
+  {
+  font-size:12px;
+  position:relative;
+  top:3px;
+  }
+
+/* FOOTER ------------------------------------------------------------------- */
+
+#footercontainer
+  {
+  width:900px;
+  background-color:none;
+  overflow:hidden;
+  margin: 0 auto;
+  text-align: center;
+  height:30px;
+  font-size: 12px;
+  color:white;
+  padding:10px;
+  color:grey;
+  margin-bottom:15px;
+  }
+  
+#footercontainer a
+  {
+  color:grey;
+  text-decoration: none;
+  }
+
+/* Pre-loading for sandbox images ------------------------------------------- */
+
+div#preload 
+  {
+  display:none; 
+  }
+  
+/* Polaroid effect image settings ------------------------------------------- */
+
+#rotate_pic-1 {
+	z-index: 1;
+	     -moz-transform: rotate(3deg);  /* FF3.5+ */
+       -o-transform: rotate(3deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(3deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(3deg);  /* IE9 */
+          transform: rotate(3deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9986295347545738, M12=-0.05233595624294383, M21=0.05233595624294383, M22=0.9986295347545738); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9986295347545738, M12=-0.05233595624294383, M21=0.05233595624294383, M22=0.9986295347545738,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+  -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}
+#rotate_pic-2 {
+	z-index: 5;
+	     -moz-transform: rotate(5deg);  /* FF3.5+ */
+       -o-transform: rotate(5deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(5deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(5deg);  /* IE9 */
+          transform: rotate(5deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9961946980917455, M12=-0.08715574274765817, M21=0.08715574274765817, M22=0.9961946980917455); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9961946980917455, M12=-0.08715574274765817, M21=0.08715574274765817, M22=0.9961946980917455,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+                 -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}
+#rotate_pic-3 {
+	z-index: 3;
+	     -moz-transform: rotate(-2deg);  /* FF3.5+ */
+       -o-transform: rotate(-2deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(-2deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(-2deg);  /* IE9 */
+          transform: rotate(-2deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9993908270190958, M12=0.03489949670250097, M21=-0.03489949670250097, M22=0.9993908270190958); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9993908270190958, M12=0.03489949670250097, M21=-0.03489949670250097, M22=0.9993908270190958,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+                 -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}
+#rotate_pic-4 {
+	z-index: 2;
+	     -moz-transform: rotate(2deg);  /* FF3.5+ */
+       -o-transform: rotate(2deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(2deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(2deg);  /* IE9 */
+          transform: rotate(2deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9993908270190958, M12=-0.03489949670250097, M21=0.03489949670250097, M22=0.9993908270190958); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9993908270190958, M12=-0.03489949670250097, M21=0.03489949670250097, M22=0.9993908270190958,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+                 -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}
+#rotate_pic-5 {
+	z-index: 6;
+	     -moz-transform: rotate(7.5deg);  /* FF3.5+ */
+       -o-transform: rotate(7.5deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(7.5deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(7.5deg);  /* IE9 */
+          transform: rotate(7.5deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9914448613738104, M12=-0.13052619222005157,M21=0.13052619222005157, M22=0.9914448613738104); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9914448613738104, M12=-0.13052619222005157, M21=0.13052619222005157, M22=0.9914448613738104,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+                 -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}
+#rotate_pic-6 {
+	z-index: 4;
+		     -moz-transform: rotate(-2deg);  /* FF3.5+ */
+       -o-transform: rotate(-2deg);  /* Opera 10.5 */
+  -webkit-transform: rotate(-2deg);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate(-2deg);  /* IE9 */
+          transform: rotate(-2deg);  
+             filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', /* IE6,IE7 */ 
+                      M11=0.9993908270190958, M12=0.03489949670250097, M21=-0.03489949670250097, M22=0.9993908270190958); 
+         -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9993908270190958, M12=0.03489949670250097, M21=-0.03489949670250097, M22=0.9993908270190958,sizingMethod='auto expand')"; 
+                      /* IE8 */
+               zoom: 1;
+                 -moz-box-shadow: 0px 2px 15px #333;
+	box-shadow: 0px 2px 15px #333;
+	-webkit-box-shadow: 0px 2px 15px #333;
+	position: relative;
+}

@@ -1,0 +1,325 @@
+.fncysans {
+  font: 1em 'ColaborateLightRegular', Arial, sans-serif;
+}
+.fncysansB {
+  font: 1em 'ColaborateRegular', Arial, sans-serif;
+}
+.wShad {
+  text-shadow: 1px 1px 0px #FFF;
+}
+.grain {
+  background-image: url('../img/grain.png');
+}
+.sprt {
+  background-image: url('../images/default/sprt.png');
+}
+.inlinelist  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+.inlinelist  > ul  > li {
+  display: inline-block;
+}
+.fRight {
+  float: right;
+}
+.fLeft {
+  float: left;
+}
+.x {
+  width: 17px;
+  height: 17px;
+  display: inline-block;
+  margin-right: 5px;
+  background-position: 0px -113px;
+  position: relative;
+  top: 4px;
+  background-image: url('../images/default/sprt.png');
+}
+.x:hover {
+  background-color: #4f6386;
+  background-position: 0px -127px;
+}
+.share  > a.but {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-left: 5px;
+  position: relative;
+  top: 7px;
+  cursor: pointer;
+  background-image: url('../images/default/sprt.png');
+}
+.share  > .fb {
+  background-position: -21px -112px;
+}
+.share  > .fb:hover {
+  background-position: -21px -134px;
+}
+.share  > .twt {
+  background-position: -44px -112px;
+}
+.share  > .twt:hover {
+  background-position: -44px -134px;
+}
+.share  > .pin {
+  background-position: -67px -112px;
+}
+.share  > .pin:hover {
+  background-position: -67px -134px;
+}
+#Checkout {
+  width: 650px;
+  margin: 0 auto 35px;
+  font: 1em 'ColaborateLightRegular', Arial, sans-serif;
+}
+#Checkout #checkHead {
+  margin: 15px 0 30px;
+}
+#Checkout #checkHead img {
+  float: left;
+}
+#Checkout #checkHead #checkProg {
+  background-color: #f7f7f7;
+  border: 1px solid #cccccc;
+  margin-top: 15px;
+  float: right;
+  -webkit-border-radius: 5px;
+  /* Saf3-4, iOS 1-3.2, Android ≤1.6 */
+
+  border-radius: 5px;
+  /* Opera 10.5, IE9, Saf5, Chrome, FF4+, iOS 4, Android 2.1+ */
+
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+#Checkout #checkHead #checkProg  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#Checkout #checkHead #checkProg  > ul  > li {
+  display: inline-block;
+}
+#Checkout #checkHead #checkProg li {
+  text-shadow: 1px 1px 1px #FFF;
+  border-right: 1px solid #cccccc;
+  font-size: 0.9em;
+  padding: 6px 12px;
+  float: left;
+}
+#Checkout #checkHead #checkProg li div {
+  float: right;
+  font-size: 0.9em;
+}
+#Checkout #checkHead #checkProg li a {
+  color: #222;
+}
+#Checkout #checkHead #checkProg li span {
+  float: left;
+  font-size: 1.3em;
+  position: relative;
+  top: 4px;
+  margin-right: 9px;
+}
+#Checkout #checkHead #checkProg li.a {
+  color: #0046D6;
+  -webkit-box-shadow: inset 0 0 7px 2px #ededed;
+  /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+
+  box-shadow: inset 0 0 7px 2px #ededed;
+  -moz-box-shadow: inset 0 0 7px 2px #ededed;
+}
+#Checkout #checkHead #checkProg li.a a {
+  color: #0046D6;
+}
+#Checkout #checkHead #checkProg li:last-child {
+  border-right: none;
+}
+#Checkout #checkBody {
+  border: 1px solid #c2c2c2;
+  background-color: #FFF;
+  -webkit-border-radius: 4px;
+  /* Saf3-4, iOS 1-3.2, Android ≤1.6 */
+
+  border-radius: 4px;
+  /* Opera 10.5, IE9, Saf5, Chrome, FF4+, iOS 4, Android 2.1+ */
+
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+#Checkout #checkBody .lock {
+  width: 20px;
+  height: 28px;
+  margin-left: 10px;
+  background-image: url('../images/default/sprt.png');
+  background-position: -112px -44px;
+}
+#Checkout #checkBody .top {
+  padding: 20px;
+  color: #FFF;
+  font-size: 18px;
+  text-shadow: 1px 1px 5px #173471;
+  background-color: #7c8caf;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7c8caf), to(#2c406b));
+  /* Saf4+, Chrome */
+
+  background-image: -webkit-linear-gradient(top, #7c8caf, #2c406b);
+  /* Chrome 10+, Saf5.1+, iOS 5+ */
+
+  background-image: -moz-linear-gradient(top, #7c8caf, #2c406b);
+  /* FF3.6+ */
+
+  background-image: -o-linear-gradient(top, #7c8caf, #2c406b);
+  /* Opera 11.10+ */
+
+  background-image: linear-gradient(to bottom, #7c8caf, #2c406b);
+}
+#Checkout #checkBody .bottom {
+  background-color: #ececec;
+  padding: 20px;
+  text-align: center;
+  color: #242424;
+  border-top: 1px solid #c2c2c2;
+  font-size: 0.8em;
+}
+#Checkout #checkBody .BlockContent {
+  padding: 20px 20px;
+}
+#Checkout #checkBody .BlockContent .CheckoutRedeemCoupon {
+  background-color: #F5FBFF;
+  border: 1px solid #E6F1F7;
+  width: 586px;
+  font-size: 0.9em;
+}
+#Checkout #checkBody .BlockContent .CheckoutRedeemCoupon #apply_code {
+  padding: 4px 25px !important;
+}
+#Checkout #checkBody .BlockContent.CC {
+  background-color: #FFFEE6;
+  background-image: url('../images/default/geotrust.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+#Checkout #checkBody .BlockContent .CreateAccount {
+  width: 275px;
+  padding-right: 15px;
+}
+#Checkout #checkBody .BlockContent .AccountLogin {
+  width: 275px;
+  padding-left: 20px;
+}
+#Checkout #checkBody .BlockContent .AccountLogin dd {
+  padding-top: 0px;
+  margin-bottom: 10px;
+}
+#Checkout #checkBody .BlockContent .AccountLogin .Submit {
+  text-align: right;
+  margin-right: 5px;
+  margin-top: 15px;
+}
+#Checkout #checkBody .BlockContent.CreatingAccount .introMessage {
+  font: 1em 'ColaborateRegular', Arial, sans-serif;
+  text-align: center;
+}
+#Checkout #checkBody .BlockContent.CreatingAccount .Submit {
+  margin-left: 0px;
+}
+#Checkout #checkBody .BlockContent h4 {
+  margin: 10px 0;
+}
+#Checkout #checkBody .BlockContent p {
+  line-height: 1.4;
+}
+#Checkout #checkBody .BlockContent .PL40 {
+  padding: 0px;
+}
+#Checkout #checkBody .BlockContent dd,
+#Checkout #checkBody .BlockContent .Submit {
+  margin-left: 25px;
+}
+#Checkout #checkBody .BlockContent input[type="button"],
+#Checkout #checkBody .BlockContent input[type="submit"],
+#Checkout #checkBody .BlockContent input[type="reset"] {
+  color: #FFF;
+  border: 1px solid #142650;
+  padding: 7px 25px !important;
+  margin-bottom: 10px;
+  cursor: pointer;
+  text-shadow: 1px 1px 1px #173471;
+  background-color: #5473b2;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5473b2), to(#173471));
+  /* Saf4+, Chrome */
+
+  background-image: -webkit-linear-gradient(top, #5473b2, #173471);
+  /* Chrome 10+, Saf5.1+, iOS 5+ */
+
+  background-image: -moz-linear-gradient(top, #5473b2, #173471);
+  /* FF3.6+ */
+
+  background-image: -o-linear-gradient(top, #5473b2, #173471);
+  /* Opera 11.10+ */
+
+  background-image: linear-gradient(to bottom, #5473b2, #173471);
+  -webkit-border-radius: 4px;
+  /* Saf3-4, iOS 1-3.2, Android ≤1.6 */
+
+  border-radius: 4px;
+  /* Opera 10.5, IE9, Saf5, Chrome, FF4+, iOS 4, Android 2.1+ */
+
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+#Checkout #checkBody .BlockContent input[type="button"]:hover,
+#Checkout #checkBody .BlockContent input[type="submit"]:hover,
+#Checkout #checkBody .BlockContent input[type="reset"]:hover {
+  background-color: #7291d4;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7291d4), to(#2e52a0));
+  /* Saf4+, Chrome */
+
+  background-image: -webkit-linear-gradient(top, #7291d4, #2e52a0);
+  /* Chrome 10+, Saf5.1+, iOS 5+ */
+
+  background-image: -moz-linear-gradient(top, #7291d4, #2e52a0);
+  /* FF3.6+ */
+
+  background-image: -o-linear-gradient(top, #7291d4, #2e52a0);
+  /* Opera 11.10+ */
+
+  background-image: linear-gradient(to bottom, #7291d4, #2e52a0);
+}
+#Checkout #checkBody .BlockContent p.InfoMessage {
+  font-size: 0.9em;
+}
+#Checkout #checkBody .BlockContent ul.ShippingAddressList li {
+  border: 1px solid #E3E3E3;
+  padding: 10px 20px;
+}
+#Checkout #checkBody .BlockContent ul.ShippingProviderList {
+  padding: 0 20px;
+}
+#Checkout #checkBody .BlockContent .CreditCard dt {
+  min-height: 65px;
+  width: 190px;
+  font-weight: bold;
+  margin-right: 15px;
+  min-height: 65px;
+}
+#Checkout #checkBody .BlockContent .CreditCard dt div {
+  font-weight: normal;
+  font-size: 0.9em;
+  margin: 2px 0 0 12px;
+}
+#Checkout #checkBody .BlockContent .CreditCard dd {
+  margin-left: 200px;
+  min-height: 65px;
+}
+#Checkout #checkBody .BlockContent .CreditCard .Submit {
+  margin-top: 0px;
+}

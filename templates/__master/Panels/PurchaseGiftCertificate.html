@@ -1,0 +1,351 @@
+<div is="setsHeader">
+	<span class="welcomeText">Give the Gift of Dope Fashion<br/>
+    <span style="font-size:20px;">Build the perfect gift certificate. (Instructions Below)</span></span><br />
+</div>
+
+<p class="ErrorMessage" style="display: %%GLOBAL_HideErrorMessage%%">
+	%%GLOBAL_ErrorMessage%%
+</p>
+
+<div id="gcBody">
+
+		<form method="post" action="%%GLOBAL_ShopPath%%/giftcertificates.php?action=do_purchase" onsubmit="return CheckGiftCertificateForm()"  style="display: %%GLOBAL_HideGiftCertificateForm%%;" id="frmGiftCertificate">
+			<input type="hidden" name="cartitemid" value="%%GLOBAL_CartItemId%%" />
+				<div id="gcForm">
+                	<ul>
+                        <li>
+                            <span class="gcGreeting">
+                                    <span id="greeting">Hey</span> &nbsp;
+                                    <em class="gcDrop gcDropGreeting">
+                                            <img src="templates/modify/images/blue/giftcert/arrow.png" alt="Choose Amount" />
+                                    </em>
+                            </span>
+                            <ul class="selected_greeting">
+                                    <li>Hey</li>
+                                    <li>Dear</li>
+                                    <li>To</li>
+                                    <li>Hi</li>
+                                    <li>Yo</li>
+                            </ul>
+                        </li>
+                    </ul>
+					<input type="text" name="to_name" id="to_name" value="Recipient" onfocus="this.value=''" class="Textbox Field200" />
+					
+                    <textarea name="message" class="gcMessage" id="message" rows="3" cols="40" class="Field350">Here is an awesome Modify Watches gift certificate. Enjoy your gift!</textarea>
+                    <br />
+                    <small>(<span id="remaining">200</span> %%LNG_CharactersRemaining%%)</small>
+                    
+                    <div style="float:right;width:345px;margin-top:5px;">
+                        <ul>
+                            <li>
+                                <span class="gcSignoff">
+                                        <span id="signoff">From,</span> &nbsp;
+                                        <em class="gcDrop gcDropGreeting">
+                                                <img src="templates/modify/images/blue/giftcert/arrow.png" alt="Choose Amount" />
+                                        </em>
+                                </span>
+                                <ul class="selected_signoff">
+                                        <li>From,</li>
+                                        <li>Love,</li>
+                                        <li>To,</li>
+                                        <li>Bests,</li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <input type="text" name="from_name" id="from_name" value="Sender" onfocus="this.value=''" class="Textbox Field200" />
+                        
+                        <p class="Submit">
+	                        <span id="SaveCertificate2" />Add Gift Certificate to Cart</span> <br />
+                        </p>
+                    </div>
+               </div>
+               
+               <div id="gcAmount">
+               		Choose Amount:
+                	<div id="AmountSelectVisible">
+                 		<ul>
+                            <li>
+                                <span class="gcPrice">
+                                        <span id="priceSelected">$55</span> &nbsp;
+                                        <em class="gcDrop">
+                                                <img src="templates/modify/images/blue/giftcert/arrow.png" alt="Choose Amount" />
+                                        </em>
+                                </span>
+                                <ul class="selected_amount">
+                                        <li>$55</li>
+                                        <li>$100</li>
+                                        <li>Custom</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="CustomAmountVisible" style="display: none;">
+                    	<span class="gcPrice2">
+                                <span id="priceSelected">$</span><input id="certificate_amount" class="Textbox" value="%%GLOBAL_CustomCertificateAmount%%" />
+                        </span>
+                    </div>
+               </div>
+			
+              <div id="finalStep" style="display:none;">
+              </div>
+              
+              <div id="finalStepContent">
+              	  <div style="position:relative;left:-170px;top:15px;width:630px;">
+                  <p>
+              	  	<span class="welcomeText" style="font-size:24px;color:#FFF">Almost There!</span>
+                  </p>
+                  <p>
+                      <span class="Required">*</span> %%LNG_GiftCertificateFromEmail%%:
+                      <input type="text" style="width:225px;font-size:18px;" name="from_email" id="from_email" value="%%GLOBAL_CertificateFromEmail%%" class="Textbox Field200" />
+                  </p>
+                  <p>
+                      <span id="expiryInfo" style="display: %%GLOBAL_HideExpiryInfo%%">
+                          <label><input type="checkbox" class="CheckBox" name="agree" id="agree" value="1" %%GLOBAL_AgreeChecked%% /> %%GLOBAL_GiftCertificateTerms%%</label>
+                      </span>
+                      
+                      <label><input type="checkbox" class="CheckBox" name="agree2" id="agree2" value="1" %%GLOBAL_AgreeChecked%% /> %%LNG_GiftCertificateTerms2%%</label>
+                  </p>
+                  <p class="Submit">
+                  	<input type="submit" style="float:left;" value="%%GLOBAL_SaveGiftCertificateButton%%" id="SaveCertificate" />
+                    &nbsp;or <span id="closeModal" style="color:#1870FF;cursor:pointer;">Close This to Edit</span
+                  ></p>
+              </div>
+
+              <div style="display:none;">
+              	  <input type="hidden" name="certificate_amount" id="selected_amount_value" value="55" />
+                  <input type="hidden" name="greeting" id="selected_greeting_value" value="Hey" />
+                  <input type="hidden" name="signoff" id="selected_signoff_value" value="From," />
+                  <input type="hidden" name="certificate_theme" value="General.html"/>
+                  <span class="Required">*</span> %%LNG_GiftCertificateToEmail%%:
+                  <input type="text" name="to_email" id="to_email" value="%%GLOBAL_CertificateToEmail%%" class="Textbox Field200" />
+              </div>
+             </div>	
+			
+		</form>
+</div>
+
+<div class="blueBox full">
+	<span class="titleText">
+        	More Information:
+    </span>
+    <p>
+    	<ol>
+        	<li>Fill out the gift certificate form above. Choose a greeting, recipient, sender, and customize your own message! We suggested two different amounts, but you have the option to choose your own.</li>
+            <li>Click "Add Gift Certificate to Cart" </li>
+            <li>Go through the checkout process!</li>
+            <li>We'll email you your gift certificate. You can either forward the email, or print out the card and hand it to your lucky recipient.</li>
+        </ol>
+    </p>	
+</div>
+<script type="text/javascript">
+function ToggleCertificateAmount() {
+	if($('#CustomAmountVisible label').css('display') != "none" && $('#AmountSelectVisible label').css('display') != "none") {
+		if($('#custom_amount').attr('checked') == true) {
+			$('#SelectAmount').hide();
+			$('#CustomAmount').show();
+		}
+		else {
+			$('#SelectAmount').show();
+			$('#CustomAmount').hide();
+		}
+	}
+}
+
+function CheckGiftCertificateForm() {
+	if($('#to_name').val() == "") {
+		alert('%%LNG_EnterValidCertificateToName%%');
+		$('#to_name').focus();
+		$('#to_name').select();
+		return false;
+	}
+	
+
+	if($('#from_name').val() == "") {
+		alert('%%LNG_EnterValidCertificateFromName%%');
+		$('#from_name').focus();
+		$('#from_name').select();
+		return false;
+	}
+
+	if($('#from_email').val() == "" || $('#from_email').val().indexOf('.') == -1 || $('#from_email').val().indexOf('@') == -1) {
+		alert('%%LNG_EnterValidCertificateFromEmail%%');
+		$('#from_email').focus();
+		$('#from_email').select();
+		return false;
+	}
+	
+	if($('#to_email').val() == "" || $('#to_email').val().indexOf('.') == -1 || $('#to_email').val().indexOf('@') == -1) {
+		var text =  $('#from_email').val();
+		$('#to_email').val(text);
+	}
+
+	if($('#message').val().length > 200) {
+		alert('%%LNG_GiftCertificateMessageTooLong%%');
+		$('#message').focus();
+		$('#message').select();
+		return false;
+	}
+
+	if($('#CustomAmountVisible').css('display') == "none") {
+		if($('#selected_amount_value').val() == '') {
+			alert('%%LNG_SelectValidGiftCertificateAmount%%');
+			$('#selected_amount').focus();
+			return false;
+		}
+	}
+	else if($('#AmountSelectVisible').css('display') == "none") {
+		if(isNaN($('#certificate_amount').val()) || $('#certificate_amount').val() == 0) {
+			alert('%%LNG_EnterValidGiftCertificateAmount%%');
+			$('#certificate_amount').focus();
+			$('#certificate_amount').select();
+			return false;
+		}
+		else if('%%GLOBAL_GiftCertificateMinimum%%' != 0 && %%GLOBAL_GiftCertificateMinimum%% > $('#certificate_amount').val()) {
+			alert('%%LNG_EnterGiftCertificateValueBetween%%');
+			$('#certificate_amount').focus();
+			$('#certificate_amount').select();
+			return false;
+		}
+		else if('%%GLOBAL_GiftCertificateMaximum%%' != 0 && parseFloat($('#certificate_amount').val()) > %%GLOBAL_GiftCertificateMaximum%%) {
+			alert('%%LNG_EnterGiftCertificateValueBetween%%');
+			$('#certificate_amount').focus();
+			$('#certificate_amount').select();
+			return false;
+		}
+	}
+	else {
+		alert('%%LNG_SelectValidGiftCertificateAmount%%');
+		$('#selected_amount').focus();
+		return false;
+	}
+
+	if($("#expiryInfo").css('display') != "none" && $('#agree').attr('checked') != true) {
+		alert('%%LNG_PleaseAgreeGiftCertificateTerms%%');
+		$('#agree').focus();
+		$('#agree').select();
+		return false;
+	}
+
+	if($('#agree2').attr('checked') != "checked") {
+		alert('%%LNG_PleaseAgreeGiftCertificateTerms%%');
+		$('#agree2').focus();
+		$('#agree2').select();
+		return false;
+	}
+
+	return true;
+}
+
+function UpdateMessageRemaining(event) {
+	var remaining = 200 - $('#message').val().length;
+	if(remaining >= 0) {
+		$('#remaining').html(remaining);
+	}
+	else {
+		$('#remaining').html('0');
+		if(typeof(event) != "undefined") {
+			if(event.keyCode != 8) {
+				event.preventDefault();
+				return false;
+			}
+		}
+	}
+}
+
+function PreviewGiftCertificate() {
+	if(CheckGiftCertificateForm() == false) {
+		return false;
+	}
+
+	$.iModal({
+		type: 'iframe',
+		url: '%%GLOBAL_ShopPath%%/giftcertificates.php?action=preview&'+$('#frmGiftCertificate').serialize(),
+		width: 900,
+		height: 400,
+		closeTxt: true,
+		title: '%%GLOBAL_GiftCertificatePreviewModalTitle%%',
+		onClose : function() {
+			$.iModal.close();
+		}
+	});
+}
+
+
+$(document).ready(function() {
+	ToggleCertificateAmount();
+	$('#message').keyup(function(e) {
+		return UpdateMessageRemaining(e);
+	});
+	UpdateMessageRemaining();
+	
+	$('#SaveCertificate2').click(function() {
+		$("#finalStep").show();
+		$('#finalStepContent').show();
+	});
+	
+	$('#closeModal').click(function() {
+		$("#finalStep").hide();
+		$('#finalStepContent').hide();
+	});
+	
+	$('.selected_amount li').click(function() {
+		if($(this).html() == "Custom") {
+			$(".selected_amount").hide();
+			$("#AmountSelectVisible").hide();
+			$('#CustomAmountVisible').show();
+			$('#certificate_amount').focus();
+		}
+		else {
+			$(".selected_amount").hide();
+			var value = $(this).html();
+			$("#selected_amount_value").val(value.substr(1));
+			$("#priceSelected").html($(this).html());
+		}
+	});
+	
+	$('.selected_greeting li').click(function() {
+		$(".selected_greeting").hide();
+		var value = $(this).html();
+		$("#selected_greeting_value").val(value);
+		$("#greeting").html($(this).html());
+	});
+	
+	$('.selected_signoff li').click(function() {
+		$(".selected_signoff").hide();
+		var value = $(this).html();
+		$("#selected_signoff_value").val(value);
+		$("#signoff").html($(this).html());
+	});
+	
+	$('#certificate_amount').blur(function() {
+		var quantity = $(this).val();
+		if (!isNaN(parseInt(quantity))) {
+			$("#selected_amount_value").val(quantity);
+			$("#priceSelected").html("$"+quantity );
+			$("#AmountSelectVisible").show();
+			$('#CustomAmountVisible').hide();
+		}
+		else {
+			$('#quoteError').html('Please enter a whole number.');	
+		}
+	});
+	
+	$(".gcMessage").click(function() {
+		if($(this).html() == "Here is an awesome Modify Watches gift certificate. Enjoy your gift!") $(this).html('');
+	});
+	
+	$(".gcPrice").click(function(){
+    	$(".selected_amount").toggle();
+    });
+	
+	$(".gcGreeting").click(function(){
+    	$(".selected_greeting").toggle();
+    });
+	
+	$(".gcSignoff").click(function(){
+    	$(".selected_signoff").toggle();
+    });
+	
+});
+
+</script>

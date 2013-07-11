@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=49&amp;type=atom" />
+	<id>https://www.modifywatches.com</id>
+	<updated>2013-03-05T00:05:44Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+</feed>

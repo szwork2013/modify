@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: New Products - 11-Piece Father's Day Set]]></title>
+	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=109&amp;type=atom" />
+	<id>http://www.modifywatches.com</id>
+	<updated>2013-06-26T10:51:35Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-06-06T18:32:43Z</published>
+		<updated>2013-06-06T18:32:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Ultimate-ModiDads-Collection-%2811%252dPieces%29.html" />
+		<id>http://www.modifywatches.com/products/Ultimate-ModiDads-Collection-%2811%252dPieces%29.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Ultimate ModiDads Collection (11-Pieces)]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Ultimate-ModiDads-Collection-%2811%252dPieces%29.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Ultimate-ModiDads-Collection-%2811%252dPieces%29.html"  ><img src="http://www.modifywatches.com/product_images/b/712/IMG_2041__75768_thumb.jpg" alt="Ultimate ModiDads Collection (11-Pieces)" /></a></div><p>Save $75... yes SEVENTY-FIVE DOLLARS (!) on this 11-piece set perfect for Dad! Faces: Argyle, Stripe, Silver, Black &amp; Gold. Straps: Slate Grey, White, Brown, Sky Blue &amp; Green. Also includes the staple "ugly tie" for pops!</p><p><strong>Price: $145.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>Save $75... yes SEVENTY-FIVE DOLLARS (!) on this 11-piece set perfect for Dad! Faces: Argyle, Stripe, Silver, Black &amp; Gold. Straps: Slate Grey, White, Brown, Sky Blue &amp; Green. Also includes the staple "ugly tie" for pops!</p>]]></isc:description>
+		<isc:productid><![CDATA[2080]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/712/IMG_2041__75768_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/846/IMG_2041__24379_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$145.00]]></isc:price>
+	</entry>
+</feed>

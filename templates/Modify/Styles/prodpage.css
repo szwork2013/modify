@@ -1,0 +1,387 @@
+.museo {
+  font-family: 'Museo', Arial, sans-serif;
+}
+.fncysans {
+  font: 1em 'ColaborateLightRegular', Arial, sans-serif;
+}
+.fncysansB {
+  font: 1em 'ColaborateRegular', Arial, sans-serif;
+}
+.wShad {
+  text-shadow: 1px 1px 0px #FFF;
+}
+.grain {
+  background-image: url('../img/grain.png');
+}
+.sprt {
+  background-image: url('../images/default/sprt.png');
+}
+.inlinelist  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+.inlinelist  > ul  > li {
+  display: inline-block;
+}
+.fRight {
+  float: right;
+}
+.fLeft {
+  float: left;
+}
+.x {
+  width: 17px;
+  height: 17px;
+  display: inline-block;
+  margin-right: 5px;
+  background-position: -121px 3px;
+  position: relative;
+  top: 4px;
+  background-image: url('../images/default/sprt.png');
+}
+.x:hover {
+  background-color: #4f6386;
+  background-position: -121px -10px;
+}
+.share  > a.but {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  margin-left: 5px;
+  position: relative;
+  top: 7px;
+  cursor: pointer;
+  background-image: url('../images/default/sprt.png');
+}
+.share  > .fb {
+  background-position: -21px -112px;
+}
+.share  > .fb:hover {
+  background-position: -21px -134px;
+}
+.share  > .twt {
+  background-position: -44px -112px;
+}
+.share  > .twt:hover {
+  background-position: -44px -134px;
+}
+.share  > .pin {
+  background-position: -67px -112px;
+}
+.share  > .pin:hover {
+  background-position: -67px -134px;
+}
+/*  ------ Bread Crumb Bar ------- */
+.crumbbar {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  color: white;
+  font-size: 0.85em;
+}
+.crumbbar ul.crumbs {
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-image: none;
+  margin: 5px 0;
+}
+.crumbbar ul.crumbs  > li {
+  float: left;
+  list-style: none;
+  list-image: none;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.crumbbar ul.crumbs  > li  > a {
+  float: left;
+  color: #FFF;
+}
+.crumbbar ul.crumbs  > li  > span {
+  width: 10px;
+  height: 35px;
+  display: inline-block;
+  background-position: -137px -115px;
+  margin: 0px 20px;
+  padding: 0px;
+  float: left;
+  background-image: url('../images/default/sprt.png');
+}
+.crumbbar ul.crumbs  > li:after {
+  content: "»";
+  margin: 15px;
+  position: relative;
+}
+.crumbbar ul.crumbs  > li:last-child:after {
+  content: "";
+}
+.crumbbar .share {
+  float: right;
+}
+/*  ------ Main Content Containers ------- */
+#container {
+  position: relative;
+  padding: 0;
+}
+#container.padding {
+  padding-top: 60px;
+}
+div[role=main] {
+  width: 1150px;
+  margin: 0 auto;
+}
+/*  ------ Individual Product Page ------- */
+#leftContent {
+  width: 300px;
+  margin-right: 55px;
+  float: left;
+}
+#leftContent  > #mainImage {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+#leftContent  > #mainImage img {
+  width: 300px;
+}
+#leftContent  > #mainImage img.face {
+  position: relative;
+  top: -300px;
+}
+#leftContent  > #altViews {
+  margin-bottom: 30px;
+}
+#leftContent  > #altViews  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#leftContent  > #altViews  > ul  > li {
+  display: inline-block;
+}
+#leftContent  > #altViews ul {
+  text-align: center;
+}
+#leftContent .ProductThumb {
+  margin-bottom: 15px;
+}
+#leftContent .AddThisButtonBox {
+  margin-bottom: 15px;
+}
+#leftContent  > .otherImages {
+  text-align: center;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 35px;
+}
+#leftContent  > .otherImages  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#leftContent  > .otherImages  > ul  > li {
+  display: inline-block;
+}
+#leftContent  > .otherImages ul {
+  margin-top: 15px;
+}
+#leftContent  > .otherImages ul li {
+  float: left;
+  margin-bottom: 15px;
+}
+#leftContent  > .otherImages ul li img {
+  width: 100px;
+}
+#leftContent  > .otherImages ul li.mid {
+  margin: 0 3px;
+}
+#rightContent {
+  width: 795px;
+  float: right;
+  color: #4c4e47;
+}
+#rightContent .block {
+  border-bottom: 1px solid #eef0e5;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+#rightContent .block#name  > div:first-child {
+  float: left;
+}
+#rightContent .block h1 {
+  margin: 0px 0px 10px;
+  padding: 0px;
+  font-size: 2.2em;
+  font-weight: normal;
+  border-bottom: 1px solid #9fe531;
+  color: #808285;
+  line-height: 1.3;
+  font-family: 'Museo', Arial, sans-serif;
+}
+#rightContent .block h3 {
+  font-size: 1em;
+  margin: 5px 0;
+}
+#rightContent .block .price {
+  font: 1em 'ColaborateRegular', Arial, sans-serif;
+  font-size: 1.6em;
+  color: #76B163;
+}
+#rightContent .block .named {
+  display: block;
+  margin-bottom: 10px;
+  color: #808285;
+  font-size: 0.9em;
+}
+#rightContent .block .size {
+  background-image: url(../images/default/lgscan.png);
+  padding: 10px;
+  text-align: center;
+  float: left;
+}
+#rightContent .block .size  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#rightContent .block .size  > ul  > li {
+  display: inline-block;
+}
+#rightContent .block .size  > div {
+  font-size: 0.8em;
+  padding-bottom: 9px;
+}
+#rightContent .block .size  > div span {
+  color: black;
+  text-transform: uppercase;
+}
+#rightContent .block .size .red {
+  color: #e43f3d;
+}
+#rightContent .block .size #filtSize {
+  font-family: inherit;
+}
+#rightContent .block .size #filtSize  > li {
+  padding: 10px 35px;
+  border: 1px solid #8f8f8f;
+  background-color: #FFF;
+  font-family: inherit;
+  font-weight: bold;
+}
+#rightContent .block .size #filtSize  > li.a[title=Mini],
+#rightContent .block .size #filtSize  > li.a[title=Classic] {
+  background-color: #718D47;
+  color: #FFF;
+  text-shadow: none;
+}
+#rightContent .block .add {
+  float: left;
+  margin: 25px 15px;
+}
+#rightContent .block .ctaBut.cart {
+  font-size: 0.9em;
+  padding: 15px 35px;
+}
+#rightContent .block .nBut {
+  padding: 15px 35px;
+  box-shadow: none;
+}
+#rightContent .block .ProductDescriptionContainer {
+  line-height: 1.8;
+  font-size: 0.9em;
+}
+#rightContent .block .ProductDescriptionContainer .funny {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+#rightContent .block p {
+  margin: 0px;
+  padding: 0px;
+  line-height: 1.7;
+  text-align: justify;
+}
+#rightContent .block#made  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#rightContent .block#made  > ul  > li {
+  display: inline-block;
+}
+#rightContent .block#made  > span {
+  float: left;
+  margin: 35px 20px 0 0;
+}
+#rightContent .block#made ul {
+  float: left;
+}
+#rightContent .block#made ul li {
+  float: left;
+  margin-right: 20px;
+}
+#rightContent .block#made ul li figure {
+  width: 65px;
+  line-height: 1.3;
+  text-align: center;
+}
+#rightContent .block#made ul li figure img {
+  width: 65px;
+  border: 1px solid #eef0e6;
+  margin-bottom: 5px;
+}
+#rightContent .block#made ul li figure figcaption {
+  color: #878783;
+  font-size: 0.85em;
+}
+#rightContent .block#details {
+  border-bottom: none;
+  font-size: 1.1em;
+}
+#rightContent .block#details  > ul {
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+#rightContent .block#details  > ul  > li {
+  display: inline-block;
+}
+#rightContent .block#details ul {
+  margin-top: 15px;
+  font-size: 0.9em;
+}
+#rightContent .block#details ul li {
+  padding: 10px 0;
+  border-bottom: 1px dashed #C7C7C7;
+  width: 100%;
+}
+#rightContent .block#details ul li .label {
+  width: 140px;
+  color: #7a7a7a;
+  display: inline-block;
+}
+#rightContent .block#comments {
+  font-size: 1.8em;
+  color: #7a7a7a;
+  text-align: center;
+  border-bottom: none;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+#rightContent .block#comments .fb-comments {
+  margin-top: 20px;
+}
+#FastProductDetails #leftContent {
+  margin-right: 0px;
+}
+#FastProductDetails #rightContent {
+  width: 410px;
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+	<channel>
+	<title>Product Knowledge Base - Shopping Cart</title>
+	<link>https://www.viewkb.com</link>
+	<description />
+	<language>en-us</language>
+	<copyright>https://www.viewkb.com</copyright>
+	<generator>ActiveKB NX</generator>
+	<webMaster>help@viewkb.com</webMaster>
+	<lastBuildDate>Wed, 26 Jun 2013 13:30:02 CDT</lastBuildDate>
+	<ttl>20</ttl>
+	<item>
+		<title>How can I create and assign a variation to a product?</title>
+		<link>https://www.viewkb.com/questions/731/</link>
+		<description>Product variations allow you to sell one product with multiple options. For example, if you sell t-shirts, then you might want to offer the same t-shirt in different sizes, colors and styles. In t ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Mon, 12 May 2008 03:21:21 GMT</pubDate>
+	</item>
+	<item>
+		<title>How do I pass order details back to my affiliate program?</title>
+		<link>https://www.viewkb.com/questions/805/</link>
+		<description>Your affiliate tracking program will provide you with conversion tracking code, which will contain simple HTML or JavaScript and may look something like this:&amp;lt;img border=&quot;0&quot; src=&quot;https://www.YO ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Mon, 12 May 2008 03:20:02 GMT</pubDate>
+	</item>
+	<item>
+		<title>How does the applications API work?</title>
+		<link>https://www.viewkb.com/questions/683/</link>
+		<description>What is an API?An API (or application programming interface) is a way to programatically extract data from your store in a common XML file format. You can then manipulate the XML using a scripting ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Mon, 12 May 2008 03:51:17 GMT</pubDate>
+	</item>
+	<item>
+		<title>How do I import images when importing products?</title>
+		<link>https://www.viewkb.com/questions/718/</link>
+		<description>When importing products into your store from the Products -&amp;gt; Import Products page, you can specify which field in your CSV file contains details about the product&#039;s image. Product images can be ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Mon, 28 Jan 2008 23:54:46 GMT</pubDate>
+	</item>
+	<item>
+		<title>How do I create shipping and tax zones based on zip or postal codes?</title>
+		<link>https://www.viewkb.com/questions/850/</link>
+		<description>If you would like to setup shipping and tax zones by certain postal or zip codes then the shopping cart supports this. If you are setting up a zone for just a couple postal or zip codes then this  ...</description>
+		<author>Chris Boulton</author>
+		<pubDate>Tue, 27 Jul 2010 23:57:14 GMT</pubDate>
+	</item>
+	<item>
+		<title>Selling on eBay</title>
+		<link>https://www.viewkb.com/questions/899/</link>
+		<description>What is eBay?
+eBay is an online auction website that allows businesses and people to sell a variety of goods worldwide. As with your store, items are listed in categories to allow potential buyer ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Thu, 08 Jul 2010 04:57:08 GMT</pubDate>
+	</item>
+	<item>
+		<title>Importing Product Variations</title>
+		<link>https://www.viewkb.com/questions/870/</link>
+		<description>This article describes the format of data required to import product variations into the system. This function allows you to create a new variation and assign it to a product in the one step. You  ...</description>
+		<author>Chris Boulton</author>
+		<pubDate>Tue, 21 Jul 2009 07:41:11 GMT</pubDate>
+	</item>
+	<item>
+		<title>How do I use the Bulk Discount Rules for my products?</title>
+		<link>https://www.viewkb.com/questions/852/</link>
+		<description>Discount Rules allow you to set bulk discounts for products. A bulk
+discount is when a customer purchases a certain amount of a product,
+then they will receive a discount per item based upon the ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Wed, 15 Oct 2008 01:59:23 GMT</pubDate>
+	</item>
+	<item>
+		<title>How to export products and customers for bulk editing</title>
+		<link>https://www.viewkb.com/questions/891/</link>
+		<description>This article explains the process of exporting product or customer data in a format for bulk editing, that can then be reimported into your store.
+Why can&#039;t I use my own Export Template?
+Product ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Wed, 24 Mar 2010 05:45:14 GMT</pubDate>
+	</item>
+	<item>
+		<title>How can I configure a checkout module?</title>
+		<link>https://www.viewkb.com/questions/706/</link>
+		<description>To configure a checkout module simply follow these steps:Click the Settings tab and choose the Checkout Settings menu optionUnder the Checkout Methods section you will see a list of checkout metho ...</description>
+		<author>Eddie Machaalani</author>
+		<pubDate>Mon, 12 May 2008 03:33:08 GMT</pubDate>
+	</item>
+	</channel>
+</rss>

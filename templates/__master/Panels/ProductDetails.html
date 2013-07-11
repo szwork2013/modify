@@ -1,0 +1,123 @@
+<script type="text/javascript" src="%%GLOBAL_AppPath%%/javascript/jquery/plugins/jCarousel/jCarousel.js?%%GLOBAL_JSCacheToken%%"></script>
+%%SNIPPET_ProductImageZoomer%%
+
+<script type="text/javascript">//<![CDATA[
+var ThumbURLs = new Array();
+var ProductImageDescriptions = new Array();
+var CurrentProdThumbImage = %%GLOBAL_CurrentProdThumbImage%%;
+var ShowVariationThumb =false;
+var ProductThumbWidth = %%GLOBAL_ProductThumbWidth%%;
+var ProductThumbHeight =  %%GLOBAL_ProductThumbHeight%%;
+var ProductMaxZoomWidth = %%GLOBAL_ProductMaxZoomWidth%%;
+var ProductMaxZoomHeight =  %%GLOBAL_ProductMaxZoomHeight%%;
+var ProductTinyWidth = %%GLOBAL_ProductMaxTinyWidth%%;
+var ProductTinyHeight =  %%GLOBAL_ProductMaxTinyHeight%%;
+
+%%GLOBAL_ProdImageJavascript%%
+
+var ShowImageZoomer = %%GLOBAL_ShowImageZoomer%%;
+
+var productId = %%GLOBAL_ProductId%%;
+//]]></script>
+%%Discount.FreeShippingEligibility%%
+<div class="Block Moveable Panel PrimaryProductDetails" id="ProductDetails">
+	<div class="BlockContent">
+		%%GLOBAL_ProductDetailFlashMessages%%
+
+		<div id="leftContent">
+			<div class="ProductThumb" style="%%GLOBAL_HideProductThumb%%">
+				%%GLOBAL_LightBoxImageJavascript%%
+				%%SNIPPET_ProductThumbImage%%
+
+				<div class="ImageCarouselBox" style="margin:0 auto; %%GLOBAL_HideImageCarousel%%">
+					<a id="ImageScrollPrev" class="prev" href="#"><img src="%%GLOBAL_IMG_PATH%%/LeftArrow.png" alt="" width="20" height="20" /></a>
+
+					<div class="ProductTinyImageList">
+						<ul>
+							%%SNIPPET_ProductTinyImages%%
+						</ul>
+					</div>
+
+					<a id="ImageScrollNext" class="next" href="#"><img src="%%GLOBAL_IMG_PATH%%/RightArrow.png" alt="" width="20" height="20" /></a>
+				</div>
+				<div style="%%GLOBAL_HideMorePicturesLink%%" class="SeeMorePicturesLink">
+					<a href="#" onclick="%%GLOBAL_TinyImageClickJavascript%% return false;" class="ViewLarger">%%GLOBAL_SeeMorePictures%%</a>
+				</div>
+			</div>
+			
+			%%GLOBAL_AddThisLink%%
+			
+			%%Panel.ProductOtherProductsByCustomerViews%%
+		</div>
+		<div id="rightContent">
+			<div id="name" class="block">
+				<div>
+					%%GLOBAL_ProductNameOptimizerScriptTag%%
+						<h1>%%GLOBAL_ProductName%%</h1>
+					%%GLOBAL_ProductNameOptimizerNoScriptTag%%
+					<p class="funny" style="%%GLOBAL_ShowFunnyDescription%%">%%GLOBAL_FunnyDescription%%</p>
+					<span class="named">Named By %%GLOBAL_ProductNamedBy%%</span>
+					<span style="%%GLOBAL_HidePrice%%" class="price">
+						%%GLOBAL_ProductPrice%%
+						%%GLOBAL_IncludingExcludingTax%% %%GLOBAL_YouSave%%
+					</span>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="block">
+				%%SNIPPET_ProductAddToCart%%
+				<div style="clear:both;"></div>
+			</div>
+			%%Panel.ProductDescription%%
+			%%Panel.ProductMadeBy%%
+			<!--%%GLOBAL_FacebookLikeButtonAbove%% -->
+			<div class="ProductDetailsGrid">
+
+				<div class="DetailRow" style="display: %%GLOBAL_HideRating%%">
+					<div class="Label">%%LNG_Rating%%:</div>
+					<div class="Value">
+						<img width="64" height="12" src="%%GLOBAL_IMG_PATH%%/IcoRating%%GLOBAL_Rating%%.gif" alt="" />
+						<span style="display:%%GLOBAL_HideReviewLink%%">(
+							<a href="#reviews" onclick="%%GLOBAL_ReviewLinkOnClick%%">
+								%%GLOBAL_ReviewLinkText%%
+							</a>
+						)</span>
+					</div>
+				</div>
+
+				<div class="DetailRow" style="display: %%GLOBAL_HideAvailability%%">
+					<div class="Label">%%LNG_Availability%%:</div>
+					<div class="Value">
+						%%GLOBAL_Availability%%
+					</div>
+				</div>
+
+				<div class="DetailRow" style="display: %%GLOBAL_HideShipping%%">
+					<div class="Label">%%LNG_Shipping%%:</div>
+					<div class="Value">
+						%%GLOBAL_ShippingPrice%%
+					</div>
+				</div>
+			</div>
+			%%SNIPPET_ProductExpectedReleaseDate%%
+			<!-- %%GLOBAL_FacebookLikeButtonBelow%% -->
+			<div id="details" class="block">
+				More Details
+				<ul>
+					<li style="display:%%GLOBAL_DisplayStrapMat%%"><span class="label">Strap Material</span><span class="desc">Rubber</span></li>
+					<li style="display:%%GLOBAL_DisplayFaceMat%%"><span class="label">Face Material</span><span class="desc">Plastic and Stainless Steel</span></li>
+					<li><span class="label">Design Origin</span><span class="desc">Atlanta, GA</span></li>
+					<li><span class="label">Water Resistance</span><span class="desc">Up to 3ATM</span></li>
+					<li><span class="label">Scratch Resistant</span><span class="desc">Yes</span></li>
+				</ul>
+			</div>
+			<div id="comments" class="block">
+				<h3 class="headerText">Love it? Want it? Own it? Tell us about it!</h3>
+				<div class="fb-comments" data-href="%%GLOBAL_ProductLink%%" data-num-posts="10" data-width="795"></div>
+			</div>
+		</div>
+
+		<br class="Clear" />
+		<hr />
+	</div>
+</div>

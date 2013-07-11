@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=27&amp;type=atom" />
+	<id>https://www.modifywatches.com</id>
+	<updated>2012-04-15T21:56:39Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2011-11-27T18:22:50Z</published>
+		<updated>2011-11-27T18:22:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Alli-R.S.-No%2C-wait.-A.-Royce-Soble.html" />
+		<id>http://www.modifywatches.com/products/Mini-Alli-R.S.-No%2C-wait.-A.-Royce-Soble.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mini Alli R.S. No, wait. A. Royce Soble]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Alli-R.S.-No%2C-wait.-A.-Royce-Soble.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Alli-R.S.-No%2C-wait.-A.-Royce-Soble.html"  ><img src="https://www.modifywatches.com/product_images/c/311/fav3__91361_thumb.jpg" alt="Mini Alli R.S. No, wait. A. Royce Soble" /></a></div><p>White and Purple Polka Faces. White, Light Blue and Light Gray Straps</p><p><strong>Price: $85.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>White and Purple Polka Faces. White, Light Blue and Light Gray Straps</p>]]></isc:description>
+		<isc:productid><![CDATA[131]]></isc:productid>
+		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/c/311/fav3__91361_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://www.modifywatches.com/product_images/u/804/fav3__85216_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$85.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2011-11-27T18:23:13Z</published>
+		<updated>2011-11-27T18:23:13Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Shinoid.html" />
+		<id>http://www.modifywatches.com/products/Mini-Shinoid.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mini Shinoid]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Shinoid.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Shinoid.html"  ><img src="https://www.modifywatches.com/product_images/y/504/fav2__00637_thumb.jpg" alt="Mini Shinoid" /></a></div><p>All 3 polkas, 4 great straps (White, Blue, Black, Lime Green)</p><p><strong>Price: $125.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>All 3 polkas, 4 great straps (White, Blue, Black, Lime Green)</p>]]></isc:description>
+		<isc:productid><![CDATA[132]]></isc:productid>
+		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/y/504/fav2__00637_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://www.modifywatches.com/product_images/x/363/fav2__53917_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$125.00]]></isc:price>
+	</entry>
+</feed>

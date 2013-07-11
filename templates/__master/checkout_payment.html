@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+%%Panel.HTMLHead%%
+<body>
+	<div id="Checkout" style="clear:both;">
+		<div id="checkHead">
+			<a href="%%GLOBAL_ShopPath%%/cart.php"><img src="templates/Modify/images/default/blogo.png" alt="Modify Watches" /></a>
+			<div id="checkProg">
+				<ul>
+					<li>
+						<span>1.</span>
+						<div>Checkout<br/>Type</div>
+						<br class="Clear" />
+					</li>
+					<li>
+						<span><a href="checkout.php?action=choose_billing_address">2.</a></span>
+						<div><a href="checkout.php?action=choose_billing_address">Billing<br/>Address</a></div>
+						<br class="Clear" />
+					</li>
+					<li>
+						<span><a href="checkout.php?action=choose_shipping_address">3.</a></span>
+						<div><a href="checkout.php?action=choose_shipping_address">Shipping<br/>Address</a></div>
+						<br class="Clear" />
+					</li>
+					<li>
+						<span><a href="checkout.php?action=confirm_order">4.</a></span>
+						<div><a href="checkout.php?action=confirm_order">Confirm<br/>Order</a></div>
+						<br class="Clear" />
+					</li>
+					<li class="a">
+						<span>5.</span>
+						<div>Payment<br/>Details</div>
+						<br class="Clear" />
+					</li>
+				</ul>
+			</div>
+			<br class="Clear" />
+		</div>
+		<div id="checkBody">
+			<div class="top">
+				<span>Pay For Order</span>
+				<div class="lock fRight"></div>
+				<span class="fRight">%%LNG_SecureCheckout%%</span>
+			</div>
+			
+			<div class="BlockContent CC">
+				%%GLOBAL_PaymentFormContent%%
+				<br class="Clear" />
+			</div><!-- End BlockContent -->
+			
+			<div class="bottom">
+				If you have any problems during checkout, please e-mail us at <a href="mailto:help@modifywatches.com">help@modifywatches.com</a> :)
+			</div>
+			
+		</div><!-- End CheckBody -->
+	</div><!-- End Checkout -->
+</body>
+</html>

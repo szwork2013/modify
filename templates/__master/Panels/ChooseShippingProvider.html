@@ -1,0 +1,33 @@
+<div class="top" style="display:%%GLOBAL_HideShippingProviderList%%">
+	<span>%%LNG_ChooseShippingProvider%%</span>
+	<div class="lock fRight"></div>
+	<span class="fRight">%%LNG_SecureCheckout%%</span>
+</div>
+<div class="BlockContent" style="display:%%GLOBAL_HideShippingProviderList%%">
+	<form action="%%GLOBAL_ShopPath%%/checkout.php?action=save_shipper" method="post" onsubmit="return Checkout.ChooseShippingProvider()">
+		%%GLOBAL_ShippingQuotes%%
+
+		<div class="ML20">
+			<input type="submit" value="%%LNG_Continue%%" />
+		</div>
+		%%GLOBAL_DeliveryDisclaimer%%
+	</form>
+</div>
+
+<div class="top" style="display:%%GLOBAL_HideNoShippingProviders%%">
+	<span>%%LNG_Oops%%</span>
+	<div class="lock fRight"></div>
+	<span class="fRight">%%LNG_SecureCheckout%%</span>
+</div>
+<div class="BlockContent" style="display:%%GLOBAL_HideNoShippingProviders%%">
+	<p class="ErrorMessage">
+		%%GLOBAL_ShippingError%% <a href="javascript:history.go(-1)">%%LNG_TryAgain%%</a>
+	</p>
+	<p>%%LNG_CouldNotShipFollowingItems%%</p>
+	<ul>
+		%%GLOBAL_ItemList%%
+	</ul>
+</div>
+<script type="text/javascript">
+	lang.PleaseChooseShippingProvider = "%%LNG_PleaseChooseShippingProvider%%";
+</script>

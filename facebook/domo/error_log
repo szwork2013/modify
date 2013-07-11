@@ -1,0 +1,32 @@
+[03-Dec-2011 01:31:29] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 50
+[03-Dec-2011 01:33:02] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 51
+[03-Dec-2011 01:33:35] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 51
+[03-Dec-2011 01:39:16] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 45
+[03-Dec-2011 01:40:12] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 45
+[03-Dec-2011 01:44:24] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:44:24] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 72
+[03-Dec-2011 01:44:28] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:44:28] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 72
+[03-Dec-2011 01:44:47] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:44:47] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 71
+[03-Dec-2011 01:47:07] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:47:07] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 01:47:09] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:47:09] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 01:49:51] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:49:51] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 01:49:57] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:49:57] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 01:52:31] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 01:52:31] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 01:52:40] PHP Fatal error:  Call to undefined function  parsepagesignedrequest() in /home1/modiwatc/public_html/facebook/domo/index.php on line 73
+[03-Dec-2011 13:03:08] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 13:03:08] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 14:16:29] Unknown algorithm. Expected HMAC-SHA256
+[03-Dec-2011 23:08:12] Unknown algorithm. Expected HMAC-SHA256
+[04-Dec-2011 11:21:32] Unknown algorithm. Expected HMAC-SHA256
+[04-Dec-2011 13:48:26] Unknown algorithm. Expected HMAC-SHA256
+[04-Dec-2011 16:00:33] Unknown algorithm. Expected HMAC-SHA256
+[04-Dec-2011 18:37:49] Unknown algorithm. Expected HMAC-SHA256
+[05-Dec-2011 17:55:59] Unknown algorithm. Expected HMAC-SHA256
+[05-Dec-2011 17:56:33] Unknown algorithm. Expected HMAC-SHA256

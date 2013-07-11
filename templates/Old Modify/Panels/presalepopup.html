@@ -1,0 +1,46 @@
+<div id="presalePopup">
+	<div class="thingy">
+    	<a href="#" id="presale_close" class="presale_close">Close</a>
+    </div>
+</div>
+<script type="text/javascript">
+$(function() {
+	init_presale();
+
+function init_presale(){
+        $('#presalePopup').hide();
+		
+        cks = document.cookie.split( ';' );
+        var show=true;
+        for(i=0;i<cks.length;i++){
+            parts = cks[i].split('=');
+			if( parts[0].indexOf('PresaleClosed')!= -1 ) show = false; 
+        }
+        if (show){
+            $('#presalePopup a.presale_close').show();
+            $('#presalePopup').fadeIn();
+	        $('#presalePopup a.presale_close').click(function(){ mcEvilPopupClose();});
+        }
+
+        $(document).keydown(function(e){
+            if (e == null) { 
+              keycode = event.keyCode;
+            } else { 
+              keycode = e.which;
+            }
+            if(keycode == 27){
+                mcEvilPopupClose();
+            }
+        });
+
+        function mcEvilPopupClose(){
+            $('#presalePopup').hide();
+            var now = new Date();
+            var expires_date = new Date( now.getTime() + 31536000000 );
+            document.cookie = 'PresaleClosed=yes;expires=' + expires_date.toGMTString()+';path=/';
+        }
+}
+
+});
+
+</script>

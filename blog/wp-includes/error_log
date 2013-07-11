@@ -1,0 +1,2 @@
+[18-Nov-2011 03:29:51] PHP Fatal error:  Call to undefined function  add_action() in /home1/modiwatc/public_html/blog/wp-includes/theme.php on line 1169
+[18-Nov-2011 03:29:57] PHP Fatal error:  Call to undefined function  add_action() in /home1/modiwatc/public_html/blog/wp-includes/theme.php on line 1169

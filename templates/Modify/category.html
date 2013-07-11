@@ -1,0 +1,167 @@
+%%Panel.HTMLHead%%
+
+<body class="ggrad">
+	%%Panel.Header%%
+	<script type="text/javascript">
+		$(function() {
+			$("#helpme .nBut").click(function() {
+				$.fancybox({
+						'padding'       : 0,
+						'autoScale'     : false,
+						'transitionIn'  : 'none',
+						'transitionOut' : 'none',
+						'title'         : this.title,
+						'width'     : 680,
+						'height'        : 495,
+						'href'          : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+						'type'          : 'swf',
+						'swf'           : {
+							 'wmode'        : 'transparent',
+							'allowfullscreen'   : 'true'
+						}
+					});
+
+				return false;
+			});
+		});
+	</script>
+	<div id="container" class="nopad">
+		%%Panel.ShopNavigation%%
+	</div>
+	<div class="container" class="nopad">
+		<div class="gradBG small">
+		</div>
+		
+		<div id="main" role="main" class="fncysans wShad">
+		  
+			%%Panel.WrapperBanner%%
+			%%Panel.SandboxWalkthrough%%
+			<div id="helpme" style="
+				padding: 0 0 30px;
+				text-align: center;
+			">
+				<a href="http://www.youtube.com/watch?v=do013Xs-IEo" class="nBut" style="padding:12px 20px;">Need Help Modifying?</a>
+				<a href="http://www.youtube.com/watch?v=GT86iWiH2mI" class="nBut">Need a Laugh?</a>
+			</div>
+			<div id="sboxSide">
+				%%Panel.SideCategoryList%%
+				<!--%%SideCategoryShopByPrice%%
+				%%SideCategoryTopSellers%%
+				%%SideCategoryPopularProducts%%
+				%%SideCategoryNewProducts%%-->
+			</div>
+		
+			<div id="sboxMain">
+				<header class="heavyHeader">%%GLOBAL_ProductTitleText%%</header>
+				%%Panel.CategoryTopBar%%
+				%%Banner.TopBanner%%
+				<div id="sboxCats">
+					<div style="display:none;">
+						%%Panel.CategoryHeading%%
+						%%Panel.CategoryPagingTop%%
+						%%Panel.CategoryContent%%
+						%%Panel.CategoryPagingBottom%%
+					</div>
+				</div>
+				%%Banner.BottomBanner%%
+			</div>
+			
+			<div id="sboxPreview">
+				%%Panel.SandboxPreview%%
+			</div>
+			<div id="contentLoading"></div>
+			<br class="Clear" />
+		</div>
+	%%Panel.Footer%%
+	</div>
+
+%%Panel.BootstrapCategories%%
+
+<span>
+	<script type="text/template" id="walkthrough-template">
+			<span class="fncyBlanche"><%= stepNum %></span>
+			<div>
+				<header><%= title %></header>
+				<span class="copy"><%= instructions %></span>
+			</div>
+			<br class="Clear">
+	</script>
+
+	<script type="text/template" id="categoryheader-template">
+		<div class="BlockContent">
+			<h2><%= name %></h2>
+
+			<div class="CategoryDescription">
+				<%= description %>
+			</div>
+		</div>
+	</script>
+
+	<script type="text/template" id="sortoption-template">
+		<%= name %>
+	</script>
+
+	<script type="text/template" id="sortbox-template">
+		<form style="display:none;" action="<%= formaction %>" method="get">
+			
+			<label class="fncysansB" for="sort"><%= label %>:</label>
+			<select name="sort" id="sort" onchange="this.form.submit()">
+			</select>
+		</form>
+	</script>
+
+	<script type="text/template" id="breadcrumb-template">
+		<% if (active == false && typeof(link) != "undefined") { %><a href="<%= link %>"><% }%><%= name %><% if (active == false && typeof(link) != "undefined") { %></a><% }%>
+	</script>
+
+	<script type="text/template" id="option-template">
+		<div></div>
+		<% if (typeof(link) != "undefined") { %><a href="<%= link %>"><% }%><%= name %><% if (typeof(link) != "undefined") { %></a><% }%>
+	</script>
+
+	<script type="text/template" id="selector-template">
+	</script>
+
+	<script type="text/template" id="filter-template">
+		<h4><%= title %></h4>
+	</script>
+
+	<script type="text/template" id="category-template">
+		<a href="<%= link %>"><%= name %></a>
+	</script>
+
+	<script type="text/template" id="product-template">
+		<%= image %>
+		<div>
+			<a class="nBut visualize" href="#">Add to Visualizer</a>
+			<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>
+		</div>
+		<a href="<%= link %>" class="">
+			<figcaption>
+				<%= name %><br>
+				<span><%= price %></span><br>
+			</figcaption>
+		</a>
+
+		<div class="ProductCompareButton" style="display:none">
+			<input type="checkbox" class="CheckBox" name="compare_product_ids" id="compare_<%= id %>" value="<%= id %>" onclick="product_comparison_box_changed(this.checked)"> <label for="compare_<%= id %>">Compare</label> <br>
+		</div>
+
+		<div class="ProductActionAdd" style="display:none;">
+			<a href="<%= link %>">Choose Options</a>
+		</div>
+	</script>
+
+	<script type="text/template" id="sandboxpreview-template">
+		<figure class="product">
+			<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
+		</figure>
+	</script>
+
+</span>
+
+
+<script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/fancybox/fancybox.js?2.5"></script>\
+<link rel="stylesheet" type="text/css" href="%%GLOBAL_ShopPath%%/javascript/fancybox/fancybox.css" media="screen" />
+</body>
+</html>

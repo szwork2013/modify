@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=103&amp;type=atom" />
+	<id>http://www.modifywatches.com</id>
+	<updated>2013-06-06T01:43:04Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2013-04-30T20:08:10Z</published>
+		<updated>2013-04-30T20:08:10Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/BIG-TIME-Set-%2811%252dPieces%29.html" />
+		<id>http://www.modifywatches.com/products/BIG-TIME-Set-%2811%252dPieces%29.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[BIG TIME Set (11-Pieces)]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/BIG-TIME-Set-%2811%252dPieces%29.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/BIG-TIME-Set-%2811%252dPieces%29.html"  ><img src="http://www.modifywatches.com/product_images/b/243/Set_10__49617_thumb.jpg" alt="BIG TIME Set (11-Pieces)" /></a></div><p><strong>Faces included:</strong>&nbsp;Silver, Pink, Red Birds, Rose Gold, Purple Polka</p>
+<p><strong>Straps included:&nbsp;</strong>Red, Pink, White, Light Pink, Orchid, Mint</p><p><strong>Price: <span class="SalePrice">$160.00</span></strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p><strong>Faces included:</strong>&nbsp;Silver, Pink, Red Birds, Rose Gold, Purple Polka</p>
+<p><strong>Straps included:&nbsp;</strong>Red, Pink, White, Light Pink, Orchid, Mint</p>]]></isc:description>
+		<isc:productid><![CDATA[1860]]></isc:productid>
+		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/243/Set_10__49617_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://www.modifywatches.com/product_images/h/250/Set_10__86632_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[<span class="SalePrice">$160.00</span>]]></isc:price>
+	</entry>
+</feed>

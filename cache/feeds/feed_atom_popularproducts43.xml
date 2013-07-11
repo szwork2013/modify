@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=43&amp;type=atom" />
+	<id>https://www.modifywatches.com</id>
+	<updated>2012-06-10T02:39:45Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-05-01T14:00:48Z</published>
+		<updated>2012-05-01T14:00:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Louisville2013-Set.html" />
+		<id>http://www.modifywatches.com/products/Louisville2013-Set.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Louisville2013 Set]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Louisville2013-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Louisville2013-Set.html"  ><img src="https://www.modifywatches.com/product_images/l/072/UCI_set__54970_thumb.jpg" alt="Louisville2013 Set" /></a></div><p>Includes limited edition Louisville2013&nbsp;face, yellow strap, and blue strap.</p>
+<p><strong>Only 300 available. Only available in Classic size. </strong>If you add extra pieces from the <a href="http://www.modifywatches.com/sandbox.php" target="_blank">Sandbox</a>, please make sure to choo..<p><strong>Price: $60.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>Includes limited edition Louisville2013&nbsp;face, yellow strap, and blue strap.</p>
+<p><strong>Only 300 available. Only available in Classic size. </strong>If you add extra pieces from the <a href="http://www.modifywatches.com/sandbox.php" target="_blank">Sandbox</a>, please make sure to choo..]]></isc:description>
+		<isc:productid><![CDATA[207]]></isc:productid>
+		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/l/072/UCI_set__54970_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://www.modifywatches.com/product_images/t/497/UCI_set__11289_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$60.00]]></isc:price>
+	</entry>
+</feed>

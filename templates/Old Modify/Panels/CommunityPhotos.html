@@ -1,0 +1,68 @@
+<script type="text/javascript">
+	$(document).ready(function() {
+		var photoURLS = %%GLOBAL_PhotoArray%%;
+		var currentIndex = 0;
+		
+		function slideshowPopulate(index) {
+			$("#communityBigPhoto").empty();
+			$("#communityThumbnails").empty();	
+				
+			if(!index) {
+				index = currentIndex;
+			}
+			else {
+				currentIndex = index;	
+			}
+				
+			for (var i = index; i < (index + 10); i++) {
+				if (i == index) {
+					$("#communityBigPhoto").append( "<img src='templates/modify/images/blue/sandbox/photos/448/" + photoURLS[i] + "' alt='Great photo!' />");
+				}
+				else if (i == (index + 2) || i == (index + 5) || i == (index + 8)) {
+					$("#communityThumbnails").append( "<div name='" + i + "' class='communityThumbnail centerThumb'><img src='templates/modify/images/blue/sandbox/photos/140/" + photoURLS[i] + "' alt='Great photo!' /> </div>");	
+				}
+				else {
+					$("#communityThumbnails").append( "<div name='" + i + "' class='communityThumbnail'><img src='templates/modify/images/blue/sandbox/photos/140/" + photoURLS[i] + "' alt='Great photo!' /> </div>");	
+				}
+			}
+			
+			photoURLS.push(photoURLS.splice(currentIndex, 1));
+		}
+		
+		$(".communityThumbnail").live("click", function() {
+			var indexNumber = $(this).attr('name');
+			clearInterval(interval);
+			
+			for (var i = 0; i < (parseInt(indexNumber)-1); i++) {
+				photoURLS.push(photoURLS.splice(currentIndex, 1));
+				console.log(photoURLS);
+			}
+			
+			slideshowPopulate();
+			
+			interval = setInterval( function() {
+				slideshowPopulate();
+			}, 3500 );
+		});
+		
+		slideshowPopulate();
+		
+		var interval = setInterval( function() {
+			slideshowPopulate();
+		}, 3500 );
+		
+		$("#communityBigPhoto").hover(function() {
+			clearInterval(interval);	
+		}, function() {
+			interval =	setInterval( function() {
+				slideshowPopulate();
+			}, 3500 );
+		});
+	});
+</script>
+
+<div id="communityBigPhoto">
+    <!-- Add Share Abilities Here -->
+</div>
+<div id="communityThumbnails">
+</div>

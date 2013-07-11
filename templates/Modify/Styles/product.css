@@ -1,0 +1,270 @@
+/*  ------ Sandbox ------- */
+
+/* Selector */
+#sboxFilter {
+	width:285px;
+	background-color:#fafafa;
+	border:1px solid #e5e5e5;
+	text-align:center;
+	margin:0 25px 70px 0;
+	padding-bottom:20px;
+	float:left;
+	.shadow(#f0f0f0, 9px, 3px, 0, 0, inset);
+	.rCorn(4px);
+	.grain;
+	
+	&> header {
+		background-color:#f2f5f7;
+		color:#8293af;
+		border-bottom:1px solid #e5e5e5;
+		padding:10px;
+		text-align:center;
+		text-transform:uppercase;
+		.shadow(#ebebeb, 9px, 3px, 0, 0, inset);
+		font-size:20px;
+		margin-bottom:20px;
+	}
+	
+	&> h4 {
+		color:#8293af;
+		margin:0px;	
+	}
+	
+	& > hr {
+		width:237px;
+		margin:10px auto 20px;
+		background:#e7edf4;
+		border:none;
+	}
+	
+	& > ul {
+		width:237px;
+		
+		& > li {
+			list-style:none;
+			list-style-image:none;
+		}
+		
+		&#filtCat {
+			border: 1px solid #cdd8e0;
+			display:inline-block;
+			padding:0;
+			.rCorn(3px);
+			& > li {
+				border:none;
+				border-top:1px solid #cdd8e0;	
+				padding:10px;
+				margin:0px;
+				.rCorn(0px);
+				display:block;
+				
+				&:hover {
+					.gradient(#fafafa, #ebebeb);
+					.shadow(#e8e8e8, 1px, 1px, 0, 0, inset);
+				}
+				
+				&:first-child {
+					border:none;	
+				}
+			}
+		}
+		
+		&#filtColor {
+			padding:0;
+			display:inline-block;
+			
+			& > li {
+				width:38px;
+				height:38px;
+				display:inline-block;
+				border:1px solid #ebebeb;
+				border-bottom:2px solid #ebebeb;
+				margin:0 3px 3px 0;
+				.rCorn(3px);
+				
+				& > div {
+					.sprt;
+					background-position:-40px -79px;
+					width:31px;
+					height:32px;
+					position:relative;
+					left:2px;
+					top:2px;
+					display:none;	
+				}
+				
+				&.a {
+					border:3px solid #23be00;
+				}
+			}
+		}
+		
+		&.pBut {
+			&#filtType {
+				& > li {
+					width:38px;	
+					
+					&[title=Faces] div {
+						height:28px;
+						width:29px;
+						.sprt;
+						background-position:-127px -21px;
+						margin:3px auto 7px;
+					}
+					
+					&.a[title=Faces] div {
+						background-position:-127px -50px;
+					}
+					
+					&[title=Straps] div {
+						height:26px;
+						width:40px;
+						.sprt;
+						background-position:-84px -23px;
+						margin:5px auto 7px;
+					}
+					
+					&.a[title=Straps] div {	
+						background-position:-84px -52px;
+					}
+					
+					&[title=Mods] div {
+						height:28px;
+						width:40px;
+						.sprt;
+						background-position:-40px -22px;
+						margin:3px auto 7px;
+					}
+					
+					&.a[title=Mods] div {	
+						background-position:-40px -51px;
+					}
+					
+					&[title=Sets] div {
+						height:33px;
+						width:37px;
+						.sprt;
+						background-position:0px -45px;
+						margin:0 auto 5px;
+					}
+					
+					&.a[title=Sets] div {	
+						background-position:0px -79px;
+					}
+				}
+			}
+			
+			&#filtSize {
+				& > li {
+					width:98px;	
+					
+					&[title=Mini] div {
+						height:21px;
+						width:23px;
+						.sprt;
+						background-position:-76px -80px;
+						margin:7px auto 10px;
+					}
+					
+					&.a[title=Faces] div {
+						background-position:-101px -80px;
+					}
+					
+					&[title=Classic] div {
+						height:28px;
+						width:29px;
+						.sprt;
+						background-position:-127px -21px;
+						margin:3px auto 7px;
+					}
+					
+					&.a[title=Faces] div {
+						background-position:-127px -50px;
+					}
+				}
+			}
+			
+			&#filtType, &#filtSize {
+				& > li {
+					float:left;
+					border-left:1px solid #cdd8e0;
+					display:inline-block;	
+					
+					&:first-child {
+						border:none;	
+					}
+				}
+			}
+			
+			& > li {
+				padding:10px;
+				margin:0px;
+				
+				&:hover {
+					.gradient(#fafafa, #ebebeb);
+					.shadow(#e8e8e8, 1px, 1px, 0, 0, inset);
+				}
+			}
+		}
+	}
+}
+
+/* Main Product Display */
+#sboxMain {
+	float:left;
+	width:838px;
+	position:relative;
+	margin-bottom:70px;
+	
+	& > #sboxSort {
+		width:818px;
+		padding-right:20px;
+		text-align:right;
+		position:relative;
+		
+		& > div {
+			position:relative;
+			z-index:0;
+			background-color:#FFF;
+			padding:0px 10px;
+			display:inline-block;
+			
+			& > label {
+				color:#a3a3a3;
+				letter-spacing:1px;
+				font-size:0.8em;
+				text-transform:uppercase;	
+				
+			}
+			
+			& > select {
+				font-size:0.9em;	
+			}
+		}
+		
+		&:before {
+			content:"";
+			display:block;
+			width: 100%;
+			height: 1px;
+			position: absolute;
+			top: 50%;
+			z-index: 0;
+			background-color:#e6e6e6;
+			
+		}
+	}
+	
+	& > #sboxResults {
+		& > h4 {
+			text-transform:uppercase;
+			color:#545454;
+			text-align:center;
+			.fncysansB;	
+		}
+		
+		figure img {
+			width:175px;
+		}
+	}
+}

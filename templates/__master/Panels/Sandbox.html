@@ -1,0 +1,101 @@
+<div class="fncysans" id="sandbox">
+	<div class="opened">
+		<div id="whiteDrop">
+			<div>
+				<ul>
+					<li class="inbox dropdown cart">
+						<a class="fncysansB fRight bBut drop fncysansB" href="#"><div class="sboxicon"></div><span class="arrow"></span></a>
+					</li>
+				</ul>
+			</div>
+			 <div style="clear:both;"></div>
+		</div>
+		<div class="sboxFHCont">
+			<header>
+				<div class="sboxHContainer">
+					<div class="collapse">
+						<div class="x"></div>Close
+					</div>
+					<span class="divide"></span>
+					<div class="share">
+						Share your Sandbox and <a href="#">earn free mods</a>
+						<a class="but fb"></a>
+						<a class="but twt"></a>
+						<a class="but pin"></a>
+					</div>
+					<span class="divide"></span>
+					<div class="inbox dropdown cart">
+						<a class="fncysansB fRight bBut drop fncysansB" href="#"><div class="sboxicon"></div>Edit Products and Add to Cart<span class="arrow"></span></a>
+						<ul>
+							<!-- Add summary information here -->
+							<!-- Add the product categories here -->
+						</ul>
+					</div>
+					<span class="divide"></span>
+					<div class="message">
+						Wowsa, you can make <em>18</em> Mods!<br>
+						Add another face and you will be able to make <em>24</em>!
+					</div>
+					<span class="divide"></span>
+					<div class="search">
+						<div class="textbox">
+							<span></span>
+							<input type="text" value="Search">
+						</div>
+					</div>
+				</div>
+			</header>
+		</div>
+		<div class="recommend">
+			<h4>Oooh! Try<br>these too:</h4>     
+			<!-- Recommend Products here -->
+		</div>
+		<div id="sboxMods">
+			<div style="clear:both;"></div>
+			<!-- Drop Mods here -->
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>
+
+
+<script type="text/template" id="sandboxquotesummary-template">
+	<!-- Parent elem needs to be a li -->
+	<div class="fncysansB">Sandbox Total: <span><%= total %></span> <a class="ctaBut" href="#">Add All to Cart</a></div>
+</script>
+
+<script type="text/template" id="sandboxquotebucket-template">
+	<!-- Parent elem needs to be a li -->
+	<h4><%= type %></h4>
+	<ul>
+		<!-- Add Products here -->
+	</ul>
+</script>
+
+<script type="text/template" id="sandboxquoteitem-template">
+	<!-- Parent elem needs to be a li -->
+	<div>
+		<a href="#"><div class="x"></div></a>
+		<img src="<%= thumb %>">
+		<ul>
+			<li><%= name %></li>
+			<li>$<%= price %> <small>(each)</small></li>
+			<li>Quantity: <input type="text" value="<%= quantity %>"> <span class="quantity">-</span><span class="quantity">+</span>
+		</li></ul>
+	</div>
+</script>
+
+<script type="text/template" id="sandboxrecommend-template">
+	<figure class="product">
+		<img src="<%= thumb %>" alt="<%= prodname %>">
+		<span class="x"></span>
+		<div><a class="bBut" href="#">Add</a></div>
+	</figure>
+</script>
+
+<script type="text/template" id="sandboxproduct-tempate">
+	<figure class="product">
+		<a href="#"><img src="<%= thumb %>" alt="<%= prodname %>"></a>
+		<a href="#"><figcaption><%= prodname %></figcaption></a>
+	</figure>
+</script>

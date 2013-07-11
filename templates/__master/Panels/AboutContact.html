@@ -1,0 +1,72 @@
+<script type="text/javascript">
+	function validateEmail(elementValue){  
+	   var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;  
+	   return emailPattern.test(elementValue);  
+	 }
+	 
+	function validateForm() {
+		$("#contactError").hide();
+		var x = $("#email").attr("value");
+		if (x==null || x=="")
+		{
+		  $("#contactError").html("You must enter an e-mail address :)");
+		  $("#contactError").slideToggle("fast");
+		  return false;
+		}
+		
+		if(validateEmail(x)==false) {
+			$("#contactError").html("Please enter a valid e-mail :)");
+			$("#contactError").slideToggle("fast");
+			return false;
+		}
+		
+		var y= $("#message").attr("value");
+		if (y==null || y=="")
+		{
+		  $("#contactError").html("Don't you want to send us a message? :)");
+		  $("#contactError").slideToggle("fast");
+		  return false;
+		}
+	}
+</script>
+<div id="aboutContainerOne">
+	<div id="aboutContainerTwo">
+    	<div class="aboutContentHeader" style="width:160px;">
+        	Contact Us
+        </div>
+        <div class="aboutContentText">
+        	<div id="aboutContactForm">
+            	<div id="contactError"></div>
+                %%GLOBAL_AboutError%%
+            	<form name="contactForm" action="./contact.php" method="POST" onsubmit="return validateForm()">
+                    <label for="name" class="contactLabel">Name:</label>
+                    <input type="text" class="contactText" name="name" maxlength="50" id="name" />
+                    <br />
+                    <label for="name" class="contactLabel">E-mail:<span style="color:#ffba00;">*</span></label>
+                    <input type="text" class="contactText" name="email" maxlength="80" id="email" />
+                    <br />
+                    <label for="name" class="contactLabel">How Can We Help?<span style="color:#ffba00;">*</span></label>
+                    <textarea class="contactText" style="height:160px;font-size:14px;" name="message" id="message"></textarea>
+                    <br />
+                    <span class="contactLabel"> </span>
+                    <input type="image" src="templates/modify/images/blue/submit.png" style="margin-top:15px;float:left;" />
+                    <span class="contactLabel" style="width:auto;margin-left:10px;"><span style="color:#ffba00;">*</span>Required</span>
+                </form>
+            </div>
+            <div id="aboutContactSide">
+            	<p>
+                    <b>Interested in learning about designing custom watches?</b><br />
+                    <a href="mailto:aaron@modifywatches.com">aaron@modifywatches.com</a>
+                </p>
+                <p>
+                	<b>Location</b><br />
+                    Berkeley, CA & Atlanta, GA
+                </p>
+                <p>
+                	<b>Phone</b><br />
+                    619.MODIFY5 <i>(619.663.4395)</i>
+                </p>
+            </div>
+      </div>   
+	</div>
+</div>

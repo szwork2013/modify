@@ -1,0 +1,256 @@
+<script type="text/javascript">
+
+$(document).ready(function() {
+	
+	//$('#wotmcSlide').cycle({
+	//	fx: 'scrollLeft',
+	//	timeout: 4500,
+	//	speed: 400,
+	//	pause:   1
+	//});
+
+	var bodyY = $(".wotmcJoin").offset();
+	var infoY = $(".wotmcMoreInfo").offset().top + ($(".wotmcMoreInfo").height() * (3/4));
+	var hidden = false;
+	newOffset = $("#wotmcPrepay").offset().top - 60;
+	
+	$("#scrollTo").click(function() {
+		$('html, body').animate({
+			scrollTop: newOffset
+		}, 800);
+	});
+	
+	$(window).scroll(function () { 
+	 	
+		var scrollY = $(window).scrollTop() - 15;
+		var isfixed = $("#firstJoin").css('position') == 'fixed';
+	 
+		if($("#firstJoin").length > 0){
+			if ( scrollY > bodyY.top && scrollY < infoY && (!isfixed || hidden == true) ) {
+				$("#firstJoin").stop().css({
+					display: 'block',
+					position: 'fixed',
+					top: '-10px',
+					left: '50%',
+					marginLeft: '-571px',
+					width: '1150px'
+				});
+				$('.wotmcMoreInfo').css('margin-top', '170px');
+				hidden = false;
+			} else if ( scrollY < bodyY.top && isfixed ) {
+				$("#firstJoin").css({
+					position: 'relative',
+					margin: '40px 0',
+					left: 0,
+					top: 0
+				});
+				$('.wotmcMoreInfo').css('margin-top', '0');
+			} else if ( scrollY > infoY && isfixed) {
+				hidden = true;
+				$("#firstJoin").stop().css({
+					display: 'none',
+					position: 'fixed',
+					top: '-10px',
+					left: '50%',
+					marginLeft: '-571px'
+				});
+			}
+		}	
+	});
+	
+});
+
+</script>
+
+<style type="text/css">
+#header {
+	z-index:25 !important;
+}
+.welcomeText {
+	line-height: 1;
+	margin: 50px 0 50px;
+}
+.welcomeText .smaller {
+	font-size:30px;
+}
+#wotmcHeader {
+	width:auto;
+	height:auto;
+}
+.monthJoin {
+	height:150px;
+}
+</style>
+
+<div class="row">
+	<div class="twelvecol last">
+		<div id="wotmcHeader">
+			<div id="wotmcSlide">
+				<img src="%%GLOBAL_ShopPath%%/templates/Modify/images/default/wotmc/banner.jpg" alt="Watch of the Month"/>
+			</div>
+		</div>
+
+		<div id="wotmcContent">
+			
+			<div class="welcomeText">
+				New Watch Delivered Monthly<br />
+				<span class="smaller">At a savings of up to 30%!</span>
+			</div>
+			
+			<div class="wotmcText">
+				<div class="wotmcFeature">
+					<div class="wotmcFeatureHead">New Watch Monthly</div>
+					<div class="wotmcFeatureContent">Each month <i>you</i> choose your own Mod!</div>
+				</div>
+				<div class="wotmcFeature">
+					<div class="wotmcFeatureHead">Free Shipping</div>
+					<div class="wotmcFeatureContent">Shipped between the 8th-12th of the month with USPS first-class shipping.</div>
+				</div>
+				<div class="wotmcFeature">
+					<div class="wotmcFeatureHead">Huge Selection</div>
+					<div class="wotmcFeatureContent">Choose from 2,000 combinations (and growing!), all except our licensed designs.</div>
+				</div>
+				<div class="wotmcFeature" style="margin:0;">
+					<div class="wotmcFeatureHead">20% Discount</div>
+					<div class="wotmcFeatureContent">Get an exclusive 20% discount off all your other Modify purchases.</div>
+				</div>
+			</div>
+			
+			<div id="firstJoin" class="wotmcJoin">
+				<div class="lefty">
+					Join for only  <span class="numberText"> $35 </span>  a month<br />
+					<span class="saveText">(Save up to 30% per mod!)</span>
+				</div>
+				<div class="belowRighty">
+					<a class="ctaBut" href="%%GLOBAL_ShopPath%%/cart.php?action=add&product_id=1612">Join Now</a><br />
+					<a href="#" id="scrollTo" onclick="return false;">Or Give As a Gift</a>
+				</div>
+			</div>
+			
+			
+			<div class="wotmcMoreInfo">
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/blueblack.jpg" style="width:182px;height:182px;" alt="September 2011 Watch of the Month" />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/calendar.png" alt="New Watch Monthly" />
+					<span class="blueFont"> New Watch Monthly</span><br />
+					<ul>
+						<li>Each month we will ask you to choose the Mod YOU want. Build your collection and show <i>your</i> style.</li>
+						<li>We release multiple new watches monthly, so there is always unlimited-ish choice. </li>
+					</ul>
+				</div>
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/zebrared.jpg" style="width:182px;height:182px;" alt="October 2011 Watch of the Month" />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/truck.png" alt="Watch of the Month has Free Shipping" />
+					<span class="blueFont"> Free Domestic Shipping</span><br />
+					<ul>
+						<li>As a member of the MOTMC, your watch will be shipped with first-class mail, on the house.
+							You can always use your 20% discount to add more product, and those will be shipped for free too!</li>
+						<li>If you use your 20% discount for other orders, shipping is free with every $60+ purchase, per usual.</li>
+						<li>Upgrade to $6/month for Canada. (Note: Only available in the U.S. and Canada)</li>
+					</ul>
+				</div>
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/argyleglitter.jpg" style="width:182px;height:182px;" alt="November 2011 Watch of the Month" /><br />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/infinity.png" alt="Watch of the Month has Free Shipping" />
+					<span class="blueFont">Huge Selection</span><br />
+					<ul>
+						<li>You can choose Classics or Minis. Bright or Polka or "Mature", more formal watches … as part of the MOTMC, you are the boss.</li>
+						<li>The only restriction we have is "licensed" properties, like MLB Player's Association, Tetris, Domo, Deadmau5, Cal, and others. They wont let us include these as part of the club, but you can use your discount on them!</li>
+					</ul>
+				</div>
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/goldwhisper.jpg" style="width:182px;height:182px;" alt="December 2011 Watch of the Month" />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/percent.png" alt="Watch of the Month has Free Shipping" />
+					<span class="blueFont">20% Discount</span><br />
+					<ul>
+						<li>20% off. Always. For every product.</li>
+						<li>Every single Mod.</li>
+						<li><i>Even if you ship it to a friend.</i></li>
+						<li>Boom.</li>
+					</ul>
+				</div>
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/pinknavy.jpg" style="width:182px;height:182px;" alt="August 2011 Watch of the Month" />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/x.png" alt="Cancel your Watch of the Month subscription any time" />
+					<span class="blueFont">Cancel Any Time</span><br />
+					<ul>
+						<li>As with everything to do with Modify, our #1 priority is your happiness. The MOTMC is a monthly subscription and, of course, you can cancel at any time.</li>
+						<li>Seriously. If you don't love it, let us know. We will take care of it.</li>
+					</ul>
+				</div>
+				
+				<div class="wotmcImage">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/greengreen.jpg" style="width:182px;height:182px;" alt="August 2011 Watch of the Month" />
+				</div>
+				<div class="wotmcMoreFeature">
+					<img src="%%GLOBAL_AppPath%%/templates/Modify/images/default/wotmc/gift.png" alt="Cancel your Watch of the Month subscription any time" />
+					<span class="blueFont">Keep it or Gift it</span><br />
+					<ul>
+						<li>Each month you can choose to gift your MOTMC and we will ship it with a personal note directly to your friend/family member.</li>
+						<li>You will get to choose TWO straps and one face any time you gift.</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="welcomeText" id="wotmcPrepay">
+				Prepaid MOTMC Subscription<br />
+			</div>
+			
+			<div class="wotmcText monthText">
+				<div class="wotmcFeature monthFeature">
+					<div class="wotmcFeatureHead monthFeatureHead">Same Great Perks</div>
+					<div class="wotmcFeatureContent monthFeatureContent">You get all the same awesome perks (20% discount, free shipping, friendship) with a prepaid membership.</div>
+				</div>
+				<div class="wotmcFeature monthFeature">
+					<div class="wotmcFeatureHead monthFeatureHead">Big Discount</div>
+					<div class="wotmcFeatureContent monthFeatureContent">Save up to 42% per mod. That's a seriously big discount.</div>
+				</div>
+				<div class="wotmcFeature monthFeature" style="margin:0">
+					<div class="wotmcFeatureHead monthFeatureHead">Great for Gifts</div>
+					<div class="wotmcFeatureContent monthFeatureContent">Probably the best gift since sliced bread. Erm, we mean an iPad.</div>
+				</div>
+			</div>
+			
+			
+			<div class="monthJoinHeader">
+				3 Month Subscription
+			</div>
+			
+			<div class="monthJoinHeader" style="margin-left:23px;">
+				6 Month Subscription
+			</div>
+			<div class="wotmcJoin monthJoin">
+				<div class="lefty monthLeft">
+					<span class="numberText">$96</span><br />
+					<span class="saveText">($32 per mod,<br/>up to 36% off!)</span>
+				</div>
+				<a class="ctaBut" href="%%GLOBAL_ShopPath%%/cart.php?action=add&product_id=1613">	
+					Add to Cart
+				</a>
+			</div>
+		 
+			<div class="wotmcJoin monthJoin" style="margin-left:23px;">
+				<div class="lefty monthLeft">
+					<span class="numberText">$168</span><br />
+					<span class="saveText">($28 per mod,<br/>up to 44% off!)</span>
+				</div>
+				<a class="ctaBut" href="%%GLOBAL_ShopPath%%/cart.php?action=add&product_id=1614">	
+					Add to Cart
+				</a>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="javascript/cycle.js"></script>

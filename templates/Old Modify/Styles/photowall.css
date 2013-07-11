@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	overflow:hidden;	
+}
+
+#fbIntro {
+	width:700px;
+	height:80px;
+	padding:18px 0 0 65px;
+	background-image:url('../images/blue/photowall/target2.png');
+	background-repeat:no-repeat;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#363636;
+	font-size:18px;	
+	text-align:center;
+	margin:0px 0px 30px 35px;
+	line-height:35px;
+}
+
+#fbIntro span {
+	font-size:36px;
+	color:#3b5998;	
+}
+
+#fbUpload {
+	width:100%;
+	padding:15px;
+	margin-bottom:30px;	
+	background-color:#e7ebf2;
+	border-bottom:2px solid #c8d1e2;
+}
+
+#fbUpload div {
+	position:relative;
+	left:-17%;
+	margin-left:34%;
+	float:left;
+}
+
+#fbUpload div .up {
+	color:#363636;
+	font-size:14px;
+	margin-right:20px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding-top:1%;
+}
+
+#fbUpload div #productImageNewUpload {
+	width:121px;
+	height:32px;
+	background-image:url('../images/blue/photowall/upload.png');
+	background-repeat:none;	
+	float:left;
+}
+
+#fbUpload div #productImageNewUpload:active {
+	background-position:0 -32px;	
+}
+
+.clear {
+	clear:both;	
+}
+
+.box {
+	border:4px solid #FFF;
+	-webkit-box-shadow: 0px 0px 4px 0px #616161; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+	-moz-box-shadow: 0px 0px 4px 0px #616161; /* FF3.5 - 3.6 */
+	box-shadow: 0px 0px 4px 0px #616161; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */	
+	margin:6px;
+	cursor:pointer;
+}
+
+#wallViewer {
+	background-color:rgba(0, 0, 0, .7);
+	bottom:0;
+	left:0;
+	overflow:hidden;
+	position:fixed;
+	right:0;
+	top:0;
+	z-index:400;
+	width:100%;
+	height:100%;
+	overflow-y:scroll;
+	display:none;	
+}
+
+#wallViewerInner {
+	width:635px;
+	position:relative;
+	margin-left:50%;
+	left:-317px;
+	margin-top:10px;	
+	float:left;
+}
+
+#photoContent {
+	width:500px;
+	float:left;	
+	display:none;
+}
+
+#photoController {
+	background-color:white;
+	padding:2px 5px;
+	width:123px;
+	float:left;	
+	line-height:35px;
+	border-left:1px solid #e2e2e2;
+	display:none;
+}
+
+#photoController span {
+	width:100%;
+	float:right;
+	font-weight:bold;
+	cursor:pointer;
+	text-align:right;	
+}
+
+#photoController .addthis_toolbox a {
+	width:113px;
+	border-bottom:1px solid #f2f2f2;
+	padding: 7px 0;
+}
+
+#theatreDrop {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	background-image:url('../images/blue/photowall/dropw.png');
+	display:none;	
+}
+
+#theatreBase {
+	width:730px;
+	background-color:#FFF;
+	overflow:hidden;
+	position:fixed;	
+	margin:0 20px;
+	padding:20px; 
+}
+
+#theatreHead {
+	width:730px;
+	float:left;
+	font-size:20px;	
+	margin-bottom:20px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#theatreClose {
+	float:right;
+	cursor:pointer;
+	padding:5px 9px;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	border:1px solid #f2f2f2;	
+}
+
+#theatreClose:hover {
+	background-color:#e7ebf2;
+	border:1px solid #e1e4eb;	
+}
+
+#theatrePhoto {
+	float:left;
+	width:730px;	
+	padding:0;
+	margin:0;
+}
+
+#theatrePhoto img {
+	width:730px;	
+}
+
+#theatreSide {
+	width:700px;
+	height:28px;
+	background-image:url('../images/blue/photowall/drop.png');
+	padding:9px 15px;
+	margin:0;
+	float:left;
+	position:relative;
+	top:-44px;
+	color:#FFF;
+}
+
+#theatreSide .twitter-share-button {
+	margin-left:15px;
+	position:relative;
+	top:3px;	
+	width:90px !important;
+}
+
+#theatreDesc {
+	position:relative;
+	top:-25px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;	
+}
+
+#fbLike {
+	margin-left:5px;
+	width:130px;	
+}
+
+#pinItBtn {
+	display:none;	
+}
+
+.spaced {
+	font-size:12px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	letter-spacing:3px;
+}
+
+.greyDrop {
+	-webkit-box-shadow: 0px 0px 8px 0px #dcdcdc; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow: 0px 0px 8px 0px #dcdcdc; /* FF3.5 - 3.6 */
+    box-shadow: 0px 0px 8px 0px #dcdcdc; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */	
+}
+
+.whiteShadow {
+	text-shadow: 1px 1px 1px #FFF;	
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<channel>
+		<title><![CDATA[Modify Watches: New Products - Watch of the Month Club]]></title>
+		<link>http://www.modifywatches.com</link>
+		<description><![CDATA[A list of the new products at Modify Watches.]]></description>
+		<pubDate>Mon, 10 Jun 2013 23:42:50 +0000</pubDate>
+		<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+		<item>
+			<title><![CDATA[Watch of the Month  - 6 Months]]></title>
+			<link>http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html</link>
+			<pubDate>Thu, 27 Dec 2012 16:50:09 +0000</pubDate>
+			<guid isPermaLink="false">http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/094/motmc__71640_thumb.jpg" alt="Watch of the Month  - 6 Months" /></a></div><p><strong>Price: $168.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month--%252d-6-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/094/motmc__71640_thumb.jpg" alt="Watch of the Month  - 6 Months" /></a></div><p><strong>Price: $168.00</strong> </p>]]></content:encoded>
+			<isc:description><![CDATA[]]></isc:description>
+			<isc:productid><![CDATA[1614]]></isc:productid>
+			<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/094/motmc__71640_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[http://www.modifywatches.com/product_images/g/975/motmc__90850_zoom.jpg]]></isc:image>
+			<isc:price><![CDATA[$168.00]]></isc:price>
+		</item>
+		<item>
+			<title><![CDATA[Watch of the Month Club - 3 Months]]></title>
+			<link>http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html</link>
+			<pubDate>Thu, 27 Dec 2012 16:49:37 +0000</pubDate>
+			<guid isPermaLink="false">http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/035/motmc__79429_thumb.jpg" alt="Watch of the Month Club - 3 Months" /></a></div><p><strong>Price: $96.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club-%252d-3-Months.html"  ><img src="http://www.modifywatches.com/product_images/w/035/motmc__79429_thumb.jpg" alt="Watch of the Month Club - 3 Months" /></a></div><p><strong>Price: $96.00</strong> </p>]]></content:encoded>
+			<isc:description><![CDATA[]]></isc:description>
+			<isc:productid><![CDATA[1613]]></isc:productid>
+			<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/035/motmc__79429_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/282/motmc__98471_zoom.jpg]]></isc:image>
+			<isc:price><![CDATA[$96.00]]></isc:price>
+		</item>
+		<item>
+			<title><![CDATA[Watch of the Month Club]]></title>
+			<link>http://www.modifywatches.com/products/Watch-of-the-Month-Club.html</link>
+			<pubDate>Thu, 27 Dec 2012 16:18:10 +0000</pubDate>
+			<guid isPermaLink="false">http://www.modifywatches.com/products/Watch-of-the-Month-Club.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club.html"  ><img src="http://www.modifywatches.com/product_images/x/069/motmc__07065_thumb.jpg" alt="Watch of the Month Club" /></a></div><p><strong>Price: $35.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Watch-of-the-Month-Club.html"  ><img src="http://www.modifywatches.com/product_images/x/069/motmc__07065_thumb.jpg" alt="Watch of the Month Club" /></a></div><p><strong>Price: $35.00</strong> </p>]]></content:encoded>
+			<isc:description><![CDATA[]]></isc:description>
+			<isc:productid><![CDATA[1612]]></isc:productid>
+			<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/069/motmc__07065_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/729/motmc__32164_zoom.jpg]]></isc:image>
+			<isc:price><![CDATA[$35.00]]></isc:price>
+		</item>
+	</channel>
+</rss>

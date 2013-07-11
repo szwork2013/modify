@@ -1,0 +1,42 @@
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#homePageContentBackground').before('<div id="slidenav">').cycle({
+		fx: 'scrollLeft',
+		timeout: 8000,
+		speed: 1000,
+		pause:   1,
+		pager: '#slidenav'
+	});
+});
+</script>
+
+
+<div id="homePageContentBackground">
+	<a href="https://www.modifywatches.com/sets.php?action=summer">
+        <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/summer.jpg');">
+        </div>
+    </a>
+    <a href="https://www.modifywatches.com/sets.php?action=america">
+        <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/americatime3.jpg');">
+        </div>
+    </a>
+    <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/dopeslide2.jpg');">
+		<a class="cta" href="sandbox.php"></a>
+    </div>
+    <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/justyou2.jpg');">
+		<a class="cta communitybutton" href="community.php" style="margin-top:150px;"></a>
+    </div>
+    <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/superior.jpg');">
+		<a class="cta" href="sandbox.php" style="margin: 160px 0 0 40px;"></a>
+    </div>
+    <div class="homePageMain" style="background-image:url('templates/modify/images/blue/homecollage/newsletter.jpg');">
+    	<div class="signupbox">
+            <form action="http://modifywatches.us2.list-manage1.com/subscribe/post?u=ff6348c49444f0d8101e7a204&amp;id=1300f32261" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                <input type="text" onfocus="if(this.value == 'E-mail') { this.value = ''; }" value="E-mail" class="contactText homeCollageText" name="EMAIL" maxlength="50"><br />
+                <input type="text" onfocus="if(this.value == 'Name') { this.value = ''; }" value="Name" class="contactText homeCollageText" name="FNAME" maxlength="50"><br />
+                <input type='hidden' name='LNAME' />
+                <input type="image" name="submit" src="templates/modify/images/blue/signup.png" style="margin-top:15px;float:right;">
+            </form>
+    	</div>
+    </div>
+</div>

@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+%%Panel.HTMLHead%%
+<body>
+	<div id="headerContainer">
+        %%Panel.Header%%
+    </div>
+	<div id="Container" style="clear:both;">
+			<div class="row">
+				<div class="twelvecol last">
+					<h2>%%LNG_ThanksForYourOrder%%</h2>
+					<div class="BlockContent">
+						<p class="ErrorMessage" style="display:%%GLOBAL_HideError%%">
+							%%GLOBAL_ErrorMessage%%
+						</p>
+
+						<div style="display:%%GLOBAL_HidePaidOrderConfirmation%%">
+							<p class="SuccessMessage" style="display:%%GLOBAL_HideSuccess%%">
+								%%LNG_JustSentAnEmailConfirmation%%
+							</p>
+
+							<p style="display:%%GLOBAL_HidePhysicalOrderConfirmation%%">
+								%%GLOBAL_PhysicalOrderConfirmation%%
+							</p>
+							<p style="display: %%GLOBAL_HidePhysicalViewOrderLink%%">
+								<br />
+								<a href="%%GLOBAL_ShopPath%%/orderstatus.php">%%LNG_ViewYourOrder%%</a>
+							</p>
+							<p style="display:%%GLOBAL_HideDigitalOrderConfirmation%%">
+								%%GLOBAL_DigitalOrderConfirmation%%
+							</p>
+							<p style="display:%%GLOBAL_HideDigitalOrderDownloadLink%%">
+								<br />
+								<a href="%%GLOBAL_ShopPath%%/orderstatus.php">%%LNG_DownloadTheItemsYouOrdered%%</a>
+							</p>
+						</div>
+
+						<div style="display: %%GLOBAL_HideAwaitingPayment%%">
+							<p class="SuccessMessage" style="display:%%GLOBAL_HideSuccess%%">
+								%%LNG_JustSentAnEmailConfirmation%%
+							</p>
+							%%LNG_OrderAwaitingPayment%%
+							
+						</div>
+						%%GLOBAL_OrderConfirmationDetails%%
+						%%SNIPPET_OfflinePaymentMessage%%
+						
+						<style type="text/css">
+						.cta:hover {
+							color:#FFF;
+						}
+						</style>
+						<div style="margin-top: 10px;padding: 20px;background-color: rgb(255, 247, 229);display:none;">
+							<div style="width: 935px;float: left;font-size: 0.95em;margin-top: 12px;">
+							We'd love to hear your thoughts on making your experience better!
+							Fill out this quick survey and get <b>$10</b> off your next purchase from Modify!
+							</div>
+							<a class="cta" href="https://www.surveymonkey.com/s/mwsurvey2" style="display: inline-block;padding: 10px;margin-left: 10px;border-radius: 5px;font-size: 1em;font-family: arial;">Take Survey</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		%%Panel.Footer%%
+		<!-- Include the conversion tracking code for all analytics packages -->
+		%%GLOBAL_ConversionCode%%
+		
+		<!-- Google Code for Complete purchase Conversion Page -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1012730746;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "ffffff";
+		var google_conversion_label = "Yj7ZCObQ6AMQ-pb04gM";
+		var google_conversion_value = 0;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1012730746/?value=0&amp;label=Yj7ZCObQ6AMQ-pb04gM&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+		
+		<!-- Start Kiss Metrics Conversion Code -->
+		<script type="text/javascript">
+		  _kmq.push(['record', 'Conversion']);
+		</script>
+		<!-- End Kiss Metrics Conversion -->
+		
+		<!-- Start Facebook Conversion Code -->
+		<script type="text/javascript">
+		var fb_param = {};
+		fb_param.pixel_id = '6006654661454';
+		fb_param.value = '0.00';
+		(function(){
+		  var fpw = document.createElement('script');
+		  fpw.async = true;
+		  fpw.src = (location.protocol=='http:'?'http':'https')+'://connect.facebook.net/en_US/fp.js';
+		  var ref = document.getElementsByTagName('script')[0];
+		  ref.parentNode.insertBefore(fpw, ref);
+		})();
+		</script>
+		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6006654661454&amp;value=0" /></noscript>
+		<!-- End Facebook Conversion -->
+</body>
+</html>

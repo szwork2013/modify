@@ -1,0 +1,27 @@
+<script type="text/javascript">
+	$(function(){
+		new SandboxWalkthrough({
+			render: %%GLOBAL_ShowWalkthrough%%,
+			steps: {
+				one: {
+					stepNum: 1,
+					title: 'Choose Faces',
+					instructions: 'Filter on the left and click on the faces you love',
+					func: 'showStep1'
+				},
+				two: {
+					stepNum: 2,
+					title: 'Choose Straps',
+					instructions: 'Now, filter and click on the straps you love.',
+					func: 'showStep2'
+				},
+				three: {
+					stepNum: 3,
+					title: 'Visualize Your Collection',
+					instructions: 'Click on "Visualize" and get excited!',
+					func: 'showStep3'
+				}
+			}
+		});
+	});
+</script>

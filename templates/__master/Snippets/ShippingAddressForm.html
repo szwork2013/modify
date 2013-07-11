@@ -1,0 +1,20 @@
+	<div>
+		<form id="AddressEditForm" method="post" action="%%GLOBAL_ShopPathSSL%%/account.php?action=%%GLOBAL_ShippingAddressFormAction%%&from=%%GLOBAL_FromURL%%" onsubmit="return check_shipping_address_form()" class="PL20 FloatNone">
+			<input type="hidden" name="shipid" value="%%GLOBAL_ShipId%%" />
+
+			<div class="FormContainer HorizontalFormContainer">
+				<dl>
+					%%GLOBAL_ShipCustomFields%%
+				</dl>
+				<p class="Submit">
+					<input type="submit" value="%%LNG_SaveAddress%%" />
+				</p>
+			</div>
+		</form>
+	</div>
+
+	<script type="text/javascript">
+		lang.ConfirmAddressTypeChange = '%%LNG_ConfirmAddressTypeChange%%';
+	</script>
+
+	%%Panel.AddShippingAddressJavaScript%%

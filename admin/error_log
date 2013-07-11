@@ -1,0 +1,79 @@
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[11-Jul-2011 21:50:42] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:45:49] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:48:32] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:49:55] PHP Notice:  Undefined variable: fieId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 513
+[12-Jul-2011 01:49:55] PHP Fatal error:  Call to a member function setRequired() on a non-object in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 513
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[12-Jul-2011 01:50:14] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 00:57:33] PHP Fatal error:  Cannot redeclare class SIMPLEPAY_PAY in /home1/modiwatc/public_html/store/modules/checkout/simplepay/lib/pay.php on line 4
+[25-Sep-2011 01:04:52] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 01:04:52] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:20:58] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:20:58] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:21:11] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:21:11] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:21:29] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:21:29] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:24:38] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:24:38] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 02:24:38] PHP Notice:  Uninitialized string offset: -1 in /home1/modiwatc/public_html/store/includes/classes/class.module.php on line 1144
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:08:58] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:09:08] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[25-Sep-2011 07:09:54] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[28-Sep-2011 21:07:12] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 514
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 517
+[29-Sep-2011 01:24:48] PHP Notice:  Undefined variable: fieldId in /home1/modiwatc/public_html/store/admin/includes/classes/class.orders.php on line 520
+[04-Nov-2011 20:29:03] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:29:15] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:32:17] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:32:52] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:34:04] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:34:18] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:34:27] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:34:32] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[04-Nov-2011 20:35:22] PHP Notice:  Undefined variable: fieldtype in /home1/modiwatc/public_html/store/admin/includes/classes/class.exporttemplates.php on line 1006
+[06-Nov-2011 02:32:19] PHP Notice:  Undefined index:  zones in /home1/modiwatc/public_html/store/admin/includes/classes/class.settings.shipping.php on line 1761
+[11-Nov-2011 21:51:57] PHP Warning:  in_array() [<a href='function.in-array'>function.in-array</a>]: Wrong datatype for second argument in /home1/modiwatc/public_html/admin/includes/classes/class.coupons.php on line 572

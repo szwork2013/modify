@@ -1,0 +1,104 @@
+%%Panel.AjaxLoad%%
+<header id="top" class="fncysans wShad">
+	<div id="banner">
+        <img src="%%GLOBAL_ShopPath%%/templates/Modify/images/default/bgimg.png" />
+		<div>SHOP</div>
+	</div>
+	<div id="header">
+		<div id="contentwrap">
+			<div class="headcontent">
+				<div id="logo">
+					<a href="%%GLOBAL_ShopPath%%"></a>
+				</div>
+				<div id="nav">
+					<nav id="topLinks">
+						<ul>
+							<li>Free Shipping on Orders Over $60</li>
+							<li><a href="#">Subscribe to Newsletter</a></li>
+							<li><a href="#">Earn Free Mods</a></li>
+						</ul>
+					</nav>
+					<nav id="mainLinks">
+						<ul>
+							<li class="active"><a id="navShop" href="%%GLOBAL_ShopPath%%/categories"><span class="icon"></span>Shop</a><span class="divide"></span></li>
+							<li><a id="navComm" href="#"><span class="icon"></span>Community</a><span class="divide"></span></li>
+							<!--<li><a id="navSupport" href="#"><span class="icon"></span>Support</a><span class="divide"></span></li> -->
+							<li><a id="navAbout" href="#"><span class="icon"></span>About</a></li>
+						</ul>
+					</nav>
+					<nav id="rightLinks">
+						<ul>
+							<li id="cart" class="cart dropdown">
+								<a class="fRight bBut drop" href="%%GLOBAL_ShopPath%%/cart.php"><span class="cart"></span><span class="arrow"></span></a>    
+								<ul id="cartLoading">
+									<li>
+										<img src="%%GLOBAL_ShopPath%%/templates/Modify/images/SmallLoad.gif" />
+									</li>
+								</ul>
+								<!-- Insert Cart Quickview Here -->
+							</li>
+							<li><span class="topZ divide fRight"></span></li>
+							<li id="oSandbox" class="inbox dropdown cart">
+								<a onClick="return false;" class="fncysansB fRight bBut drop" href="#"><div class="sboxicon"></div><span class="arrow"></span></a>
+							</li>
+							<li><span class="topZ divide fRight"></span></li>
+							<li class="dropdown">
+								<a class="fRight bBut drop" %%GLOBAL_AccountStyle%% href="%%GLOBAL_AccountLink%%">%%GLOBAL_AccountText%%</a>
+								%%GLOBAL_AccountDropDown%%
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		
+		<div id="leftwrap">
+			<div id="lside">
+			</div>
+		</div>
+		<div id="rightwrap">
+			<div id="rside">
+			</div>            
+		</div>
+		
+		<div style="clear:both;"></div>
+	</div>
+	<div style="clear:both;"></div>
+</header>
+
+%%Panel.BootstrapCart%%
+
+<script type="text/template" id="cartquick-template">
+	<!-- Parent Elem Needs to be 'ul -->
+	<li>
+		<div class="fncysansB">
+			<% if (numproducts > 0) { %>
+			Cart Total: <span class="total">$<%= total %></span> <a class="ctaBut" href="#">Proceed to Checkout</a>
+			<% } else { %>
+			No Products In Cart
+			<% } %>
+		</div>
+	</li>
+	<!-- Drop Each Product Type Here -->
+</script>
+
+<script type="text/template" id="cartquicktype-template">
+	<!-- Parent elem needs to be 'li' -->
+	<span><%= title %></span>
+	<ul>
+		<!-- Drop Each Product Here -->
+	</ul>
+</script>
+
+<script type="text/template" id="cartquickitem-template">
+	<!-- Parent Elem needs to be 'li' -->
+	<div class="cartRow">
+		<a class="x" href="#"></a>
+		<img src="<%= thumb %>" style="width:55px;">
+		<ul>
+			<li><%= name %></li>
+			<li>$<%= price %> <small>(each)</small></li>
+			<li class="quantity">Quantity: <input type="text" value="<%= quantity %>" /> <span class="quantity minus">-</span><span class="quantity plus">+</span>
+		</ul>
+	</div>
+</script>

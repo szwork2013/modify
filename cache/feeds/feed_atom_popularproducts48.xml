@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
+	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
+	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=48&amp;type=atom" />
+	<id>https://www.modifywatches.com</id>
+	<updated>2012-07-16T11:45:29Z</updated>
+			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2012-06-27T17:56:19Z</published>
+		<updated>2012-06-27T17:56:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Set.html" />
+		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Set.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Set]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Set.html"  ><img src="https://www.modifywatches.com/product_images/s/545/ssusa__68280_thumb.jpg" alt="Street Soccer USA Set" /></a></div><p>Support Street Soccer USA and join the fight against homelessness with this exclusive set.&nbsp;</p>
+<p>This set features a custom, limited edition Street Soccer USA face as well as interchangeable red and black straps to modify your look while doing good.</p>
+<p><strong>$20 from each sale wi..<p><strong>Price: $49.99</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<p>Support Street Soccer USA and join the fight against homelessness with this exclusive set.&nbsp;</p>
+<p>This set features a custom, limited edition Street Soccer USA face as well as interchangeable red and black straps to modify your look while doing good.</p>
+<p><strong>$20 from each sale wi..]]></isc:description>
+		<isc:productid><![CDATA[228]]></isc:productid>
+		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/s/545/ssusa__68280_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://www.modifywatches.com/product_images/y/493/ssusa__82753_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$49.99]]></isc:price>
+	</entry>
+</feed>

@@ -1,0 +1,11 @@
+<?php
+
+	CLASS ISC_BOOTSTRAPCATEGORIES_PANEL extends PRODUCTS_PANEL
+	{
+		public function SetPanelSettings()
+		{
+			$GLOBALS['ISC_CLASS_REMOTE_CATEGORY'] = GetClass('ISC_REMOTE_CATEGORY');
+			
+			$GLOBALS['BootstrapJSON'] = $GLOBALS['ISC_CLASS_REMOTE_CATEGORY']->GetJSON();
+		}
+	}

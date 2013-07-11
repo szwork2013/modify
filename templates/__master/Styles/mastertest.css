@@ -1,0 +1,796 @@
+@charset "utf-8";
+/* CSS Document */
+
+#timelineContainer{
+	width: 665px;
+	height: 41px;
+	margin:10px auto;
+	clear:both;	
+}
+
+#timeline {
+	width:660px;
+	height:35px;
+	background-image:url('../../modify/images/blue/sandbox/opaquebgsmall.png');
+	background-repeat:repeat;
+	margin: 3px auto;
+	padding-left:8px;
+}
+
+.biggerSoldOut {
+	position:relative;
+	top:-46px;
+	display:none;	
+}
+
+.bigSoldOut {
+	position:relative;
+	top:-46px;
+	display:none;
+}
+
+.stepBox {
+	float:left;
+	height:33px;
+	margin-top:3px;
+}
+
+.step1 {
+	cursor:pointer;	
+}
+
+.stepNumber {
+	color:#1870FF;
+	float:left;
+	font-size:20px;	
+	margin-right:3px;
+}
+
+.stepDesc {
+	color:#1870FF;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	margin-top:2px;
+}
+
+.stepInactive {
+	color:#cccccc;	
+}
+
+.smallDesc {
+	color:#6b6b6b;
+	font-size:10px;	
+	font-weight:normal;
+}
+
+.timelineArrow {
+	margin-top: 10px;
+	margin-left: 10px; 
+	margin-right: 10px;
+	height: 18px;
+	width: 32px;
+	background-image:url('../../modify/images/blue/sandbox/timelinearrow.png');
+	background-repeat:no-repeat;
+	float:left;
+}
+
+
+/* Face & Strap Selector Styles */
+
+#itemHoverDiv {
+	width: 110px;
+	height: 110px;
+	position:absolute;
+	display:none;
+	background-color:#f5f5f5;
+	z-index:6;
+}
+
+#itemHoverImageDiv {
+	width:100px;
+	height: 105px;
+	position:relative;
+	margin: 5px auto;
+	background-image:url('../../modify/images/blue/sandbox/faceImage.jpg');
+	background-repeat:no-repeat;	
+}
+
+#leftColumnContainer {
+	width:225px;
+	height:543px;
+	border-right: 1px solid #e2e2e2;	
+	float:left;
+	position:relative;
+	overflow:auto;
+	margin-right:20px;
+}
+
+#faceSelectorContainer {
+	width:210px;
+	height: 260px;
+	position:relative;
+	margin-bottom: 0px !important;
+	display:none;
+}
+
+.selectorHeader {
+	font-weight:bold;
+	color:#1c69ff;
+	border-top: solid 1px #e2e2e2;
+	border-bottom: dotted 1px #e2e2e2;
+	height:19px;
+	padding:2px 0 4px 15px;
+	font-size:18px;
+}
+
+.selectorSubHeader {
+	width:195px;
+	height:17px;
+	padding-left:15px;
+	background-color:#FFF;
+	color:#6b6b6b;
+	font-weight:bold;
+	margin-top:	4px;
+	float:left;
+}
+
+#faceSelectorOuter, #strapSelectorOuter {
+	width:210px;
+	height:188px;
+	overflow:hidden;
+	position:relative;
+	float:left;
+}	
+
+#faceSelector {
+	width:210px;
+	height:auto;
+	margin-top:4px;
+	position: relative;
+	float:left;
+	outline:none;
+}
+
+#strapSelectorContainer {
+	width:210px;
+	height: 260px;
+	position:relative;
+	margin-top:0 !important;
+	display:none;
+}
+
+#strapSelectorHeader {
+	width: 189px;
+	height:64px;
+	position:relative;
+	float:left;
+	background-image:url('../../modify/images/blue/sandbox/selectorHeader.png');
+}
+
+#strapSelector {
+	width:210px;
+	height:auto;
+	margin-top:4px;
+	position: relative;
+	float:left;
+	outline:none;
+}
+
+#browseMoreFaces, #browseMoreStraps, .scrollBackUp {
+	width:214px;
+	float:left;
+	height:26px;
+	cursor:pointer;	
+	margin-top:5px;
+}
+
+.scrollBackUp {
+	display:none;
+}
+
+#browseMoreFaces {
+	background-image:url(../../modify/images/blue/sandbox/browsemorefaces.jpg);
+}
+
+#browseMoreStraps {
+	background-image:url(../../modify/images/blue/sandbox/browsemorestraps.jpg);
+}
+
+.scrollBackUp {
+	background-image:url(../../modify/images/blue/sandbox/scrollbackup.jpg);
+}
+
+#browseMoreFaces:hover, #browseMoreStraps:hover, .scrollBackUp:hover {
+	background-position: 0 -26px;	
+}
+
+#browseMoreFaces:active, #browseMoreStraps:active, .scrollBackUp:active {
+	background-position: 0 -52px;	
+}
+
+
+/* Style the color thumnail previews */
+
+ul.thumb {
+	float: left;
+	list-style:none;
+	width: 210px;
+	margin:10px 0px 0px 0px;
+	padding:0;
+}
+
+
+
+ul.thumb li {
+	float: left;
+	position: relative;  /* Set the absolute positioning base coordinate */
+	width: 42px;
+	height: 57px;
+	margin-right:5px;
+	margin-bottom:10px;
+	overflow:hidden;
+}
+
+ul.thumb li img {
+	border:none;
+}
+
+ul.thumb div.remove {
+	width:100%;
+	height:15px;
+	background-color:#D8D8D8;
+	padding-top:1px;	
+	color:#cf0132;
+	font-size:11px;
+	text-align:center;
+	padding:0;
+	cursor:pointer;
+}
+
+ul.thumb div.selectorBubble {
+	position:relative;
+	text-align:right;
+	top:-57px;
+	color:#000;
+	font-size:10px;
+	font-weight:bold;
+	width:40px;
+	padding:0 2px 0 0;
+	background-image:url('../../modify/images/blue/sandbox/circleswatch.png');	
+}
+
+/* Canvas */
+
+#sandboxContainer {
+	width:975px;
+	margin: 0 auto;
+	margin-bottom:10px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+}
+
+#sandboxScrolling {
+	width:3500px;
+	float:left;	
+	position:relative;
+	left:0;
+}
+
+/* Entry Page */
+
+#sandboxStarter {
+	width:975px;
+	float:left;	
+}
+
+#sandboxStarterHeader {
+	width:100%;
+	height:63px;
+	background-image:url('../../modify/images/blue/sandbox/starterheader.jpg');	
+}
+
+#bigStyleStarter, #biggerStyleStarter {
+	height:100%;
+	width:480px;
+	float:left;
+}
+
+#biggerStyleStarter {
+	margin-left:15px;
+}
+
+.starterImageBig, .starterImageBigger {
+	width:480px;
+	height:360px;
+	padding-top:4px;
+	float:left;
+}
+
+.starterImageBig {
+	background-image:url('../../modify/images/blue/sandbox/bigstarterphoto.jpg');
+}
+
+.starterImageBigger {
+	background-image:url('../../modify/images/blue/sandbox/biggerstarterphoto.jpg');
+}
+
+.starterPhotos {
+	width:480px;
+	overflow:auto;
+}
+
+.starterPhotos .photoLeft, .starterPhotos .photoRight {
+	width:240px;
+	float:left;
+}
+
+.starterCallToActionBig, .starterCallToActionBigger {
+	width:194px;
+	height:42px;
+	float:left;
+	cursor:pointer;
+	margin-top:170px;
+}
+
+.starterCallToActionBig {
+	background-image:url('../../modify/images/blue/sandbox/buildbig.png');
+	margin-left:52px;
+}
+
+.starterCallToActionBigger {
+	background-image:url('../../modify/images/blue/sandbox/buildbigger.png');
+	margin-left:40px;
+}
+
+.starterImageBigLS {
+	width:180px;
+	height:270px;
+	cursor:pointer;
+	margin-left:32px;
+	margin-top:90px;
+	float:left;
+}
+
+.starterImageBigLS img {
+	margin-left:5px;	
+}
+
+.starterImageBiggerLS {
+	width:210px;
+	height:315px;
+	cursor:pointer;
+	margin-left:10px;
+	margin-top:65px;
+	float:left;
+}
+
+.starterImageBiggerLS img {
+	margin-top:25px;
+	margin-left:25px;	
+}
+
+.starterHeaderGrey {
+	font-family: 'Ubuntu', sans-serif;
+	font-size:30px;
+	color:#535353;
+}
+
+.starterHeaderBlue {
+	color:#44a4fa;	
+}
+
+.starterHeaderFonts{
+	margin:15px 20px;
+	float:left;	
+}
+
+.starterBottom {
+	text-align:center;
+	width:480px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+}
+
+.starterBottom h3 {
+	color:#1869e5;	
+	font-family: 'PT Sans Caption', sans-serif;
+	font-weight:700;
+	font-size:22px;
+}
+
+.starterBottomExpanded {
+	width:100%;
+	height:auto;
+	display:none;	
+}
+
+.starterBottomExpanded .closed {
+	height:0px;	
+}
+
+/* Style for main selector */
+
+#sandboxSelector {
+	float:left;	
+	width:975px;
+}
+
+#rightColumnContainer {
+	width:705px;
+	float:left;
+	overflow:auto;
+	margin:3px;
+	margin-top:0px;
+}
+
+#canvasHeader {
+	height:50px;
+	width:100%;
+	border-top:solid 1px #e2e2e2;
+	border-bottom: dotted 1px #e2e2e2; 
+	padding-top:4px;
+}
+
+#canvasHeaderContent {
+	width:637px;
+	height:41px;
+	margin:0 auto;	
+}
+
+#canvasHeaderBigSwitch, #canvasHeaderBiggerSwitch {
+	width:301px;
+	height:41px;
+	cursor:pointer;
+	background-repeat:no-repeat;
+	float:left;
+	background-position:0 -41px;
+}
+
+#canvasHeaderBigSwitch {
+	background-image:url('../../modify/images/blue/sandbox/bigswitch.png');
+}
+
+#canvasHeaderBiggerSwitch {
+	background-image:url('../../modify/images/blue/sandbox/biggerswitch.png');
+	margin-left:34px;
+}
+
+#sandboxCanvasContainer {
+	float:left;
+	width:697px;
+	overflow:hidden;
+}
+
+#sandboxCanvasSlider {
+	width:1500px;
+	float:left;
+	position:relative;
+	left:0;
+}
+
+#bigStyleContainer, #biggerStyleContainer {
+	width:697px;
+	margin-left:4px;
+	float:left;
+}
+
+.sandboxHeaderFont {
+	color:#6b6b6b;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-weight:700;
+	font-size:24px;
+}
+
+#bigStyleCanvas, #biggerStyleCanvas {
+	width:100%;
+	position:relative;
+	float:left;
+}
+
+#bigStyleWatchDisplay {
+	height:0px;
+	width:97%;
+	position:relative;
+	float:left;
+	display:none;
+	margin-left:5px;
+	overflow:hidden;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	outline:none;
+}
+
+#biggerStyleWatchDisplay {
+	height:0px;
+	width:97%;
+	position:relative;
+	float:left;
+	display:none;
+	margin-left:5px;
+	overflow:hidden;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	outline:none;
+}
+
+.watchDisplay {
+	width:185px;
+	height:230px;
+	position:relative;
+	float:left;
+	font-family: 'PT Sans Caption', sans-serif;
+	background-color:#F5f5f5;
+	margin: 4px 4px 4px 4px;	
+	text-align:center;
+	cursor:pointer;
+}
+
+.wathDisplay .img {
+	width:174px;
+	height:174px;
+	overflow:hidden;
+	position:relative;
+	margin-top:	8px;
+	margin-left: auto;
+}
+
+.watchDisplay img {
+	width:174px;
+	margin-top:6px;
+}
+
+.watchDisplay .multiplemods {
+	position:relative;
+	z-index:5;
+	top:-174px;
+	margin-top:0px;	
+}
+
+.watchDisplay .desc {
+	color:#363636;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+.watchDisplay .moveUp {
+	position:relative;
+	top:-174px;	
+}
+
+.watchDisplay .desc a{
+	color:#b9bdbe;
+	text-decoration:none;	
+	font-size:14px;
+}
+
+/* Handle the Individual Watch Popout Here */
+
+#bigStyleWatchPopout, #biggerStyleWatchPopout {
+	height:350px;
+	margin-top:5px;
+	width:95%;
+	position:relative;
+	float:left;
+	display:none;
+	margin-left:5px;
+	background-color:#f5f5f5;
+	color:#363636;
+}
+
+.sandboxMoveLeft, .sandboxMoveRight {
+	height:50px;
+	width:30px;
+}	
+
+.popoutTop {
+	width:100%;
+	height:280px;
+	position:relative;
+	float:left;
+	margin: 10px 0 0;
+	overflow:hidden;
+}
+
+.popoutImage {
+	background-image:url();
+	background-repeat:no-repeat;
+	width:275px;
+	height:275px;
+	position:relative;
+	float: left;	
+	margin:5px 10px 0 10px;
+	overflow:hidden;
+	
+}
+
+.popoutRight {
+	width:355px;
+	height:280px;
+	position:relative;
+	float: left;
+}
+
+.popoutClose {
+	float:right;
+	height:28px;
+	width:50px;
+	cursor:pointer;
+	font-weight:bold;
+}
+
+.popoutWatchName {
+	padding-bottom:10px;
+	width: 100%;
+	border-bottom:1px solid #a7a7a7;
+	font-size:24px;
+	font-weight:bold;
+	position:relative;
+	float:left;
+}
+
+.popoutDescription {
+	width:100%;
+	height:75px;
+	position:relative;
+	float:left;
+	margin-top:5px;
+}
+
+.popoutShare {
+	width:100%;
+	height:40px;
+	position:relative;
+	font-size:12px;
+	float:left;
+}
+
+.popoutBottom {
+	width:547px;
+	height:95px;
+	margin-top:8px;
+	position:relative;
+	float:left;
+	margin-left:10px;
+}
+
+/* WOW! That was a lot just for a little popout wasn't it? :) */
+
+.sampleContent {
+	text-align:center;
+	margin: 20px auto;	
+	display:none;
+}
+
+.sampleContent .hugeFont {
+	font-size: 60px;
+	font-weight:100;
+	color: #44a7fd;
+}
+
+.sampleContent .blackFont {
+	font-size:16px;
+	color:#000;
+	width:400px;	
+	margin:5px auto;
+	display:
+}
+
+.sampleContent .startOverlay {
+	background-image:url('../../modify/images/blue/sandbox/opaquebg.png');
+	background-repeat: repeat;
+	width:90%;
+	height:125px;
+	text-align:center;
+	padding-top:10px;
+	margin:0 auto;
+}
+
+	
+/* Bottom Row of Content */
+
+#bottomRowContainer {
+	width:720px;
+	height:125px;
+	margin-top:5px;
+	margin-bottom:10px;
+	margin: 5px 0 10px 5px;
+	float:left;
+}
+
+#bottomRowInnerContent {
+	width:720px;
+	height: 125px;
+	border-top:	1px solid #e2e2e2;
+	display:none;
+	position:relative;
+	float:left;
+	margin-top:3px;
+}
+
+#bottomShareContainer {
+	width:184px;	
+	height:125px;
+	margin-top:3px;
+	position:relative;
+	float:left;
+	border-right: 1px solid #e2e2e2;
+	padding:8px;
+	font-size:12px;
+	color:#313131;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-weight:bold;
+}
+
+#bottomCountContainer {
+	width:315px;
+	height:125px;
+	float:left;
+	position:relative;
+	margin-left:5px;
+	margin-top:3px;
+}
+
+#bottomBigStyleCount {
+	font-size:12px;
+	color:#313131;
+	font-family: 'PT Sans Caption', sans-serif;
+	line-height:22px;
+	border-right: 1px solid #e2e2e2;
+	width:305px;
+	height:125px;
+	position:relative;
+	float:left;
+	margin-left:5px;
+	padding-top:5px;
+}
+
+#bottomTotalModsCount {
+	width:295px;
+	height:26px;
+	margin: 3px;
+	text-align:center;
+	font-family: 'PT Sans Caption', sans-serif;
+	color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+	overflow:hidden;
+	background-image:url(../../modify/images/blue/sandbox/sizeHeaderBG.jpg);
+	background-repeat:repeat-x;
+	position:relative;
+	float:left;
+	margin-left:10px;
+}
+
+#bottomAddToCart {
+	width:180px;
+	height:125px;
+	position:relative;
+	float:left;
+	margin: 2px 0 0 0px;	
+}
+
+#addToCart {
+	width:130px;
+	height:53px;
+	background-image:url('../../modify/images/blue/sandbox/addToCart.png');
+	background-repeat:no-repeat;
+	position:relative;
+	margin:5px auto 0 auto;
+	cursor:pointer;	
+}
+
+#addToCart:hover {
+	background-position: 0 -53px;	
+}
+
+#bottomAddToCart .priceFont {
+	color:#313131;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	width:100%;
+	text-align:center;
+}
