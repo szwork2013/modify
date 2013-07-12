@@ -136,7 +136,6 @@ $(function () {
 		},
 
 		redirectToCart: function() {
-			window.location = "/cart.php";
 		},
 		
 		pulseIt: function() {
@@ -1409,6 +1408,9 @@ $(function () {
 			if(defs.product.variations.length == 0) {
 				defs.product.active_variation = null;
 			}
+
+			console.log(JSON.stringify(defs.product));
+
 			
 			if(typeof defs.product.active_variation != 'undefined') {
 				var that = this;
@@ -1421,12 +1423,14 @@ $(function () {
 						variation_id: defs.product.active_variation
 					},
 					success: function(data) {
+						console.log(JSON.stringify(data));
 						data = $.parseJSON(data);
 						data.products.open = false;
 						data.products.type = "sandbox";
 						that.model.set(data.products);
 					},
 					error: function(data) {
+						console.log(JSON.stringify(data));
 						data = $.parseJSON(data['responseText']);
 						new genericModal({
 							message: data['error']
@@ -1454,6 +1458,8 @@ $(function () {
 				defs.product.active_variation = null;
 			}
 			
+			console.log(JSON.stringify(defs.product));
+
 			if(typeof defs.product.active_variation != 'undefined') {
 				var that = this;
 				defs.context[defs.callback]();
@@ -1471,10 +1477,13 @@ $(function () {
 						data.products.open = false;
 						data.products.type = "sandbox";
 						that.model.set(data.products);
+						window.location = "/cart.php";
 					},
 					error: function(data) {
+						console.log(JSON.stringify(data));
+						
 						data = $.parseJSON(data['responseText']);
-						console.log(data);
+						
 						new genericModal({
 							message: data['error']
 						});
