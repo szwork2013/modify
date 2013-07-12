@@ -1449,7 +1449,7 @@ $(function () {
 				$.ajax({
 					url: config.ShopPath + "/sandbox.php",
 					data: {
-						action: 'remoteadd',
+						action: 'buynow',
 						product_id: defs.product.id,
 						variation_id: defs.product.active_variation
 					},
