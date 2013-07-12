@@ -45,6 +45,7 @@ class ISC_SANDBOX
 			'dispdata'					=> 'DisplayData',
 			'clear'						=> 'ClearSandbox',
 			'remoteadd' 				=> 'RemoteAdd',
+			'buynow'                    => 'RemoteAddOne'
 			'rest' 						=> 'HandleRESTRequest',
 			'addall'					=> 'AddAllToCart',
 			'fetch'						=> 'PrintJSON'
@@ -177,6 +178,26 @@ class ISC_SANDBOX
 		} else {
 			die("404");
 		}
+	}
+
+	private function RemoteAddOne() {
+		$product = $this->AddToSandbox();
+		if(!$product) {
+			die("404");
+		}
+
+		$GLOBALS['ISC_CLASS_CART'] = GetClass('ISC_CART');
+		$id = $product[0];
+		$quantity = $product[1];
+		$vid = $product[2];
+
+		if ($GLOBALS['ISC_CLASS_CART']->RemoteAddProductToCart($id, $quantity, $vid)) {
+			$this->ClearSandbox();
+			redirect('cart.php');
+		} else {
+			die("404");
+		}
+		
 	}
 
 	private function AddToSandbox()

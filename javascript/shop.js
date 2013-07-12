@@ -114,7 +114,7 @@ $(function () {
 			} else {
 				this.model.unset('active_variation');
 			}
-			window.sandbox.add({
+			window.sandbox.buyNow({
 				product: this.model.toJSON(),
 				context: this, 
 				callback: 'redirectToCart',
@@ -862,6 +862,7 @@ $(function () {
 			new genericModal({ 
 				message: 'Well this is embarrassing . We\'re not sure what happened... <br />We suggest refreshing the page :)'
 			});
+
 		}
 	});
 	
@@ -1387,6 +1388,49 @@ $(function () {
 		
 		add: function(opts) {
 			mixpanel.track("Added to Sandbox");
+			defs = {
+				product: null,
+				context: null,
+				callback: null,
+				showSuccess: null
+			};
+			$.extend(defs, opts);
+			
+			if(defs.product.variations.length == 0) {
+				defs.product.active_variation = null;
+			}
+			
+			if(typeof defs.product.active_variation != 'undefined') {
+				var that = this;
+				defs.context[defs.callback]();
+				$.ajax({
+					url: config.ShopPath + "/sandbox.php",
+					data: {
+						action: 'remoteadd',
+						product_id: defs.product.id,
+						variation_id: defs.product.active_variation
+					},
+					success: function(data) {
+						data = $.parseJSON(data);
+						data.products.open = false;
+						data.products.type = "sandbox";
+						that.model.set(data.products);
+					},
+					error: function(data) {
+						data = $.parseJSON(data['responseText']);
+						new genericModal({
+							message: data['error']
+						});
+					}
+				}); 
+			} else {
+				var chooseSize = new sandboxSizeChooser(defs);
+				$('body').append(chooseSize.render().el);
+			}
+		},
+
+		buyNow: function(opts) {
+			mixpanel.track("Added to Cart");
 			defs = {
 				product: null,
 				context: null,
