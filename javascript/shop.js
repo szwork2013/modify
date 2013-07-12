@@ -49,6 +49,8 @@ $(function () {
 			return this;
 		}
 	});
+
+
 	
 	var ProductModel = Backbone.Model.extend({
 		defaults: function() {
@@ -71,7 +73,8 @@ $(function () {
 		
 		events: {
 			'click img': "addToSandbox",
-			'click .visualize': "addToSandbox"
+			'click .visualize': "addToSandbox",
+			'click .buynow' : "buyNow"
 		},
 		
 		render: function() {
@@ -98,12 +101,40 @@ $(function () {
 			});
 			return false;
 		},
+
+
+		buyNow: function() {
+			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+				var that = this;
+				$.each(this.model.get('variations'), function(index, value) {
+					if(value.vcoptionids == shopApp.model.get('sizeid')) {
+						that.model.set('active_variation', value.combinationid);
+					}
+				});
+			} else {
+				this.model.unset('active_variation');
+			}
+			window.sandbox.add({
+				product: this.model.toJSON(),
+				context: this, 
+				callback: 'redirectToCart',
+				showSuccess: true
+			});
+			return false;
+		},
 		
+
+		// jQuery visualization to add to Cart
+
 		jumpToSandbox: function() {
 			this.$("a > img").jumpTo({
 				destination: "#sboxPreview header"
 			});
 			this.pulseIt();
+		},
+
+		redirectToCart: function() {
+			window.location('/cart.php');
 		},
 		
 		pulseIt: function() {
@@ -124,6 +155,9 @@ $(function () {
 		  return this.last().get('order') + 1;
 		}
 	});
+
+
+	// ****** CATEGORY ******* //
 	
 	var CategoryModel = Backbone.Model.extend({
 		defaults: function() {
