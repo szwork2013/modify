@@ -74,7 +74,7 @@ $(function () {
 		events: {
 			'click img': "addToSandbox",
 			'click .visualize': "addToSandbox",
-			'click .buynow' : "buyNow"
+			'click .buyNow' : "buyNow"
 		},
 		
 		render: function() {
@@ -83,6 +83,7 @@ $(function () {
 		},
 		
 		addToSandbox: function() {
+			console.log("btn addToSandbox");
 			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
 				var that = this;
 				$.each(this.model.get('variations'), function(index, value) {
@@ -104,6 +105,7 @@ $(function () {
 
 
 		buyNow: function() {
+			console.log("btn buyNow");
 			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
 				var that = this;
 				$.each(this.model.get('variations'), function(index, value) {
@@ -134,7 +136,7 @@ $(function () {
 		},
 
 		redirectToCart: function() {
-			window.location('/cart.php');
+			window.location = "/cart.php";
 		},
 		
 		pulseIt: function() {
@@ -1205,9 +1207,10 @@ $(function () {
 			'click .close': 'destroy'
 		},
 		
-		initialize: function(defs) {
+		initialize: function(defs, buyNow) {
 			_.bindAll(this, 'render', 'destroy', 'callback');
 			this.model = defs;
+			this.buyNow = buyNow;
 		},
 		
 		render: function() {
@@ -1247,7 +1250,13 @@ $(function () {
 				});
 			}
 			this.destroy();
-			window.sandbox.add(this.model);
+
+
+			if(this.buyNow) {
+				window.sandbox.buyNow(this.model);
+			} else {
+				window.sandbox.add(this.model);				
+			}
 		},
 		
 		destroy: function() {
@@ -1387,6 +1396,7 @@ $(function () {
 		},
 		
 		add: function(opts) {
+			console.log("sandbox add");
 			mixpanel.track("Added to Sandbox");
 			defs = {
 				product: null,
@@ -1424,12 +1434,13 @@ $(function () {
 					}
 				}); 
 			} else {
-				var chooseSize = new sandboxSizeChooser(defs);
+				var chooseSize = new sandboxSizeChooser(defs, false);
 				$('body').append(chooseSize.render().el);
 			}
 		},
 
 		buyNow: function(opts) {
+			console.log("sandbox buyNow");
 			mixpanel.track("Added to Cart");
 			defs = {
 				product: null,
@@ -1446,6 +1457,7 @@ $(function () {
 			if(typeof defs.product.active_variation != 'undefined') {
 				var that = this;
 				defs.context[defs.callback]();
+				console.log("about to make ajax call");
 				$.ajax({
 					url: config.ShopPath + "/sandbox.php",
 					data: {
@@ -1455,19 +1467,21 @@ $(function () {
 					},
 					success: function(data) {
 						data = $.parseJSON(data);
+						console.log("success!");
 						data.products.open = false;
 						data.products.type = "sandbox";
 						that.model.set(data.products);
 					},
 					error: function(data) {
 						data = $.parseJSON(data['responseText']);
+						console.log(data);
 						new genericModal({
 							message: data['error']
 						});
 					}
 				}); 
 			} else {
-				var chooseSize = new sandboxSizeChooser(defs);
+				var chooseSize = new sandboxSizeChooser(defs, true);
 				$('body').append(chooseSize.render().el);
 			}
 		},
