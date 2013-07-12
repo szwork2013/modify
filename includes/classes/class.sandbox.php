@@ -45,7 +45,7 @@ class ISC_SANDBOX
 			'dispdata'					=> 'DisplayData',
 			'clear'						=> 'ClearSandbox',
 			'remoteadd' 				=> 'RemoteAdd',
-			'buynow'                    => 'RemoteAddOne'
+			'buynow'                    => 'RemoteAddOne',
 			'rest' 						=> 'HandleRESTRequest',
 			'addall'					=> 'AddAllToCart',
 			'fetch'						=> 'PrintJSON'
