@@ -136,19 +136,20 @@
 
 			<!--TODO: Add Buy Now Button
 
-			<% if ( CONDITION ) { %>
-				<a class="ctaBut visualize" href="#">Buy Now</a>
+			<% if ( type == 3 || type == 4 ) { %> <!-- Condition should only be met if Mod or Set -->
+				<a class="ctaBut buyNow" href="#">Buy Now</a>
 			<% } %>
 			<% else { %>
 				<a class="nBut visualize" href="#">Add to Visualizer</a>
 			<% }%>
 			 -->
-			<a class="nBut visualize" href="#">Add to Visualizer</a>
+			<a class="nBut visualize" href="#">Add 2 Visualizer</a>
 			<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>
 		</div>
 		<a href="<%= link %>" class="">
 			<figcaption>
 				<%= name %><br>
+				<%= type %><br>
 				<span><%= price %></span><br>
 			</figcaption>
 		</a>
