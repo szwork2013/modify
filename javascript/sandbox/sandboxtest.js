@@ -443,7 +443,7 @@ $(function() {
 			if (pinParams != undefined) {
 				pinParams = pinParams.indexOf("?");	
 				pinParams = $(".popoutShare iframe").attr("src").slice(0,pinParams+1);
-				$(".popoutShare iframe").attr("src", pinParams + "url="+encodeURIComponent("https://www.modifywatches.com/sandbox.php#sku=\""+sku+"\";size=\""+size+"\";")+"&media="+encodeURIComponent("https://www.modifywatches.com/templates/modify/images/blue/sandbox/"+type+"/bigish_"+sku+".jpg")+"&description="+encodeURIComponent(name)+"&layout=horizontal");
+				$(".popoutShare iframe").attr("src", pinParams + "url="+encodeURIComponent("https://dev.modifywatches.com/sandbox.php#sku=\""+sku+"\";size=\""+size+"\";")+"&media="+encodeURIComponent("https://dev.modifywatches.com/templates/modify/images/blue/sandbox/"+type+"/bigish_"+sku+".jpg")+"&description="+encodeURIComponent(name)+"&layout=horizontal");
 			}
 			
 			$("#"+ size + "StyleWatchDisplay").fadeOut(400, function() { // Hide the the other piece
@@ -486,7 +486,7 @@ $(function() {
 				if (pinParams != undefined) {
 					pinParams = pinParams.indexOf("?");	
 					pinParams = $(".popoutShare iframe").attr("src").slice(0,pinParams+1);
-					$(".popoutShare iframe").attr("src", pinParams + "url="+encodeURIComponent("https://www.modifywatches.com/sandbox.php#sku=\""+sku+"\";size=\""+size+"\";")+"&media="+encodeURIComponent("https://www.modifywatches.com/templates/modify/images/blue/sandbox/"+type+"/bigish_"+sku+".jpg")+"&description="+encodeURIComponent(name)+"&layout=horizontal");
+					$(".popoutShare iframe").attr("src", pinParams + "url="+encodeURIComponent("https://dev.modifywatches.com/sandbox.php#sku=\""+sku+"\";size=\""+size+"\";")+"&media="+encodeURIComponent("https://dev.modifywatches.com/templates/modify/images/blue/sandbox/"+type+"/bigish_"+sku+".jpg")+"&description="+encodeURIComponent(name)+"&layout=horizontal");
 				}
 				
 				$("#popoutTop").fadeIn();
@@ -957,8 +957,8 @@ $(function() {
 			products.push(new Array(productId, productQuantity));
 		}
 	
-		// $.post("http://www.modifywatches.com/cart.php", { action: "addsandbox", product_info: products }, function(data) { console.log(data); } );
-		url = "https://www.modifywatches.com/cart.php";
+		// $.post("http://dev.modifywatches.com/cart.php", { action: "addsandbox", product_info: products }, function(data) { console.log(data); } );
+		url = "https://dev.modifywatches.com/cart.php";
 		$.post(url,{ action: "addsandbox", product_info: products }, function(data) {
 			
 			$("#sandboxCheckout").html(data);

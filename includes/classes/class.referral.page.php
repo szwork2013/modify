@@ -17,7 +17,7 @@ class ISC_REFERRAL_PAGE
 			$GLOBALS['Sharing'] = $GLOBALS['ISC_CLASS_TEMPLATE']->GetSnippet('ReferralSharing');
 		}
 		else {
-			$GLOBALS['AskLogin'] = '<p>Please <a href="http://www.modifywatches.com/login.php">Login</a> or <a href="https://www.modifywatches.com/login.php?action=create_account">Register</a> to get your super dope code!';	
+			$GLOBALS['AskLogin'] = '<p>Please <a href="http://dev.modifywatches.com/login.php">Login</a> or <a href="https://dev.modifywatches.com/login.php?action=create_account">Register</a> to get your super dope code!';	
 			$GLOBALS['Sharing'] = '';
 		}
 //		else {

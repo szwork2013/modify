@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<channel>
 		<title><![CDATA[Modify Watches: Popular Products]]></title>
-		<link>https://www.modifywatches.com</link>
+		<link>https://dev.modifywatches.com</link>
 		<description><![CDATA[A list of the popular products at Modify Watches.]]></description>
 		<pubDate>Sat, 18 Feb 2012 14:43:54 +0000</pubDate>
 		<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 		<item>
 			<title><![CDATA[Classic Black Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Black-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Black-Face.html</link>
 			<pubDate>Thu, 10 Nov 2011 02:35:09 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Black-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Black-Face.html"  ><img src="https://www.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg" alt="Classic Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Black-Face.html"  ><img src="https://www.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg" alt="Classic Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Black-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Black-Face.html"  ><img src="https://dev.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg" alt="Classic Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Black-Face.html"  ><img src="https://dev.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg" alt="Classic Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[74]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/s/401/81750201101__51863_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/z/300/81750201101__31774_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/s/401/81750201101__51863_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Silver Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Silver-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Silver-Face.html</link>
 			<pubDate>Thu, 10 Nov 2011 02:35:14 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Silver-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Silver-Face.html"  ><img src="https://www.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg" alt="Classic Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Silver-Face.html"  ><img src="https://www.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg" alt="Classic Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Silver-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Silver-Face.html"  ><img src="https://dev.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg" alt="Classic Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Silver-Face.html"  ><img src="https://dev.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg" alt="Classic Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[75]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/k/275/81750201102__40246_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/s/247/81750201102__11148_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/k/275/81750201102__40246_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic White Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-White-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-White-Face.html</link>
 			<pubDate>Thu, 10 Nov 2011 02:35:17 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-White-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-White-Face.html"  ><img src="https://www.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg" alt="Classic White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-White-Face.html"  ><img src="https://www.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg" alt="Classic White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-White-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-White-Face.html"  ><img src="https://dev.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg" alt="Classic White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-White-Face.html"  ><img src="https://dev.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg" alt="Classic White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[76]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/r/320/81750201103__72402_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/g/403/81750201103__26588_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/r/320/81750201103__72402_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Pink Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Pink-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Pink-Face.html</link>
 			<pubDate>Mon, 21 Nov 2011 20:27:00 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Pink-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Pink-Face.html"  ><img src="https://www.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg" alt="Classic Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Pink-Face.html"  ><img src="https://www.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg" alt="Classic Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Pink-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Pink-Face.html"  ><img src="https://dev.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg" alt="Classic Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Pink-Face.html"  ><img src="https://dev.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg" alt="Classic Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[114]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/t/235/81750201106__18794_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/l/336/81750201106__63148_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/t/235/81750201106__18794_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Blue Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Blue-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Blue-Face.html</link>
 			<pubDate>Mon, 21 Nov 2011 20:27:02 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Blue-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Blue-Face.html"  ><img src="https://www.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg" alt="Classic Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Blue-Face.html"  ><img src="https://www.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg" alt="Classic Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Blue-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Blue-Face.html"  ><img src="https://dev.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg" alt="Classic Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Blue-Face.html"  ><img src="https://dev.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg" alt="Classic Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[115]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/j/746/81750201104__34247_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/h/926/81750201104__14474_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/j/746/81750201104__34247_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Green Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Green-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Green-Face.html</link>
 			<pubDate>Mon, 21 Nov 2011 20:27:04 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Green-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Green-Face.html"  ><img src="https://www.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg" alt="Classic Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Green-Face.html"  ><img src="https://www.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg" alt="Classic Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Green-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Green-Face.html"  ><img src="https://dev.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg" alt="Classic Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Green-Face.html"  ><img src="https://dev.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg" alt="Classic Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[116]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/i/285/81750201105__58511_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/b/290/81750201105__79268_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/i/285/81750201105__58511_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Gold Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Gold-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Gold-Face.html</link>
 			<pubDate>Mon, 30 Jan 2012 18:06:12 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Gold-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Gold-Face.html"  ><img src="https://www.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg" alt="Classic Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Gold-Face.html"  ><img src="https://www.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg" alt="Classic Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Gold-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Gold-Face.html"  ><img src="https://dev.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg" alt="Classic Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Gold-Face.html"  ><img src="https://dev.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg" alt="Classic Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[172]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/g/706/81750201115__47918_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/g/534/81750201115__68063_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/g/706/81750201115__47918_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Purple Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Purple-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Purple-Face.html</link>
 			<pubDate>Mon, 30 Jan 2012 18:06:13 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Purple-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Purple-Face.html"  ><img src="https://www.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg" alt="Classic Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Purple-Face.html"  ><img src="https://www.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg" alt="Classic Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Purple-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Purple-Face.html"  ><img src="https://dev.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg" alt="Classic Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Purple-Face.html"  ><img src="https://dev.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg" alt="Classic Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[173]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/d/136/81750201117__29962_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/j/351/81750201117__21031_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/d/136/81750201117__29962_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Classic Orange Face]]></title>
-			<link>http://www.modifywatches.com/products/Classic-Orange-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Classic-Orange-Face.html</link>
 			<pubDate>Mon, 30 Jan 2012 18:06:15 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Classic-Orange-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Orange-Face.html"  ><img src="https://www.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg" alt="Classic Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Classic-Orange-Face.html"  ><img src="https://www.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg" alt="Classic Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Classic-Orange-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Orange-Face.html"  ><img src="https://dev.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg" alt="Classic Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Classic-Orange-Face.html"  ><img src="https://dev.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg" alt="Classic Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[174]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/o/126/81750201116__00749_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/r/633/81750201116__24561_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/o/126/81750201116__00749_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$25.00]]></isc:price>
 		</item>
 	</channel>

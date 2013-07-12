@@ -1106,7 +1106,7 @@ $(function(){
 		// handle clicks on the 'Upload an Image' menu item when swfupload support is not available
 		evt.preventDefault();
 
-		var url = 'https://www.modifywatches.com/admin/remote.php?w=photowallimages&photowallimageshandler=newImageUpload';
+		var url = 'https://dev.modifywatches.com/admin/remote.php?w=photowallimages&photowallimageshandler=newImageUpload';
 		var data = {};
 		
 		var dialog = new MultiUploadDialog({

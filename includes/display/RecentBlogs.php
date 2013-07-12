@@ -4,7 +4,7 @@ CLASS ISC_RECENTBLOGS_PANEL extends PANEL
 {
 	public function SetPanelSettings()
 	{
-		$xml = "http://www.modifywatches.com/blog/feed/";
+		$xml = "http://dev.modifywatches.com/blog/feed/";
 
 		$xmlDoc = new DOMDocument();
 		$xmlDoc->load($xml);

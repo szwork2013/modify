@@ -13,7 +13,7 @@ class ISC_LANDING
 			case "wrist_watch": {
 				$this->pageTitle = "Make Your Own Watch, Silicone Wrist Watches - " . GetConfig('StoreName');
 				$GLOBALS['SubHeaderText'] = 'Make Your Own Watch. Any Style.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Wrist Watch, Silicone Watch, Silicone Watches, Interchangeable Watch, Water Proof Watch, Make Your Own Watch";
 				$GLOBALS['Description'] = "Modify Watches: Super-Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Silicone Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -21,7 +21,7 @@ class ISC_LANDING
 			case "discount_watches": {
 				$this->pageTitle = GetConfig('StoreName') . " - 15% Discount On All Watches - SALE";
 				$GLOBALS['SubHeaderText'] = 'Now on sale! 15% Off All Watches.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Discount Watches, Discount Watch, Watch Sale, Watches On Sale, Cheap Watch, Cheap Watches, Affordable Watch, affordable wrist watch";
 				$GLOBALS['Description'] = "Modify Watches: On Sale! 15% Discount. Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Rubber Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -29,7 +29,7 @@ class ISC_LANDING
 			case "interchangeable_watches": {
 				$this->pageTitle = "Interchangeable Watches, Mix And Match Wrist Watch - " . GetConfig('StoreName');
 				$GLOBALS['SubHeaderText'] = 'Interchangeable Watches. Any Style.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Interchangeable Watches, Interchangeable Watch, Interchangeable Wrist Watch, Changeable Watch, Changeable Watch Strap, Changeable Watch Band, Mix and Match Wrist Watch";
 				$GLOBALS['Description'] = "Modify Watches: Super-Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Rubber Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -37,7 +37,7 @@ class ISC_LANDING
 			case "make_your_own_watch": {
 				$this->pageTitle = "Make Your Own Watch - " . GetConfig('StoreName');
 				$GLOBALS['SubHeaderText'] = 'Make Your Own Watch. Any Style.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Make Your Own Watch, Make Your Own Watches, Make Your Own Wrist Watch, Make Your Own Wrist Watches, Create Your Own Watch, Design Your Own Watch, Custom Watch, Custom Watches, Personalized Watch, Personalizes Watches";
 				$GLOBALS['Description'] = "Modify Watches: Super-Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Rubber Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -45,7 +45,7 @@ class ISC_LANDING
 			case "rubber_watch": {
 				$this->pageTitle = "Rubber Watches, Make Your Own Watch - " . GetConfig('StoreName');
 				$GLOBALS['SubHeaderText'] = 'Soft Rubber Watch. 100% Your Style.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Rubber Watch, Rubber Watches, Rubber Watch bands, Rubber Watch Straps, Rubber Wrist Watch, Rubber Watch";
 				$GLOBALS['Description'] = "Modify Watches: Super-Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Rubber Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -53,7 +53,7 @@ class ISC_LANDING
 			case "silicone_watch": {
 				$this->pageTitle = "Silicone Watches, Make Your Own Watch - " . GetConfig('StoreName');
 				$GLOBALS['SubHeaderText'] = '100% Silicone Watches. 100% Your Style.';
-				$GLOBALS['ButtonLink'] = 'http://www.modifywatches.com/categories?a=build';
+				$GLOBALS['ButtonLink'] = 'http://dev.modifywatches.com/categories?a=build';
 				$GLOBALS['Keywords'] = "Silicone Watch, Silicone Watches, Silicone Watch bands, Silicone Watch Straps, Silicone Wrist Watch, Silicon Watch";
 				$GLOBALS['Description'] = "Modify Watches: Super-Dope Interchangeable Watches. Mix-n-Match Colorful Faces And Soft Silicone Straps & Create Your Own Style. Show Your Colors!";
 				break;
@@ -80,7 +80,7 @@ class ISC_LANDING
 				break;
 			}
 			case "easter": {
-				header('Location: http://www.modifywatches.com/categories/Easter?action=browse');
+				header('Location: http://dev.modifywatches.com/categories/Easter?action=browse');
 				break;
 			}
 			case "fb15": {

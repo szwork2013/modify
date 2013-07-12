@@ -148,7 +148,7 @@ if (isset($_POST['Submit']) && $_POST['Submit'] == "Upload") {
 		else $sub = false;
 		$url = $foto_upload->timestamp.$foto_upload->get_extension($foto_upload->the_file);
 		mysql_query("INSERT INTO petphotos (name, email, subscribe, photourl) VALUES ('$personname', '$email', '$sub', '$url')") or die(mysql_error());
-		die("<link href=\"http://www.modifywatches.com/store/templates/modify/Styles/blue.css?186\" media=\"all\" type=\"text/css\" rel=\"stylesheet\" /> <div class=\"uploadText\">Thanks!</div><div class=\"uploadBody\" stlye='font-size:16px;'>The file has been uploaded. It should appear on the voting page shortly!</div>");
+		die("<link href=\"http://dev.modifywatches.com/store/templates/modify/Styles/blue.css?186\" media=\"all\" type=\"text/css\" rel=\"stylesheet\" /> <div class=\"uploadText\">Thanks!</div><div class=\"uploadBody\" stlye='font-size:16px;'>The file has been uploaded. It should appear on the voting page shortly!</div>");
 	}
 }
 $error = $foto_upload->show_error_string();
@@ -159,9 +159,9 @@ $error = $foto_upload->show_error_string();
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Photo Upload</title>
 
-	<link href="http://www.modifywatches.com/store/templates/modify/Styles/blue.css?186" media="all" type="text/css" rel="stylesheet" /> 
-	<script type="text/javascript" src="http://www.modifywatches.com/store/javascript/upload.js"></script>
-    <script type="text/javascript" src="http://www.modifywatches.com/store/javascript/jquery.js"></script>
+	<link href="http://dev.modifywatches.com/store/templates/modify/Styles/blue.css?186" media="all" type="text/css" rel="stylesheet" /> 
+	<script type="text/javascript" src="http://dev.modifywatches.com/store/javascript/upload.js"></script>
+    <script type="text/javascript" src="http://dev.modifywatches.com/store/javascript/jquery.js"></script>
     <script type="text/javascript"> 
         // wait for the DOM to be loaded 
 
@@ -185,7 +185,7 @@ $error = $foto_upload->show_error_string();
 				  return false;  
 				} 
 				
-			  $(".uploadBody").html("<img src='htp://www.modifywatches.com/store/templates/modify/images/blue/sandbox/ajax-loader.gif' />"); 
+			  $(".uploadBody").html("<img src='htp://dev.modifywatches.com/store/templates/modify/images/blue/sandbox/ajax-loader.gif' />"); 
 		   });
         }); 
 		
@@ -204,7 +204,7 @@ $error = $foto_upload->show_error_string();
     </div>
     
     <div class="uploadBody">
-    	<form action="http://www.modifywatches.com/facebook/petcontest/uploadform.php" id="actualForm" method="post" enctype="multipart/form-data">
+    	<form action="http://dev.modifywatches.com/facebook/petcontest/uploadform.php" id="actualForm" method="post" enctype="multipart/form-data">
 	        <input type="hidden" name="MAX_FILE_SIZE" value="<?php echo $max_size; ?>">
             <span class="uploadLabel">Your Name</span><br />
             <input type="text" class="uploadInput" id="name" name="name" /><br /><br />
@@ -213,7 +213,7 @@ $error = $foto_upload->show_error_string();
 			<input type="checkbox" id="subcribe" name="subscribe" value="yes" CHECKED /><span class="uploadLabel">Subscribe to Newsletter?</span><br /> <br />
             <span class="uploadLabel">File</span><br />
             <input type="file" value="Choose File" id="upload" class="uploadFile" name="upload" /><br /><br />
-            <input type="image" src="http://www.modifywatches.com/store/templates/modify/images/blue/uploadbutton.png" name="Submit" id="Submit" value="Upload" style="margin-top:5px;float:left;cursor:pointer;"/>
+            <input type="image" src="http://dev.modifywatches.com/store/templates/modify/images/blue/uploadbutton.png" name="Submit" id="Submit" value="Upload" style="margin-top:5px;float:left;cursor:pointer;"/>
 		</form>
          <p><?php echo $error; ?></p>
     </div>

@@ -26,9 +26,9 @@
 			$( "div.photo-container" ).photoTagger({
 				
 				// The API urls.
-				loadURL: "https://www.modifywatches.com/remote.php?w=getphotowallltags",
-				saveURL: "https://www.modifywatches.com/admin/remote.php?w=savephotowalltags",
-				deleteURL: "https://www.modifywatches.com/admin/remote.php?w=deletephotowalltags",
+				loadURL: "https://dev.modifywatches.com/remote.php?w=getphotowallltags",
+				saveURL: "https://dev.modifywatches.com/admin/remote.php?w=savephotowalltags",
+				deleteURL: "https://dev.modifywatches.com/admin/remote.php?w=deletephotowalltags",
  
 				cleanAJAXResponse: function( apiAction, response ){
 					if (apiAction == "load"){

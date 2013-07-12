@@ -14,7 +14,7 @@ class ISC_SEND_EMAILS
 	}
 	
 	private function SendEmails25() {
-		$handle = file_get_contents('http://www.modifywatches.com/gsn25.csv');
+		$handle = file_get_contents('http://dev.modifywatches.com/gsn25.csv');
 		$codes = array_chunk(str_getcsv($handle), 4);
 		foreach($codes as $code) {
 			$GLOBALS['EmailHeader'] = "Your Code for Modify Watches has arrived from GSN!";
@@ -38,7 +38,7 @@ class ISC_SEND_EMAILS
 	}
 	
 	private function SendEmails1000() {
-		$handle = file_get_contents('http://www.modifywatches.com/gsn1000.csv');
+		$handle = file_get_contents('http://dev.modifywatches.com/gsn1000.csv');
 		$codes = array_chunk(str_getcsv($handle), 2);
 		foreach($codes as $code) {
 			$GLOBALS['EmailHeader'] = "Your 30% Off Modify Watches Coupon Code has arrived from GSN!";

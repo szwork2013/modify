@@ -111,7 +111,7 @@
         <div style="height:110px;width:522px;background-image:url('images/header.jpg');float:left;"></div>
         <div style="width:522px;height:320px;background-image:url('images/textpiece.jpg');float:left;">
         	<div style="position:relative;top:235px;left:128px;width:263px;height:65px;text-align:center;">
-            	<a href="http://www.modifywatches.com/facebook/petcontest/uploadform.php" class="iframe"><img src="images/submit.png" alt="Upload Photo" /></a>
+            	<a href="http://dev.modifywatches.com/facebook/petcontest/uploadform.php" class="iframe"><img src="images/submit.png" alt="Upload Photo" /></a>
             </div>
         </div>
         <div style="width:522px;float:left;background-image:url('images/bg.jpg');background-repeat:repeat-y;">

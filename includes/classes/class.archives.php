@@ -109,7 +109,7 @@ class ISC_ARCHIVES
 		  $sku = $_GET['watch'];         
 
 		  $GLOBALS['AdditionalHTML'] = "<meta name=\"description\" content=\"" . $fatArray[$sku] ."\" />" .
-			"<link rel=\"image_src\" href=\"https://www.modifywatches.com/templates/modify/images/oldphotos/combos/".$sku.".JPG\" />";
+			"<link rel=\"image_src\" href=\"https://dev.modifywatches.com/templates/modify/images/oldphotos/combos/".$sku.".JPG\" />";
 			
 		}
 

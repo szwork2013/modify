@@ -35,9 +35,9 @@ class __TwigTemplate_bf721b335ac1b61b23ebcec5e19ca576 extends Twig_Template
 \t\t\t\$( \"div.photo-container\" ).photoTagger({
 \t\t\t\t
 \t\t\t\t// The API urls.
-\t\t\t\tloadURL: \"https://www.modifywatches.com/remote.php?w=getphotowallltags\",
-\t\t\t\tsaveURL: \"https://www.modifywatches.com/admin/remote.php?w=savephotowalltags\",
-\t\t\t\tdeleteURL: \"https://www.modifywatches.com/admin/remote.php?w=deletephotowalltags\",
+\t\t\t\tloadURL: \"https://dev.modifywatches.com/remote.php?w=getphotowallltags\",
+\t\t\t\tsaveURL: \"https://dev.modifywatches.com/admin/remote.php?w=savephotowalltags\",
+\t\t\t\tdeleteURL: \"https://dev.modifywatches.com/admin/remote.php?w=deletephotowalltags\",
  
 \t\t\t\tcleanAJAXResponse: function( apiAction, response ){
 \t\t\t\t\tif (apiAction == \"load\"){

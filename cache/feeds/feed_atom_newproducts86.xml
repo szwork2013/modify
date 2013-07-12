@@ -2,164 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: New Products - "Together" Non-Profit Watch]]></title>
 	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=86&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?categoryid=86&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-05-22T11:09:23Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:39:06Z</published>
 		<updated>2013-05-20T23:39:06Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Pool Party Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/x/082/1369118346__56952_thumb.jpg" alt="Together Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Pool-Party-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/x/082/1369118346__56952_thumb.jpg" alt="Together Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2060]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/082/1369118346__56952_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/f/934/1369118346__17512_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/082/1369118346__56952_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/f/934/1369118346__17512_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:34:42Z</published>
 		<updated>2013-05-20T23:34:42Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Neon Yellow Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html"  ><img src="http://www.modifywatches.com/product_images/k/792/1369118082__83488_thumb.jpg" alt="Together Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Neon-Yellow-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/k/792/1369118082__83488_thumb.jpg" alt="Together Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2019]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/k/792/1369118082__83488_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/761/1369118082__01992_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/k/792/1369118082__83488_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/761/1369118082__01992_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:27:18Z</published>
 		<updated>2013-05-20T23:27:18Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Cool Mist Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html"  ><img src="http://www.modifywatches.com/product_images/c/474/1369117746__97209_thumb.jpg" alt="Together Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Cool-Mist-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/c/474/1369117746__97209_thumb.jpg" alt="Together Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1978]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/474/1369117746__97209_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/t/061/1369117746__02356_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/474/1369117746__97209_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/t/061/1369117746__02356_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:27:04Z</published>
 		<updated>2013-02-07T16:27:04Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Orchid-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Orchid-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Orchid-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Orchid-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Orchid Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Orchid-Strap.html"  ><img src="http://www.modifywatches.com/product_images/o/044/1368494013__00042_thumb.jpg" alt="Together Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Orchid-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/o/044/1368494013__00042_thumb.jpg" alt="Together Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1827]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/o/044/1368494013__00042_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/309/1368494013__34294_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/o/044/1368494013__00042_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/309/1368494013__34294_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:26:54Z</published>
 		<updated>2013-02-07T16:26:54Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Robin's Egg Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/y/074/1368494057__93752_thumb.jpg" alt="Together Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/y/074/1368494057__93752_thumb.jpg" alt="Together Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1788]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/y/074/1368494057__93752_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/a/500/1368494057__00040_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/y/074/1368494057__93752_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/a/500/1368494057__00040_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:24:04Z</published>
 		<updated>2013-02-07T16:24:04Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Mint-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Mint-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Mint-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Mint-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Mint Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Mint-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Mint-Strap.html"  ><img src="http://www.modifywatches.com/product_images/o/417/1368494128__82185_thumb.jpg" alt="Together Face with Mint Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Mint-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Mint-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/o/417/1368494128__82185_thumb.jpg" alt="Together Face with Mint Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1749]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/o/417/1368494128__82185_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/530/1368494128__24363_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/o/417/1368494128__82185_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/s/530/1368494128__24363_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:21:18Z</published>
 		<updated>2013-02-07T16:21:18Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Black Glitter Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html"  ><img src="http://www.modifywatches.com/product_images/c/807/1368493910__98084_thumb.jpg" alt="Together Face with Black Glitter Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Black-Glitter-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/c/807/1368493910__98084_thumb.jpg" alt="Together Face with Black Glitter Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1710]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/807/1368493910__98084_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/134/1368493910__95097_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/807/1368493910__98084_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/134/1368493910__95097_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:54Z</published>
 		<updated>2012-11-12T21:27:54Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-in-Yellow.html" />
-		<id>http://www.modifywatches.com/products/Together-in-Yellow.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-in-Yellow.html" />
+		<id>http://dev.modifywatches.com/products/Together-in-Yellow.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together in Yellow]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-in-Yellow.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-in-Yellow.html"  ><img src="http://www.modifywatches.com/product_images/w/693/1364578089__23517_thumb.jpg" alt="Together in Yellow" /></a></div>The 'Together in Yellow' comes with one Together Black watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-in-Yellow.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-in-Yellow.html"  ><img src="http://dev.modifywatches.com/product_images/w/693/1364578089__23517_thumb.jpg" alt="Together in Yellow" /></a></div>The 'Together in Yellow' comes with one Together Black watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Together in Yellow' comes with one Together Black watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..]]></isc:description>
 		<isc:productid><![CDATA[1419]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/693/1364578089__23517_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/208/1364578089__67294_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/w/693/1364578089__23517_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/208/1364578089__67294_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:53Z</published>
 		<updated>2012-11-12T21:27:53Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-in-White.html" />
-		<id>http://www.modifywatches.com/products/Together-in-White.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-in-White.html" />
+		<id>http://dev.modifywatches.com/products/Together-in-White.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together in White]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-in-White.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-in-White.html"  ><img src="http://www.modifywatches.com/product_images/h/418/1357161882__63239_thumb.jpg" alt="Together in White" /></a></div>The 'Together in White' comes with one Together Black watch face and one White strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a sc..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-in-White.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-in-White.html"  ><img src="http://dev.modifywatches.com/product_images/h/418/1357161882__63239_thumb.jpg" alt="Together in White" /></a></div>The 'Together in White' comes with one Together Black watch face and one White strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a sc..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Together in White' comes with one Together Black watch face and one White strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a sc..]]></isc:description>
 		<isc:productid><![CDATA[1418]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/h/418/1357161882__63239_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/d/381/1357161882__95925_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/h/418/1357161882__63239_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/d/381/1357161882__95925_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:53Z</published>
 		<updated>2012-11-12T21:27:53Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html" />
-		<id>http://www.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Together Face with Turquoise Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html"  ><img src="http://www.modifywatches.com/product_images/o/584/1368493365__77747_thumb.jpg" alt="Together Face with Turquoise Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Together-Face-with-Turquoise-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/o/584/1368493365__77747_thumb.jpg" alt="Together Face with Turquoise Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1417]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/o/584/1368493365__77747_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/r/388/1368493365__96606_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/o/584/1368493365__77747_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/r/388/1368493365__96606_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 </feed>

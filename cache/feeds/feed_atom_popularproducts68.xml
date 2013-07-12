@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=68&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=68&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-04-24T22:07:06Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T18:17:49Z</published>
 		<updated>2012-10-27T18:17:49Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Green-Face.html" />
-		<id>http://www.modifywatches.com/products/Green-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Green-Face.html" />
+		<id>http://dev.modifywatches.com/products/Green-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Green Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Green-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Green-Face.html"  ><img src="http://www.modifywatches.com/product_images/i/533/green__56904_thumb.jpg" alt="Green Face" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Green-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Green-Face.html"  ><img src="http://dev.modifywatches.com/product_images/i/533/green__56904_thumb.jpg" alt="Green Face" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -24,103 +24,103 @@
 <tr>
 <td height="16" align="LEFT">The Green watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarb..]]></isc:description>
 		<isc:productid><![CDATA[603]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/533/green__56904_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/q/440/green__27915_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/533/green__56904_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/q/440/green__27915_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:09:08Z</published>
 		<updated>2012-10-27T19:09:08Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html" />
-		<id>http://www.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html" />
+		<id>http://dev.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Who Do You Think You Are?]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html"  ><img src="http://www.modifywatches.com/product_images/u/318/1362076742__16690_thumb.jpg" alt="Who Do You Think You Are?" /></a></div>The 'Who Do You Think You Are?' comes with one Green watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Who-Do-You-Think-You-Are%3F.html"  ><img src="http://dev.modifywatches.com/product_images/u/318/1362076742__16690_thumb.jpg" alt="Who Do You Think You Are?" /></a></div>The 'Who Do You Think You Are?' comes with one Green watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Who Do You Think You Are?' comes with one Green watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..]]></isc:description>
 		<isc:productid><![CDATA[653]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/u/318/1362076742__16690_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/d/784/1362076742__65329_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/u/318/1362076742__16690_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/d/784/1362076742__65329_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:14Z</published>
 		<updated>2012-10-27T19:24:14Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Modi-Dick.html" />
-		<id>http://www.modifywatches.com/products/Modi-Dick.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Modi-Dick.html" />
+		<id>http://dev.modifywatches.com/products/Modi-Dick.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Modi Dick]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Modi-Dick.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Modi-Dick.html"  ><img src="http://www.modifywatches.com/product_images/c/250/1364578071__03168_thumb.jpg" alt="Modi Dick" /></a></div>The 'Modi Dick' comes with one Green watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resist..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Modi-Dick.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Modi-Dick.html"  ><img src="http://dev.modifywatches.com/product_images/c/250/1364578071__03168_thumb.jpg" alt="Modi Dick" /></a></div>The 'Modi Dick' comes with one Green watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resist..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Modi Dick' comes with one Green watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resist..]]></isc:description>
 		<isc:productid><![CDATA[678]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/250/1364578071__03168_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/v/000/1364578071__10596_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/250/1364578071__03168_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/v/000/1364578071__10596_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:26:25Z</published>
 		<updated>2012-10-27T19:26:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Green Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/f/305/1366150839__16296_thumb.jpg" alt="Green Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Green-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/f/305/1366150839__16296_thumb.jpg" alt="Green Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[703]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/305/1366150839__16296_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/e/379/1366150839__65434_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/305/1366150839__16296_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/e/379/1366150839__65434_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:27:39Z</published>
 		<updated>2012-10-27T19:27:39Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Hazel.html" />
-		<id>http://www.modifywatches.com/products/Hazel.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Hazel.html" />
+		<id>http://dev.modifywatches.com/products/Hazel.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Hazel]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Hazel.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Hazel.html"  ><img src="http://www.modifywatches.com/product_images/i/830/1357161449__60092_thumb.jpg" alt="Hazel" /></a></div>The 'Hazel' comes with one Green watch face and one Brown strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistant polyc..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Hazel.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Hazel.html"  ><img src="http://dev.modifywatches.com/product_images/i/830/1357161449__60092_thumb.jpg" alt="Hazel" /></a></div>The 'Hazel' comes with one Green watch face and one Brown strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistant polyc..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Hazel' comes with one Green watch face and one Brown strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistant polyc..]]></isc:description>
 		<isc:productid><![CDATA[728]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/830/1357161449__60092_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/551/1357161449__54820_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/830/1357161449__60092_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/551/1357161449__54820_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:29:26Z</published>
 		<updated>2012-10-27T19:29:26Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Maroon-with-a-View.html" />
-		<id>http://www.modifywatches.com/products/Maroon-with-a-View.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Maroon-with-a-View.html" />
+		<id>http://dev.modifywatches.com/products/Maroon-with-a-View.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Maroon with a View]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Maroon-with-a-View.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Maroon-with-a-View.html"  ><img src="http://www.modifywatches.com/product_images/a/629/1360526674__26353_thumb.jpg" alt="Maroon with a View" /></a></div>The 'Maroon with a View' comes with one Green watch face and one Crimson strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Maroon-with-a-View.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Maroon-with-a-View.html"  ><img src="http://dev.modifywatches.com/product_images/a/629/1360526674__26353_thumb.jpg" alt="Maroon with a View" /></a></div>The 'Maroon with a View' comes with one Green watch face and one Crimson strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Maroon with a View' comes with one Green watch face and one Crimson strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-..]]></isc:description>
 		<isc:productid><![CDATA[753]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/a/629/1360526674__26353_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/y/772/1360526674__14844_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/a/629/1360526674__26353_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/y/772/1360526674__14844_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:33:43Z</published>
 		<updated>2012-10-27T19:33:43Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Holy-Guacamole.html" />
-		<id>http://www.modifywatches.com/products/Holy-Guacamole.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Holy-Guacamole.html" />
+		<id>http://dev.modifywatches.com/products/Holy-Guacamole.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Holy Guacamole]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Holy-Guacamole.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Holy-Guacamole.html"  ><img src="http://www.modifywatches.com/product_images/u/602/1357161450__04773_thumb.jpg" alt="Holy Guacamole" /></a></div>The 'Holy Guacamole' comes with one Green watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Holy-Guacamole.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Holy-Guacamole.html"  ><img src="http://dev.modifywatches.com/product_images/u/602/1357161450__04773_thumb.jpg" alt="Holy Guacamole" /></a></div>The 'Holy Guacamole' comes with one Green watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Holy Guacamole' comes with one Green watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scr..]]></isc:description>
 		<isc:productid><![CDATA[778]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/u/602/1357161450__04773_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/c/708/1357161450__87756_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/u/602/1357161450__04773_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/c/708/1357161450__87756_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:34:54Z</published>
 		<updated>2012-10-27T19:34:54Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/500/green__23952_thumb.jpg" alt="Green Strap" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/500/green__23952_thumb.jpg" alt="Green Strap" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -132,36 +132,36 @@
 <tr>
 <td height="16" align="LEFT">The Green strap is interchangeable so that you can mix-and-match the this design with any other faces from your Modify collection. The strap is made from a soft and comfortable sili..]]></isc:description>
 		<isc:productid><![CDATA[795]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/500/green__23952_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/g/292/green__03141_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/500/green__23952_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/g/292/green__03141_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$15.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:34:54Z</published>
 		<updated>2012-10-27T19:34:54Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/The-Masters.html" />
-		<id>http://www.modifywatches.com/products/The-Masters.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/The-Masters.html" />
+		<id>http://dev.modifywatches.com/products/The-Masters.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[The Masters]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/The-Masters.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/The-Masters.html"  ><img src="http://www.modifywatches.com/product_images/i/128/1351391694__55328_thumb.jpg" alt="The Masters" /></a></div>The 'The Masters' comes with one Argyle watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistan..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/The-Masters.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/The-Masters.html"  ><img src="http://dev.modifywatches.com/product_images/i/128/1351391694__55328_thumb.jpg" alt="The Masters" /></a></div>The 'The Masters' comes with one Argyle watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistan..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'The Masters' comes with one Argyle watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-resistan..]]></isc:description>
 		<isc:productid><![CDATA[796]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/128/1351391694__55328_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/o/721/1351391694__78442_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/128/1351391694__55328_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/o/721/1351391694__78442_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:34:55Z</published>
 		<updated>2012-10-27T19:34:55Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/The-Real-McCaw.html" />
-		<id>http://www.modifywatches.com/products/The-Real-McCaw.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/The-Real-McCaw.html" />
+		<id>http://dev.modifywatches.com/products/The-Real-McCaw.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[The Real McCaw]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/The-Real-McCaw.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/The-Real-McCaw.html"  ><img src="http://www.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg" alt="The Real McCaw" /></a></div>The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/The-Real-McCaw.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/The-Real-McCaw.html"  ><img src="http://dev.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg" alt="The Real McCaw" /></a></div>The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..]]></isc:description>
 		<isc:productid><![CDATA[797]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/t/312/1359394679__73288_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/t/312/1359394679__73288_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 </feed>

@@ -108,7 +108,7 @@ class ISC_PHOTOWALL
 	
 	private function startModalImage() {
 		ISC_SetCookie("PHOTOWALL_MODAL_IMAGE", 'true');	
-		header('Location:https://www.modifywatches.com/photowall.php?id='.$_REQUEST['id']);
+		header('Location:https://dev.modifywatches.com/photowall.php?id='.$_REQUEST['id']);
 	}
 
 	private function GetPageTitle()

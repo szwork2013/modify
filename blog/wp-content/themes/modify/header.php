@@ -17,8 +17,8 @@ $options = get_option( 'cleanmag_theme_settings' );
 <link rel="icon" type="image/png" href="<?php echo $options['favicon']; ?>" />
 <?php } ?>
 <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
-<link rel="stylesheet" type="text/css" href="https://www.modifywatches.com/templates/Modify/Styles/default.css" />
-<link rel="stylesheet" type="text/css" href="https://www.modifywatches.com/templates/Modify/Styles/styles.css" />
+<link rel="stylesheet" type="text/css" href="https://dev.modifywatches.com/templates/Modify/Styles/default.css" />
+<link rel="stylesheet" type="text/css" href="https://dev.modifywatches.com/templates/Modify/Styles/styles.css" />
 
 <!-- WP Head -->
 <?php if ( is_single() || is_page() ) wp_enqueue_script( 'comment-reply' ); ?>
@@ -60,7 +60,7 @@ echo stripslashes($options['analytics']);
 			<div class="headcontent">
 				<div id="logo">
 					<div class="pad"></div>
-					<a href="http://www.modifywatches.com"></a>
+					<a href="http://dev.modifywatches.com"></a>
 				</div>
 				<div id="nav">
 					<nav id="topLinks">
@@ -68,19 +68,19 @@ echo stripslashes($options['analytics']);
 							<li class="shipping">Free Shipping on Orders Over $60</li>
 							<li><a class="eSubscribe" href="#">Subscribe to Newsletter</a></li>
 							<!--<li><a href="#">Earn Free Mods</a></li>-->
-							<li><a href="http://www.modifywatches.com/login.php"><span class="acc">Login / Sign Up</span></a> </li>
+							<li><a href="http://dev.modifywatches.com/login.php"><span class="acc">Login / Sign Up</span></a> </li>
 						</ul>
 					</nav>
 					<iframe id="headerFB" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmodifywatches&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=198063910254631" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px;margin-top:4px;float:right;" allowtransparency="true"></iframe>
 					<nav id="mainLinks">
 						<ul>
 							<li id="navShopOuter" class="">
-								<a id="navShop" href="http://www.modifywatches.com/categories?a=build">Shop</a>
+								<a id="navShop" href="http://dev.modifywatches.com/categories?a=build">Shop</a>
 								<div class="sDrop">
 									<ul>
 										<li>
-											<a href="http://www.modifywatches.com/categories?a=build">
-												<img src="http://www.modifywatches.com/templates/Modify/images/default/builddrop2.jpg" style="
+											<a href="http://dev.modifywatches.com/categories?a=build">
+												<img src="http://dev.modifywatches.com/templates/Modify/images/default/builddrop2.jpg" style="
 												display: block;
 												margin-bottom: 5px;">
 												<span class="fncyBlanche">Create</span>
@@ -88,8 +88,8 @@ echo stripslashes($options['analytics']);
 											</a>
 										</li>
 										<li>
-											<a href="http://www.modifywatches.com/sets.php">
-												<img src="http://www.modifywatches.com/templates/Modify/images/default/browsedrop2.jpg" style="
+											<a href="http://dev.modifywatches.com/sets.php">
+												<img src="http://dev.modifywatches.com/templates/Modify/images/default/browsedrop2.jpg" style="
 												display: block;
 												margin-bottom: 5px;">
 												<span class="fncyBlanche">Browse</span>
@@ -99,8 +99,8 @@ echo stripslashes($options['analytics']);
 									</ul>
 								</div>
 							</li>
-							<li class=""><a id="navAbout" href="http://www.modifywatches.com/about.php">About</a></li>
-							<li class=""><a id="navComm" href="http://www.modifywatches.com/community.php">Community</a></li>
+							<li class=""><a id="navAbout" href="http://dev.modifywatches.com/about.php">About</a></li>
+							<li class=""><a id="navComm" href="http://dev.modifywatches.com/community.php">Community</a></li>
 							<!--<li><a id="navSupport" href="#"><span class="icon"></span>Support</a><span class="divide"></span></li> -->
 						</ul>
 				</div>

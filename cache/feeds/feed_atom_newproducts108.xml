@@ -2,36 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: New Products - 5-Piece Father's Day Sets]]></title>
 	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=108&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?categoryid=108&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-06-26T10:51:49Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-06-06T19:04:23Z</published>
 		<updated>2013-06-06T19:04:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html" />
-		<id>http://www.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html" />
+		<id>http://dev.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[5-Piece Ugly Duckling Set]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html"  ><img src="http://www.modifywatches.com/product_images/j/220/IMG_2043__68694_thumb.jpg" alt="5-Piece Ugly Duckling Set" /></a></div><p><span>Save $27.50 on this 5-piece set perfect for Dad! Face: QR &amp; Purple. Straps: Brown, SF Orange &amp; Glow-in-the-Dark.&nbsp;Also includes the staple "ugly tie" for pops!</span></p><p><strong>Price: $80.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/5%252dPiece-Ugly-Duckling-Set.html"  ><img src="http://dev.modifywatches.com/product_images/j/220/IMG_2043__68694_thumb.jpg" alt="5-Piece Ugly Duckling Set" /></a></div><p><span>Save $27.50 on this 5-piece set perfect for Dad! Face: QR &amp; Purple. Straps: Brown, SF Orange &amp; Glow-in-the-Dark.&nbsp;Also includes the staple "ugly tie" for pops!</span></p><p><strong>Price: $80.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>Save $27.50 on this 5-piece set perfect for Dad! Face: QR &amp; Purple. Straps: Brown, SF Orange &amp; Glow-in-the-Dark.&nbsp;Also includes the staple "ugly tie" for pops!</span></p>]]></isc:description>
 		<isc:productid><![CDATA[2082]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/j/220/IMG_2043__68694_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/d/334/IMG_2043__35489_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/j/220/IMG_2043__68694_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/d/334/IMG_2043__35489_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$80.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-06-06T18:59:36Z</published>
 		<updated>2013-06-06T18:59:36Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html" />
-		<id>http://www.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html" />
+		<id>http://dev.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[5-Piece Smooth Operator Set]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html"  ><img src="http://www.modifywatches.com/product_images/c/355/IMG_2042__58785_thumb.jpg" alt="5-Piece Smooth Operator Set" /></a></div><p><span>Save $25 on this 5-piece set perfect for Dad! Faces: Silver &amp; Stripe. Straps: Navy, Green &amp; Slate Gray. Also includes the staple "ugly tie" for pops!</span></p><p><strong>Price: $70.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/5%252dPiece-Smooth-Operator-Set.html"  ><img src="http://dev.modifywatches.com/product_images/c/355/IMG_2042__58785_thumb.jpg" alt="5-Piece Smooth Operator Set" /></a></div><p><span>Save $25 on this 5-piece set perfect for Dad! Faces: Silver &amp; Stripe. Straps: Navy, Green &amp; Slate Gray. Also includes the staple "ugly tie" for pops!</span></p><p><strong>Price: $70.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>Save $25 on this 5-piece set perfect for Dad! Faces: Silver &amp; Stripe. Straps: Navy, Green &amp; Slate Gray. Also includes the staple "ugly tie" for pops!</span></p>]]></isc:description>
 		<isc:productid><![CDATA[2081]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/355/IMG_2042__58785_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/015/IMG_2042__31843_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/355/IMG_2042__58785_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/015/IMG_2042__31843_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$70.00]]></isc:price>
 	</entry>
 </feed>

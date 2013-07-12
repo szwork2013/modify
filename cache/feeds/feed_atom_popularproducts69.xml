@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=69&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=69&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-04-17T21:55:52Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T18:14:53Z</published>
 		<updated>2012-10-27T18:14:53Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Face.html" />
-		<id>http://www.modifywatches.com/products/Blue-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Face.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Face.html"  ><img src="http://www.modifywatches.com/product_images/c/112/blue__26629_thumb.jpg" alt="Blue Face" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Face.html"  ><img src="http://dev.modifywatches.com/product_images/c/112/blue__26629_thumb.jpg" alt="Blue Face" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -24,31 +24,31 @@
 <tr>
 <td height="16" align="LEFT">The Blue watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbo..]]></isc:description>
 		<isc:productid><![CDATA[600]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/112/blue__26629_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/454/blue__23641_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/112/blue__26629_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/s/454/blue__23641_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:09:07Z</published>
 		<updated>2012-10-27T19:09:07Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html" />
-		<id>http://www.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html" />
+		<id>http://dev.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Lewis & Clark Are My Boys]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html"  ><img src="http://www.modifywatches.com/product_images/x/835/1362076741__52874_thumb.jpg" alt="Lewis & Clark Are My Boys" /></a></div>The 'Lewis & Clark Are My Boys' comes with one Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scra..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Lewis-%26-Clark-Are-My-Boys.html"  ><img src="http://dev.modifywatches.com/product_images/x/835/1362076741__52874_thumb.jpg" alt="Lewis & Clark Are My Boys" /></a></div>The 'Lewis & Clark Are My Boys' comes with one Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scra..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Lewis & Clark Are My Boys' comes with one Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scra..]]></isc:description>
 		<isc:productid><![CDATA[650]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/835/1362076741__52874_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/i/272/1362076741__58941_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/835/1362076741__52874_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/i/272/1362076741__58941_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:12Z</published>
 		<updated>2012-10-27T19:24:12Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Sky-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Sky-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Sky-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Sky-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Sky Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Sky-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/m/173/skyblue__80560_thumb.jpg" alt="Sky Blue Strap" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Sky-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/m/173/skyblue__80560_thumb.jpg" alt="Sky Blue Strap" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -60,106 +60,106 @@
 <tr>
 <td height="16" align="LEFT">The Sky Blue strap is interchangeable so that you can mix-and-match the this design with any other faces from your Modify collection. The strap is made from a soft and comfortable s..]]></isc:description>
 		<isc:productid><![CDATA[670]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/m/173/skyblue__80560_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/q/272/skyblue__97644_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/m/173/skyblue__80560_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/q/272/skyblue__97644_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$15.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:12Z</published>
 		<updated>2012-10-27T19:24:12Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html" />
-		<id>http://www.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html" />
+		<id>http://dev.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Hand Me Some of That Handome]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html"  ><img src="http://www.modifywatches.com/product_images/t/968/1364578068__39763_thumb.jpg" alt="Hand Me Some of That Handome" /></a></div>The 'Hand Me Some of That Handome' comes with one Argyle watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made f..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Hand-Me-Some-of-That-Handome.html"  ><img src="http://dev.modifywatches.com/product_images/t/968/1364578068__39763_thumb.jpg" alt="Hand Me Some of That Handome" /></a></div>The 'Hand Me Some of That Handome' comes with one Argyle watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made f..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Hand Me Some of That Handome' comes with one Argyle watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made f..]]></isc:description>
 		<isc:productid><![CDATA[671]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/t/968/1364578068__39763_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/735/1364578068__56555_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/t/968/1364578068__39763_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/735/1364578068__56555_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:13Z</published>
 		<updated>2012-10-27T19:24:13Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html" />
-		<id>http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html" />
+		<id>http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[It's About Flocking Time!]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"  ><img src="http://www.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg" alt="It's About Flocking Time!" /></a></div>The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"  ><img src="http://dev.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg" alt="It's About Flocking Time!" /></a></div>The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..]]></isc:description>
 		<isc:productid><![CDATA[672]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/c/656/1364578069__22707_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/c/656/1364578069__22707_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:13Z</published>
 		<updated>2012-10-27T19:24:13Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/One-Fish%2C-Two-Fish.html" />
-		<id>http://www.modifywatches.com/products/One-Fish%2C-Two-Fish.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/One-Fish%2C-Two-Fish.html" />
+		<id>http://dev.modifywatches.com/products/One-Fish%2C-Two-Fish.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[One Fish, Two Fish]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/One-Fish%2C-Two-Fish.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/One-Fish%2C-Two-Fish.html"  ><img src="http://www.modifywatches.com/product_images/b/273/1364578069__82303_thumb.jpg" alt="One Fish, Two Fish" /></a></div>The 'One Fish, Two Fish' comes with one Birds Red watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a s..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/One-Fish%2C-Two-Fish.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/One-Fish%2C-Two-Fish.html"  ><img src="http://dev.modifywatches.com/product_images/b/273/1364578069__82303_thumb.jpg" alt="One Fish, Two Fish" /></a></div>The 'One Fish, Two Fish' comes with one Birds Red watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a s..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'One Fish, Two Fish' comes with one Birds Red watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a s..]]></isc:description>
 		<isc:productid><![CDATA[673]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/273/1364578069__82303_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/040/1364578069__09423_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/b/273/1364578069__82303_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/040/1364578069__09423_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:13Z</published>
 		<updated>2012-10-27T19:24:13Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Smells-like-Teen-Spirit.html" />
-		<id>http://www.modifywatches.com/products/Smells-like-Teen-Spirit.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Smells-like-Teen-Spirit.html" />
+		<id>http://dev.modifywatches.com/products/Smells-like-Teen-Spirit.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Smells like Teen Spirit]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Smells-like-Teen-Spirit.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Smells-like-Teen-Spirit.html"  ><img src="http://www.modifywatches.com/product_images/a/372/1364578069__40379_thumb.jpg" alt="Smells like Teen Spirit" /></a></div>The 'Smells like Teen Spirit' comes with one Black watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Smells-like-Teen-Spirit.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Smells-like-Teen-Spirit.html"  ><img src="http://dev.modifywatches.com/product_images/a/372/1364578069__40379_thumb.jpg" alt="Smells like Teen Spirit" /></a></div>The 'Smells like Teen Spirit' comes with one Black watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Smells like Teen Spirit' comes with one Black watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a ..]]></isc:description>
 		<isc:productid><![CDATA[674]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/a/372/1364578069__40379_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/x/082/1364578069__17036_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/a/372/1364578069__40379_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/x/082/1364578069__17036_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:14Z</published>
 		<updated>2012-10-27T19:24:14Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Blockers.html" />
-		<id>http://www.modifywatches.com/products/Blue-Blockers.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Blockers.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Blockers.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Blockers]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Blockers.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Blockers.html"  ><img src="http://www.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg" alt="Blue Blockers" /></a></div>The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Blockers.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Blockers.html"  ><img src="http://dev.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg" alt="Blue Blockers" /></a></div>The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..]]></isc:description>
 		<isc:productid><![CDATA[675]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/h/295/1364578070__81963_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/h/295/1364578070__81963_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:14Z</published>
 		<updated>2012-10-27T19:24:14Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Blockers.html" />
-		<id>http://www.modifywatches.com/products/Blue-Blockers.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Blockers.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Blockers.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Blockers]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Blockers.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Blockers.html"  ><img src="http://www.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg" alt="Blue Blockers" /></a></div>The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..<p><strong>Price: $40.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Blockers.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Blockers.html"  ><img src="http://dev.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg" alt="Blue Blockers" /></a></div>The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..<p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Blue Blockers' comes with one Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-res..]]></isc:description>
 		<isc:productid><![CDATA[675]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/h/295/1364578070__81963_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/829/1364578070__26849_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/h/295/1364578070__81963_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:14Z</published>
 		<updated>2012-10-27T19:24:14Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html" />
-		<id>http://www.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html" />
+		<id>http://dev.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Domo in the Light, with Diamonds]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html"  ><img src="http://www.modifywatches.com/product_images/o/141/1364578070__28971_thumb.jpg" alt="Domo in the Light, with Diamonds" /></a></div>The 'Domo in the Light, with Diamonds' comes with one Domo Brown watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face i..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Domo-in-the-Light%2C-with-Diamonds.html"  ><img src="http://dev.modifywatches.com/product_images/o/141/1364578070__28971_thumb.jpg" alt="Domo in the Light, with Diamonds" /></a></div>The 'Domo in the Light, with Diamonds' comes with one Domo Brown watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face i..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Domo in the Light, with Diamonds' comes with one Domo Brown watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face i..]]></isc:description>
 		<isc:productid><![CDATA[676]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/o/141/1364578070__28971_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/d/944/1364578070__42298_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/o/141/1364578070__28971_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/d/944/1364578070__42298_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 </feed>

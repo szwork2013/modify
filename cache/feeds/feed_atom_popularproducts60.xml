@@ -2,166 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=60&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=60&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-06-19T17:41:05Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:43Z</published>
 		<updated>2012-11-12T21:15:43Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face.html"  ><img src="http://www.modifywatches.com/product_images/e/467/deadmau5__84547_thumb.jpg" alt="Deadmau5 Face" /></a></div><p><span>The Deadmau5 watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $20.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face.html"  ><img src="http://dev.modifywatches.com/product_images/e/467/deadmau5__84547_thumb.jpg" alt="Deadmau5 Face" /></a></div><p><span>The Deadmau5 watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $20.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>The Deadmau5 watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p>]]></isc:description>
 		<isc:productid><![CDATA[1245]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/e/467/deadmau5__84547_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/t/038/deadmau5__25425_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/e/467/deadmau5__84547_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/t/038/deadmau5__25425_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$20.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:43Z</published>
 		<updated>2012-11-12T21:15:43Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Black Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html"  ><img src="http://www.modifywatches.com/product_images/k/912/1370907181__93956_thumb.jpg" alt="Deadmau5 Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Black-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/k/912/1370907181__93956_thumb.jpg" alt="Deadmau5 Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $35.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1246]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/k/912/1370907181__93956_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/n/424/1370907181__10441_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/k/912/1370907181__93956_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/n/424/1370907181__10441_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$35.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:44Z</published>
 		<updated>2012-11-12T21:15:44Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Sky Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/054/1370907181__03335_thumb.jpg" alt="Deadmau5 Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Sky-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/054/1370907181__03335_thumb.jpg" alt="Deadmau5 Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $35.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1247]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/054/1370907181__03335_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/614/1370907181__45824_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/054/1370907181__03335_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/614/1370907181__45824_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$35.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:44Z</published>
 		<updated>2012-11-12T21:15:44Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/n/045/1370907182__72441_thumb.jpg" alt="Deadmau5 Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/n/045/1370907182__72441_thumb.jpg" alt="Deadmau5 Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $35.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1248]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/n/045/1370907182__72441_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/e/673/1370907182__35837_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/n/045/1370907182__72441_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/e/673/1370907182__35837_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$35.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:45Z</published>
 		<updated>2012-11-12T21:15:45Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Brown Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/522/1370907436__32667_thumb.jpg" alt="Deadmau5 Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Brown-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/522/1370907436__32667_thumb.jpg" alt="Deadmau5 Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $30.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1249]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/522/1370907436__32667_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/u/850/1370907436__31749_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/522/1370907436__32667_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/u/850/1370907436__31749_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:45Z</published>
 		<updated>2012-11-12T21:15:45Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Crimson Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html"  ><img src="http://www.modifywatches.com/product_images/y/507/1370907622__62494_thumb.jpg" alt="Deadmau5 Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Crimson-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/y/507/1370907622__62494_thumb.jpg" alt="Deadmau5 Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $32.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1250]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/y/507/1370907622__62494_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/263/1370907622__82257_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/y/507/1370907622__62494_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/263/1370907622__82257_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$32.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:46Z</published>
 		<updated>2012-11-12T21:15:46Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Glow in the Dark Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://www.modifywatches.com/product_images/y/312/1370907183__45487_thumb.jpg" alt="Deadmau5 Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/y/312/1370907183__45487_thumb.jpg" alt="Deadmau5 Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1251]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/y/312/1370907183__45487_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/i/197/1370907183__72490_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/y/312/1370907183__45487_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/i/197/1370907183__72490_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:46Z</published>
 		<updated>2012-11-12T21:15:46Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/o/041/1370907183__16656_thumb.jpg" alt="Deadmau5 Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/o/041/1370907183__16656_thumb.jpg" alt="Deadmau5 Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $35.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1252]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/o/041/1370907183__16656_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/m/915/1370907183__22413_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/o/041/1370907183__16656_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/m/915/1370907183__22413_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$35.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:46Z</published>
 		<updated>2012-11-12T21:15:46Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Lime Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/i/477/1370907183__92318_thumb.jpg" alt="Deadmau5 Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Lime-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/i/477/1370907183__92318_thumb.jpg" alt="Deadmau5 Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1253]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/477/1370907183__92318_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/o/248/1370907183__50536_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/477/1370907183__92318_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/o/248/1370907183__50536_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:15:47Z</published>
 		<updated>2012-11-12T21:15:47Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html" />
-		<id>http://www.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Deadmau5 Face with Medium Grey Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/855/1370907694__85864_thumb.jpg" alt="Deadmau5 Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Deadmau5-Face-with-Medium-Grey-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/855/1370907694__85864_thumb.jpg" alt="Deadmau5 Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $30.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1254]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/855/1370907694__85864_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/q/316/1370907694__03756_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/855/1370907694__85864_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/q/316/1370907694__03756_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 </feed>

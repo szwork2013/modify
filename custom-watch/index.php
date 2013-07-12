@@ -1,3 +1,3 @@
 <?php
-header('Location: http://www.modifywatches.com/about.php?a=custom');
+header('Location: http://dev.modifywatches.com/about.php?a=custom');
 ?>
