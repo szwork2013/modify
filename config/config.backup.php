@@ -20,7 +20,7 @@
 San Francisco, CA  94107';
 	$GLOBALS['ISC_CFG']["LogoType"] = 'text';
 	$GLOBALS['ISC_CFG']["StoreLogo"] = '';
-	$GLOBALS['ISC_CFG']["ShopPath"] = 'http://www.modifywatches.com';
+	$GLOBALS['ISC_CFG']["ShopPath"] = 'http://dev.modifywatches.com';
 	$GLOBALS['ISC_CFG']["CharacterSet"] = 'UTF-8';
 	$GLOBALS['ISC_CFG']["HomePagePageTitle"] = 'Modify Watches: Dope, Interchangeable Watches';
 	$GLOBALS['ISC_CFG']["MetaKeywords"] = 'Modify, Modify Watches, Watches, Interchangeable, Colorful, Bright, Playful, Customer Service';

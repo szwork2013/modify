@@ -45,6 +45,7 @@ class ISC_SANDBOX
 			'dispdata'					=> 'DisplayData',
 			'clear'						=> 'ClearSandbox',
 			'remoteadd' 				=> 'RemoteAdd',
+			'buynow'                    => 'RemoteAddOne',
 			'rest' 						=> 'HandleRESTRequest',
 			'addall'					=> 'AddAllToCart',
 			'fetch'						=> 'PrintJSON'
@@ -179,6 +180,30 @@ class ISC_SANDBOX
 		}
 	}
 
+	private function RemoteAddOne() {
+		ini_set("log_errors", 1);
+		ini_set("error_log", "/tmp/php-errors.log");
+		error_log("entered Remote add");
+		$product = $this->AddToSandbox();
+		if(!$product) {
+			die("404");
+		}
+
+		$GLOBALS['ISC_CLASS_CART'] = GetClass('ISC_CART');
+		$id = $product['product_id'];
+		$quantity = $product['quantity'];
+		$vid = $product['variation'];
+		if ($GLOBALS['ISC_CLASS_CART']->RemoteAddProductToCart($id, $quantity, $vid)) {
+			$this->ClearSandbox();
+			error_log("About to redirect");
+			die(json_encode(array('error' => false, 'products' => json_decode($this->GetJSON()), 'justAdded' => $product)));
+			error_log(" SON OF A !@$$@#%");
+		} else {
+			die("404");
+		}
+		
+	}
+
 	private function AddToSandbox()
 	{
 		$error = false;
@@ -287,7 +312,7 @@ class ISC_SANDBOX
 
 		$justAdded = array(
 			'product_id' => $product_id,
-			'quanity' 	 => $qty,
+			'quantity' 	 => $qty,
 			'variation'  => $variation
 		);
 		

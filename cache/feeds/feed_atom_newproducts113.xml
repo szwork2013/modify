@@ -2,168 +2,168 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: New Products - Polka Dots]]></title>
 	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=113&amp;type=atom" />
-	<id>https://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?categoryid=113&amp;type=atom" />
+	<id>https://dev.modifywatches.com</id>
 	<updated>2013-06-24T16:48:12Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:39:09Z</published>
 		<updated>2013-05-20T23:39:09Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Black Polka Dot Face with Pool Party Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"  ><img src="https://www.modifywatches.com/product_images/i/759/1370909095__28761_thumb.jpg" alt="Black Polka Dot Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/i/759/1370909095__28761_thumb.jpg" alt="Black Polka Dot Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2067]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/i/759/1370909095__28761_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/v/461/1370909095__23947_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/i/759/1370909095__28761_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/v/461/1370909095__23947_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:39:01Z</published>
 		<updated>2013-05-20T23:39:01Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Purple Polka Dot Face with Pool Party Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"  ><img src="https://www.modifywatches.com/product_images/p/559/1370909169__03725_thumb.jpg" alt="Purple Polka Dot Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Pool-Party-Blue-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/p/559/1370909169__03725_thumb.jpg" alt="Purple Polka Dot Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2044]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/p/559/1370909169__03725_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/z/644/1370909169__93270_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/p/559/1370909169__03725_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/z/644/1370909169__93270_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:34:44Z</published>
 		<updated>2013-05-20T23:34:44Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html" />
-		<id>http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Black Polka Dot Face with Neon Yellow Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html"  ><img src="https://www.modifywatches.com/product_images/o/960/1370909096__29245_thumb.jpg" alt="Black Polka Dot Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Neon-Yellow-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/o/960/1370909096__29245_thumb.jpg" alt="Black Polka Dot Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2026]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/o/960/1370909096__29245_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/y/505/1370909096__42347_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/o/960/1370909096__29245_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/y/505/1370909096__42347_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:34:37Z</published>
 		<updated>2013-05-20T23:34:37Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html" />
-		<id>http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Purple Polka Dot Face with Neon Yellow Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html"  ><img src="https://www.modifywatches.com/product_images/k/587/1370909170__63689_thumb.jpg" alt="Purple Polka Dot Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Neon-Yellow-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/k/587/1370909170__63689_thumb.jpg" alt="Purple Polka Dot Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2003]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/k/587/1370909170__63689_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/c/507/1370909170__83405_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/k/587/1370909170__63689_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/c/507/1370909170__83405_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:27:20Z</published>
 		<updated>2013-05-20T23:27:20Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html" />
-		<id>http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Black Polka Dot Face with Cool Mist Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html"  ><img src="https://www.modifywatches.com/product_images/w/209/1370909096__24313_thumb.jpg" alt="Black Polka Dot Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Cool-Mist-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/w/209/1370909096__24313_thumb.jpg" alt="Black Polka Dot Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1985]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/w/209/1370909096__24313_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/v/056/1370909096__70408_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/w/209/1370909096__24313_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/v/056/1370909096__70408_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:27:12Z</published>
 		<updated>2013-05-20T23:27:12Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html" />
-		<id>http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Purple Polka Dot Face with Cool Mist Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html"  ><img src="https://www.modifywatches.com/product_images/t/529/1370909170__88212_thumb.jpg" alt="Purple Polka Dot Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Cool-Mist-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/t/529/1370909170__88212_thumb.jpg" alt="Purple Polka Dot Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1962]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/t/529/1370909170__88212_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/h/336/1370909170__65503_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/t/529/1370909170__88212_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/h/336/1370909170__65503_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:27:06Z</published>
 		<updated>2013-02-07T16:27:06Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html" />
-		<id>http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Black Polka Dot Face with Orchid Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html"  ><img src="https://www.modifywatches.com/product_images/p/638/1370909095__92693_thumb.jpg" alt="Black Polka Dot Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Orchid-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/p/638/1370909095__92693_thumb.jpg" alt="Black Polka Dot Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1834]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/p/638/1370909095__92693_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/u/911/1370909095__30365_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/p/638/1370909095__92693_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/u/911/1370909095__30365_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:27:00Z</published>
 		<updated>2013-02-07T16:27:00Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html" />
-		<id>http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Purple Polka Dot Face with Orchid Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html"  ><img src="https://www.modifywatches.com/product_images/d/134/1370909169__03360_thumb.jpg" alt="Purple Polka Dot Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Orchid-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/d/134/1370909169__03360_thumb.jpg" alt="Purple Polka Dot Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1811]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/d/134/1370909169__03360_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/x/887/1370909169__77118_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/d/134/1370909169__03360_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/x/887/1370909169__77118_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:26:55Z</published>
 		<updated>2013-02-07T16:26:55Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Black Polka Dot Face with Robin's Egg Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="https://www.modifywatches.com/product_images/y/611/1370909386__62374_thumb.jpg" alt="Black Polka Dot Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Black-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/y/611/1370909386__62374_thumb.jpg" alt="Black Polka Dot Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1795]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/y/611/1370909386__62374_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/a/518/1370909386__21972_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/y/611/1370909386__62374_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/a/518/1370909386__21972_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:26:50Z</published>
 		<updated>2013-02-07T16:26:50Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Purple Polka Dot Face with Robin's Egg Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="https://www.modifywatches.com/product_images/l/675/1370909380__22056_thumb.jpg" alt="Purple Polka Dot Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Purple-Polka-Dot-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="https://dev.modifywatches.com/product_images/l/675/1370909380__22056_thumb.jpg" alt="Purple Polka Dot Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1772]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/l/675/1370909380__22056_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/q/252/1370909380__58373_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/l/675/1370909380__22056_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/q/252/1370909380__58373_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 </feed>

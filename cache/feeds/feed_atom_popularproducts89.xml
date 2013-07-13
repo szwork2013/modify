@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=89&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=89&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-05-08T13:34:15Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T18:11:37Z</published>
 		<updated>2012-10-27T18:11:37Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Birds-Face.html" />
-		<id>http://www.modifywatches.com/products/Blue-Birds-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Birds-Face.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Birds-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Birds Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Birds-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Birds-Face.html"  ><img src="http://www.modifywatches.com/product_images/d/754/bluebirds__02286_thumb.jpg" alt="Blue Birds Face" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Birds-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Birds-Face.html"  ><img src="http://dev.modifywatches.com/product_images/d/754/bluebirds__02286_thumb.jpg" alt="Blue Birds Face" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -24,142 +24,142 @@
 <tr>
 <td height="16" align="LEFT">The Birds Blue watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant pol..]]></isc:description>
 		<isc:productid><![CDATA[597]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/d/754/bluebirds__02286_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/v/905/bluebirds__67703_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/d/754/bluebirds__02286_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/v/905/bluebirds__67703_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:09:06Z</published>
 		<updated>2012-10-27T19:09:06Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Bird-is-the-Word.html" />
-		<id>http://www.modifywatches.com/products/Bird-is-the-Word.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Bird-is-the-Word.html" />
+		<id>http://dev.modifywatches.com/products/Bird-is-the-Word.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Bird is the Word]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Bird-is-the-Word.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Bird-is-the-Word.html"  ><img src="http://www.modifywatches.com/product_images/t/905/1362076740__79310_thumb.jpg" alt="Bird is the Word" /></a></div>The 'Bird is the Word' comes with one Birds Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Bird-is-the-Word.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Bird-is-the-Word.html"  ><img src="http://dev.modifywatches.com/product_images/t/905/1362076740__79310_thumb.jpg" alt="Bird is the Word" /></a></div>The 'Bird is the Word' comes with one Birds Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Bird is the Word' comes with one Birds Blue watch face and one Black strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..]]></isc:description>
 		<isc:productid><![CDATA[647]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/t/905/1362076740__79310_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/i/722/1362076740__87944_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/t/905/1362076740__79310_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/i/722/1362076740__87944_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:13Z</published>
 		<updated>2012-10-27T19:24:13Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html" />
-		<id>http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html" />
+		<id>http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[It's About Flocking Time!]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"  ><img src="http://www.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg" alt="It's About Flocking Time!" /></a></div>The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/It%27s-About-Flocking-Time%21.html"  ><img src="http://dev.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg" alt="It's About Flocking Time!" /></a></div>The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'It's About Flocking Time!' comes with one Birds Blue watch face and one Blue Light strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made ..]]></isc:description>
 		<isc:productid><![CDATA[672]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/c/656/1364578069__22707_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/304/1364578069__28050_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/c/656/1364578069__22707_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:26:23Z</published>
 		<updated>2012-10-27T19:26:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Birds Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/u/328/1366150838__53571_thumb.jpg" alt="Blue Birds Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/u/328/1366150838__53571_thumb.jpg" alt="Blue Birds Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[697]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/u/328/1366150838__53571_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/q/159/1366150838__48878_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/u/328/1366150838__53571_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/q/159/1366150838__48878_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:27:37Z</published>
 		<updated>2012-10-27T19:27:37Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html" />
-		<id>http://www.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Birds Face with Brown Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html"  ><img src="http://www.modifywatches.com/product_images/i/271/1367264478__86728_thumb.jpg" alt="Blue Birds Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Brown-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/i/271/1367264478__86728_thumb.jpg" alt="Blue Birds Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[722]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/271/1367264478__86728_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/047/1367264478__22172_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/271/1367264478__86728_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/047/1367264478__22172_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:29:23Z</published>
 		<updated>2012-10-27T19:29:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html" />
-		<id>http://www.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Birds Face with Crimson Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html"  ><img src="http://www.modifywatches.com/product_images/y/322/1367264404__29674_thumb.jpg" alt="Blue Birds Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Crimson-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/y/322/1367264404__29674_thumb.jpg" alt="Blue Birds Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[747]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/y/322/1367264404__29674_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/839/1367264404__51920_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/y/322/1367264404__29674_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/839/1367264404__51920_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:33:41Z</published>
 		<updated>2012-10-27T19:33:41Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Everyday-I%27m-Feathering.html" />
-		<id>http://www.modifywatches.com/products/Everyday-I%27m-Feathering.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Everyday-I%27m-Feathering.html" />
+		<id>http://dev.modifywatches.com/products/Everyday-I%27m-Feathering.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Everyday I'm Feathering]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Everyday-I%27m-Feathering.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Everyday-I%27m-Feathering.html"  ><img src="http://www.modifywatches.com/product_images/l/745/1359394678__25026_thumb.jpg" alt="Everyday I'm Feathering" /></a></div>The 'Everyday I'm Feathering' comes with one Birds Blue watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is m..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Everyday-I%27m-Feathering.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Everyday-I%27m-Feathering.html"  ><img src="http://dev.modifywatches.com/product_images/l/745/1359394678__25026_thumb.jpg" alt="Everyday I'm Feathering" /></a></div>The 'Everyday I'm Feathering' comes with one Birds Blue watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is m..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Everyday I'm Feathering' comes with one Birds Blue watch face and one Glow In the Dark strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is m..]]></isc:description>
 		<isc:productid><![CDATA[772]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/l/745/1359394678__25026_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/p/320/1359394678__82316_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/l/745/1359394678__25026_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/p/320/1359394678__82316_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:34:55Z</published>
 		<updated>2012-10-27T19:34:55Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/The-Real-McCaw.html" />
-		<id>http://www.modifywatches.com/products/The-Real-McCaw.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/The-Real-McCaw.html" />
+		<id>http://dev.modifywatches.com/products/The-Real-McCaw.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[The Real McCaw]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/The-Real-McCaw.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/The-Real-McCaw.html"  ><img src="http://www.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg" alt="The Real McCaw" /></a></div>The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/The-Real-McCaw.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/The-Real-McCaw.html"  ><img src="http://dev.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg" alt="The Real McCaw" /></a></div>The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'The Real McCaw' comes with one Birds Blue watch face and one Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..]]></isc:description>
 		<isc:productid><![CDATA[797]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/t/312/1359394679__73288_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/r/919/1359394679__45765_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/t/312/1359394679__73288_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:36:17Z</published>
 		<updated>2012-10-27T19:36:17Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Amsterdam.html" />
-		<id>http://www.modifywatches.com/products/Amsterdam.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Amsterdam.html" />
+		<id>http://dev.modifywatches.com/products/Amsterdam.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Amsterdam]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Amsterdam.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Amsterdam.html"  ><img src="http://www.modifywatches.com/product_images/s/589/1364578137__32844_thumb.jpg" alt="Amsterdam" /></a></div>The 'Amsterdam' comes with one Birds Blue watch face and one Lime Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Amsterdam.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Amsterdam.html"  ><img src="http://dev.modifywatches.com/product_images/s/589/1364578137__32844_thumb.jpg" alt="Amsterdam" /></a></div>The 'Amsterdam' comes with one Birds Blue watch face and one Lime Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Amsterdam' comes with one Birds Blue watch face and one Lime Green strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch-r..]]></isc:description>
 		<isc:productid><![CDATA[822]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/s/589/1364578137__32844_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/184/1364578137__44568_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/s/589/1364578137__32844_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/184/1364578137__44568_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:37:48Z</published>
 		<updated>2012-10-27T19:37:48Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html" />
-		<id>http://www.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Blue Birds Face with Medium Grey Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html"  ><img src="http://www.modifywatches.com/product_images/n/996/1367264306__17958_thumb.jpg" alt="Blue Birds Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Blue-Birds-Face-with-Medium-Grey-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/n/996/1367264306__17958_thumb.jpg" alt="Blue Birds Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[847]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/n/996/1367264306__17958_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/l/032/1367264306__33621_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/n/996/1367264306__17958_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/l/032/1367264306__33621_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 </feed>

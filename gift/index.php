@@ -1,3 +1,3 @@
 <?php
-header('Location: http://www.modifywatches.com/?gift');
+header('Location: http://dev.modifywatches.com/?gift');
 ?>

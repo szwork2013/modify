@@ -21,9 +21,9 @@
               </div>
               <div class="FooterHelpLinks">
                   <div class="dividingDots"></div>
-                  <a href="http://www.modifywatches.com/store/FAQs.php">FAQs</a><br />
-                  <a href="http://www.modifywatches.com/store/returns.php">Returns &amp; Exchanges</a><br />
-                  <a href="http://www.modifywatches.com/store/contact.php">Contact Us</a><br />
+                  <a href="http://dev.modifywatches.com/store/FAQs.php">FAQs</a><br />
+                  <a href="http://dev.modifywatches.com/store/returns.php">Returns &amp; Exchanges</a><br />
+                  <a href="http://dev.modifywatches.com/store/contact.php">Contact Us</a><br />
               </div>
           </div>
           <div class="FooterDope">
@@ -32,10 +32,10 @@
               </div>
               <div class="FooterHelpLinks">
                   <div class="dividingDots"></div>
-                  <a href="http://www.modifywatches.com/store/about.php">Meet the ModTeam</a><br />
-                  <a href="http://www.modifywatches.com/store/blog">Blog</a><br />
-                  <a href="http://www.modifywatches.com/store/jointeam.php">Employment Opportunities</a><br />
-                  <a href="http://www.modifywatches.com/store/media.php">Media Inquiries</a>
+                  <a href="http://dev.modifywatches.com/store/about.php">Meet the ModTeam</a><br />
+                  <a href="http://dev.modifywatches.com/store/blog">Blog</a><br />
+                  <a href="http://dev.modifywatches.com/store/jointeam.php">Employment Opportunities</a><br />
+                  <a href="http://dev.modifywatches.com/store/media.php">Media Inquiries</a>
               </div>
           </div>
           <div class="FooterConnect">
@@ -44,10 +44,10 @@
               </div>
               <div class="FooterHelpLinks" style="text-align:center;">
                   <div class="dividingDots"></div>
-                  <a href="http://www.facebook.com/ModifyWatches"><img src="http://www.modifywatches.com/templates/modify/images/blue/facebook.png" alt="Modify Watches' Facebook Page" border="0" /></a>					
-                  <a href="http://www.twitter.com/ModifyWatches"><img src="http://www.modifywatches.com/templates/modify/images/blue/twitter.png" style="boder:none;margin-left:10px;" alt="Modify Watches' Twitter Page" /></a>
+                  <a href="http://www.facebook.com/ModifyWatches"><img src="http://dev.modifywatches.com/templates/modify/images/blue/facebook.png" alt="Modify Watches' Facebook Page" border="0" /></a>					
+                  <a href="http://www.twitter.com/ModifyWatches"><img src="http://dev.modifywatches.com/templates/modify/images/blue/twitter.png" style="boder:none;margin-left:10px;" alt="Modify Watches' Twitter Page" /></a>
                   
-                  <a href="#" class="joinnews"><img src="http://www.modifywatches.com/templates/modify/images/blue/email.png" style="boder:none;margin-left:10px;" alt="Join Modify's Newsletter" /></a>
+                  <a href="#" class="joinnews"><img src="http://dev.modifywatches.com/templates/modify/images/blue/email.png" style="boder:none;margin-left:10px;" alt="Join Modify's Newsletter" /></a>
                </div>
           </div>
           <div class="FooterCustom">
@@ -63,7 +63,7 @@
           </div>
           <div class="FooterSubText">
               Copyright 2011 Modify Industries. |
-              <a href="http://www.modifywatches.com/store/sitemap.xml"><span>Sitemap</span></a> 
+              <a href="http://dev.modifywatches.com/store/sitemap.xml"><span>Sitemap</span></a> 
           </div>
       </div>
 </div>

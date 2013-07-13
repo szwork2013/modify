@@ -68,11 +68,11 @@
         	<div style="position:relative;left:255px;top:15px;">
             	<script>
 					function fbs_click() {
-						u='http://www.modifywatches.com/facebook/modifiedup/redirected.php';
+						u='http://dev.modifywatches.com/facebook/modifiedup/redirected.php';
 						title='Modified Up';
 						window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(title),'_blank','width=450,height=400'); return false;}
 				</script>
-				<a href="http://www.facebook.com/share.php?u=http://www.modifywatches.com/" onclick="return fbs_click()" target="_blank">
+				<a href="http://www.facebook.com/share.php?u=http://dev.modifywatches.com/" onclick="return fbs_click()" target="_blank">
 					<img src="images/posttowall.jpg" alt="Share on Facebook" />
 				</a>
             </div>

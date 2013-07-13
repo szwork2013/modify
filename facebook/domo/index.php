@@ -71,7 +71,7 @@
       ?>
       	<div style="background-image:url('domolike.jpg');width:520px;height:560px;">
         	<div style="position:relative;top:205px;left:170px;">
-            	<a href="https://www.modifywatches.com/sets.php?action=partners"><img src="shopnow.png" /></a>
+            	<a href="https://dev.modifywatches.com/sets.php?action=partners"><img src="shopnow.png" /></a>
             </div>
         </div>
       <?

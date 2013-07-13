@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: New Products - ]]></title>
 	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=16&amp;type=atom" />
-	<id>https://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?categoryid=16&amp;type=atom" />
+	<id>https://dev.modifywatches.com</id>
 	<updated>2013-06-21T10:02:02Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 </feed>

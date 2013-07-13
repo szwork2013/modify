@@ -41,7 +41,6 @@
 				text-align: center;
 			">
 				<a href="http://www.youtube.com/watch?v=do013Xs-IEo" class="nBut" style="padding:12px 20px;">Need Help Modifying?</a>
-				<a href="http://www.youtube.com/watch?v=GT86iWiH2mI" class="nBut">Need a Laugh?</a>
 			</div>
 			<div id="sboxSide">
 				%%Panel.SideCategoryList%%
@@ -133,7 +132,11 @@
 	<script type="text/template" id="product-template">
 		<%= image %>
 		<div>
-			<a class="nBut visualize" href="#">Add to Visualizer</a>
+			<% if (type == "3" || type == "4") { %>
+				<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;"> Buy Now</a>
+			<% } else { %>
+				<a class="nBut visualize" href="#">Add to Visualizer</a>
+			<% } %>
 			<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>
 		</div>
 		<a href="<%= link %>" class="">

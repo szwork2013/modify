@@ -68,7 +68,7 @@ class ISC_PHOTOWALL
 			} catch (Exception $Exception) {
 				$preview = false;
 			}
-			$GLOBALS['ImageURLs'] .= "<a class='photoimage' href='https://www.modifywatches.com/photowall.php?ismodal=true&id=".$photowallImage->getPhotowallImageId()."' rel='photos'><img id='photo".$photowallImage->getPhotowallImageId()."' class='box' src='". $preview . "' /></a>\n";
+			$GLOBALS['ImageURLs'] .= "<a class='photoimage' href='https://dev.modifywatches.com/photowall.php?ismodal=true&id=".$photowallImage->getPhotowallImageId()."' rel='photos'><img id='photo".$photowallImage->getPhotowallImageId()."' class='box' src='". $preview . "' /></a>\n";
 			$index++;
 		}
 		
@@ -139,7 +139,7 @@ class ISC_PHOTOWALL
 	
 	private function startModalImage() {
 		ISC_SetCookie("PHOTOWALL_MODAL_IMAGE", 'true');	
-		header('Location:https://www.modifywatches.com/photowall.php?id='.$_REQUEST['id']);
+		header('Location:https://dev.modifywatches.com/photowall.php?id='.$_REQUEST['id']);
 	}
 
 	private function GetPageTitle()

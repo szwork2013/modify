@@ -7,8 +7,8 @@
 
 <body>
 
-<div style="background-image:url('http://www.modifywatches.com/facebook/images/currentstyles/top.jpg');width:520px;height:88px;"></div>
-<div style="background-image:url('http://www.modifywatches.com/facebook/images/currentstyles/content.jpg');width:520px;height:207px;">
+<div style="background-image:url('http://dev.modifywatches.com/facebook/images/currentstyles/top.jpg');width:520px;height:88px;"></div>
+<div style="background-image:url('http://dev.modifywatches.com/facebook/images/currentstyles/content.jpg');width:520px;height:207px;">
 <div style="width:457px;margin:0 auto;">
 <p style="font-size:14px;font-family: 'Trebuchet MS', sans-serif;padding-top:15px;">Here at Modify Watches we work hard to make every one of our mods feel loved, respected, and appreciated.  To date we have named over 1,500 watch combos<sup>*</sup>, and here's everything in the current range.</p>
  
@@ -18,7 +18,7 @@
 </div>
 </div>
  
-<div style="background-image:url('http://www.modifywatches.com/facebook/images/currentstyles/bg.jpg');width:520px;height:4800px;background-repeat:repeat-y;"> 
+<div style="background-image:url('http://dev.modifywatches.com/facebook/images/currentstyles/bg.jpg');width:520px;height:4800px;background-repeat:repeat-y;"> 
 <div style="width:475px;height:4800px;margin:0 auto;">
 
 <?php
@@ -79,7 +79,7 @@ $array = array(
   for ($i = 0; $i < 48; $i++)
     {
     print("<div style='float:left;padding-left:5px;padding-right:5px;width:145px;height:300px;text-align:center;'>");
-    print("<img src='http://www.modifywatches.com/photos/combos/".$array[$i][0].".JPG' width=145>");
+    print("<img src='http://dev.modifywatches.com/photos/combos/".$array[$i][0].".JPG' width=145>");
     print("<br><b style='color:#000000;font-family: 'Trebuchet MS', sans-serif;'>". $array[$i][1]."</b>");
     print("<p style='font-size:12px;font-family: 'Trebuchet MS', sans-serif;'>" . $array[$i][2] . "</p>");            
     print("</div>");  
@@ -87,6 +87,6 @@ $array = array(
  ?>
 </div> 
 </div>
-<div style="background-image:url('http://www.modifywatches.com/facebook/images/currentstyles/bottom.jpg');width:520px;height:17px;"></div>
+<div style="background-image:url('http://dev.modifywatches.com/facebook/images/currentstyles/bottom.jpg');width:520px;height:17px;"></div>
 </body>
 </html>

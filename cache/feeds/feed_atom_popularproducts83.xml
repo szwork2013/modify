@@ -2,166 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=83&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=83&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-04-29T09:35:48Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:23Z</published>
 		<updated>2012-11-12T21:26:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face.html"  ><img src="http://www.modifywatches.com/product_images/f/028/rockthevote__32597_thumb.jpg" alt="Rock the Vote Face" /></a></div><p><span>The Rock the Vote watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $30.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face.html"  ><img src="http://dev.modifywatches.com/product_images/f/028/rockthevote__32597_thumb.jpg" alt="Rock the Vote Face" /></a></div><p><span>The Rock the Vote watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $30.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>The Rock the Vote watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p>]]></isc:description>
 		<isc:productid><![CDATA[1320]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/028/rockthevote__32597_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/715/rockthevote__90228_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/028/rockthevote__32597_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/715/rockthevote__90228_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:23Z</published>
 		<updated>2012-11-12T21:26:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Black Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html"  ><img src="http://www.modifywatches.com/product_images/i/737/1362076748__01061_thumb.jpg" alt="Rock the Vote Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Black-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/i/737/1362076748__01061_thumb.jpg" alt="Rock the Vote Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1321]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/737/1362076748__01061_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/y/852/1362076748__05936_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/737/1362076748__01061_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/y/852/1362076748__05936_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:23Z</published>
 		<updated>2012-11-12T21:26:23Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Sky Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/x/816/1364578077__95635_thumb.jpg" alt="Rock the Vote Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Sky-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/x/816/1364578077__95635_thumb.jpg" alt="Rock the Vote Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1322]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/816/1364578077__95635_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/937/1364578077__99420_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/816/1364578077__95635_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/937/1364578077__99420_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:24Z</published>
 		<updated>2012-11-12T21:26:24Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/w/363/1366150845__83146_thumb.jpg" alt="Rock the Vote Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/w/363/1366150845__83146_thumb.jpg" alt="Rock the Vote Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1323]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/w/363/1366150845__83146_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/458/1366150845__40189_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/w/363/1366150845__83146_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/s/458/1366150845__40189_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:24Z</published>
 		<updated>2012-11-12T21:26:24Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Brown Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html"  ><img src="http://www.modifywatches.com/product_images/v/223/1366876761__73446_thumb.jpg" alt="Rock the Vote Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Brown-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/v/223/1366876761__73446_thumb.jpg" alt="Rock the Vote Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $43.33</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1324]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/v/223/1366876761__73446_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/191/1366876761__32179_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/v/223/1366876761__73446_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/191/1366876761__32179_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$43.33]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:24Z</published>
 		<updated>2012-11-12T21:26:24Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Crimson Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html"  ><img src="http://www.modifywatches.com/product_images/x/776/1366876369__05787_thumb.jpg" alt="Rock the Vote Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Crimson-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/x/776/1366876369__05787_thumb.jpg" alt="Rock the Vote Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $43.33</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1325]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/776/1366876369__05787_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/082/1366876369__27792_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/776/1366876369__05787_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/082/1366876369__27792_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$43.33]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:24Z</published>
 		<updated>2012-11-12T21:26:24Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Glow in the Dark Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://www.modifywatches.com/product_images/q/850/1352780785__65295_thumb.jpg" alt="Rock the Vote Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/q/850/1352780785__65295_thumb.jpg" alt="Rock the Vote Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1326]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/q/850/1352780785__65295_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/745/1352780785__81577_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/q/850/1352780785__65295_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/745/1352780785__81577_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:25Z</published>
 		<updated>2012-11-12T21:26:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/v/060/1352780785__86838_thumb.jpg" alt="Rock the Vote Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/v/060/1352780785__86838_thumb.jpg" alt="Rock the Vote Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1327]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/v/060/1352780785__86838_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/a/424/1352780785__67350_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/v/060/1352780785__86838_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/a/424/1352780785__67350_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:25Z</published>
 		<updated>2012-11-12T21:26:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Lime Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/j/078/1364578145__96679_thumb.jpg" alt="Rock the Vote Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Lime-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/j/078/1364578145__96679_thumb.jpg" alt="Rock the Vote Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1328]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/j/078/1364578145__96679_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/x/289/1364578145__57231_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/j/078/1364578145__96679_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/x/289/1364578145__57231_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:26:25Z</published>
 		<updated>2012-11-12T21:26:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html" />
-		<id>http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Rock the Vote Face with Medium Grey Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html"  ><img src="http://www.modifywatches.com/product_images/g/165/1366876704__90373_thumb.jpg" alt="Rock the Vote Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Rock-the-Vote-Face-with-Medium-Grey-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/g/165/1366876704__90373_thumb.jpg" alt="Rock the Vote Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1329]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/g/165/1366876704__90373_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/y/496/1366876704__37872_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/g/165/1366876704__90373_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/y/496/1366876704__37872_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 </feed>

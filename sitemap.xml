@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.modifywatches.com/</loc>
+        <loc>http://dev.modifywatches.com/</loc>
     </url>
 	<url>
-        <loc>http://www.modifywatches.com/sandbox.php</loc>
+        <loc>http://dev.modifywatches.com/sandbox.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/community.php</loc>
+        <loc>http://dev.modifywatches.com/community.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/sets.php</loc>
+        <loc>http://dev.modifywatches.com/sets.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/about.php</loc>
+        <loc>http://dev.modifywatches.com/about.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/archives.php</loc>
+        <loc>http://dev.modifywatches.com/archives.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/jointeam.php</loc>
+        <loc>http://dev.modifywatches.com/jointeam.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/media.php</loc>
+        <loc>http://dev.modifywatches.com/media.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/faq.php</loc>
+        <loc>http://dev.modifywatches.com/faq.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/returns.php</loc>
+        <loc>http://dev.modifywatches.com/returns.php</loc>
     </url>
     <url>
-        <loc>http://www.modifywatches.com/contact.php</loc>
+        <loc>http://dev.modifywatches.com/contact.php</loc>
     </url>
 </urlset>

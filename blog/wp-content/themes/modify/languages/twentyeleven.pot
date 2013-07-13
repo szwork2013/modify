@@ -122,7 +122,7 @@ msgstr ""
 #. #-#-#-#-#  twentyeleven.pot (Twenty Eleven 1.0)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:26
-msgid "http://www.modifywatches.com"
+msgid "http://dev.modifywatches.com"
 msgstr ""
 
 #: footer.php:26

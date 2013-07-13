@@ -76,7 +76,7 @@ class ISC_CARTCONTENT_PANEL extends PANEL
 	 */
 	public function generateCartContent()
 	{
-		$json = file_get_contents('https://www.modifywatches.com/sandbox/data.txt');
+		$json = file_get_contents('https://dev.modifywatches.com/sandbox/data.txt');
 		$json = json_decode($json);
 
 		if(!GetConfig('ShowThumbsInCart')) {

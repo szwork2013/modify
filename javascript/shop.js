@@ -49,6 +49,8 @@ $(function () {
 			return this;
 		}
 	});
+
+
 	
 	var ProductModel = Backbone.Model.extend({
 		defaults: function() {
@@ -71,7 +73,8 @@ $(function () {
 		
 		events: {
 			'click img': "addToSandbox",
-			'click .visualize': "addToSandbox"
+			'click .visualize': "addToSandbox",
+			'click .buyNow' : "buyNow"
 		},
 		
 		render: function() {
@@ -80,6 +83,7 @@ $(function () {
 		},
 		
 		addToSandbox: function() {
+			console.log("btn addToSandbox");
 			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
 				var that = this;
 				$.each(this.model.get('variations'), function(index, value) {
@@ -98,12 +102,40 @@ $(function () {
 			});
 			return false;
 		},
+
+
+		buyNow: function() {
+			console.log("btn buyNow");
+			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+				var that = this;
+				$.each(this.model.get('variations'), function(index, value) {
+					if(value.vcoptionids == shopApp.model.get('sizeid')) {
+						that.model.set('active_variation', value.combinationid);
+					}
+				});
+			} else {
+				this.model.unset('active_variation');
+			}
+			window.sandbox.buyNow({
+				product: this.model.toJSON(),
+				context: this, 
+				callback: 'redirectToCart',
+				showSuccess: true
+			});
+			return false;
+		},
 		
+
+		// jQuery visualization to add to Cart
+
 		jumpToSandbox: function() {
 			this.$("a > img").jumpTo({
 				destination: "#sboxPreview header"
 			});
 			this.pulseIt();
+		},
+
+		redirectToCart: function() {
 		},
 		
 		pulseIt: function() {
@@ -124,6 +156,9 @@ $(function () {
 		  return this.last().get('order') + 1;
 		}
 	});
+
+
+	// ****** CATEGORY ******* //
 	
 	var CategoryModel = Backbone.Model.extend({
 		defaults: function() {
@@ -371,7 +406,7 @@ $(function () {
 		el: $("#CategoryBreadcrumb"),
 		
 		initialize: function(opts) {
-			this.$el.append('<ul><li><a href="http://www.modifywatches.com/">Home</a></li></ul>');
+			this.$el.append('<ul><li><a href="http://dev.modifywatches.com/">Home</a></li></ul>');
 			this.$el = this.$el.children("ul").last();
 			
 			this.Breadcrumbs = new BreadcrumbCollection();
@@ -828,6 +863,7 @@ $(function () {
 			new genericModal({ 
 				message: 'Well this is embarrassing . We\'re not sure what happened... <br />We suggest refreshing the page :)'
 			});
+
 		}
 	});
 	
@@ -1170,9 +1206,10 @@ $(function () {
 			'click .close': 'destroy'
 		},
 		
-		initialize: function(defs) {
+		initialize: function(defs, buyNow) {
 			_.bindAll(this, 'render', 'destroy', 'callback');
 			this.model = defs;
+			this.buyNow = buyNow;
 		},
 		
 		render: function() {
@@ -1212,7 +1249,13 @@ $(function () {
 				});
 			}
 			this.destroy();
-			window.sandbox.add(this.model);
+
+
+			if(this.buyNow) {
+				window.sandbox.buyNow(this.model);
+			} else {
+				window.sandbox.add(this.model);				
+			}
 		},
 		
 		destroy: function() {
@@ -1352,6 +1395,7 @@ $(function () {
 		},
 		
 		add: function(opts) {
+			console.log("sandbox add");
 			mixpanel.track("Added to Sandbox");
 			defs = {
 				product: null,
@@ -1364,6 +1408,9 @@ $(function () {
 			if(defs.product.variations.length == 0) {
 				defs.product.active_variation = null;
 			}
+
+			console.log(JSON.stringify(defs.product));
+
 			
 			if(typeof defs.product.active_variation != 'undefined') {
 				var that = this;
@@ -1376,12 +1423,14 @@ $(function () {
 						variation_id: defs.product.active_variation
 					},
 					success: function(data) {
+						console.log(JSON.stringify(data));
 						data = $.parseJSON(data);
 						data.products.open = false;
 						data.products.type = "sandbox";
 						that.model.set(data.products);
 					},
 					error: function(data) {
+						console.log(JSON.stringify(data));
 						data = $.parseJSON(data['responseText']);
 						new genericModal({
 							message: data['error']
@@ -1389,7 +1438,59 @@ $(function () {
 					}
 				}); 
 			} else {
-				var chooseSize = new sandboxSizeChooser(defs);
+				var chooseSize = new sandboxSizeChooser(defs, false);
+				$('body').append(chooseSize.render().el);
+			}
+		},
+
+		buyNow: function(opts) {
+			console.log("sandbox buyNow");
+			mixpanel.track("Added to Cart");
+			defs = {
+				product: null,
+				context: null,
+				callback: null,
+				showSuccess: null
+			};
+			$.extend(defs, opts);
+			
+			if(defs.product.variations.length == 0) {
+				defs.product.active_variation = null;
+			}
+			
+			console.log(JSON.stringify(defs.product));
+
+			if(typeof defs.product.active_variation != 'undefined') {
+				var that = this;
+				defs.context[defs.callback]();
+				console.log("about to make ajax call");
+				$.ajax({
+					url: config.ShopPath + "/sandbox.php",
+					data: {
+						action: 'buynow',
+						product_id: defs.product.id,
+						variation_id: defs.product.active_variation
+					},
+					success: function(data) {
+						data = $.parseJSON(data);
+						console.log("success!");
+						data.products.open = false;
+						data.products.type = "sandbox";
+						that.model.set(data.products);
+						window.location = "/cart.php";
+					},
+					error: function(data) {
+						console.log(JSON.stringify(data));
+						
+						data = $.parseJSON(data['responseText']);
+						
+						new genericModal({
+							message: data['error']
+						});
+					}
+				}); 
+			} else {
+				var chooseSize = new sandboxSizeChooser(defs, true);
 				$('body').append(chooseSize.render().el);
 			}
 		},

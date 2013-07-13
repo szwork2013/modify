@@ -2,134 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=12&amp;type=atom" />
-	<id>https://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=12&amp;type=atom" />
+	<id>https://dev.modifywatches.com</id>
 	<updated>2012-02-18T14:31:54Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-10T02:38:01Z</published>
 		<updated>2011-11-10T02:38:01Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-White-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-White-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-White-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-White-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini White Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-White-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-White-Face.html"  ><img src="https://www.modifywatches.com/product_images/i/584/81750201103__88767_thumb.jpg" alt="Mini White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-White-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-White-Face.html"  ><img src="https://dev.modifywatches.com/product_images/i/584/81750201103__88767_thumb.jpg" alt="Mini White Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[83]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/i/584/81750201103__88767_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/n/495/81750201103__33510_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/i/584/81750201103__88767_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/n/495/81750201103__33510_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-10T02:38:02Z</published>
 		<updated>2011-11-10T02:38:02Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Silver-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Silver-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Silver-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Silver-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Silver Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Silver-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Silver-Face.html"  ><img src="https://www.modifywatches.com/product_images/r/050/81750201102__34608_thumb.jpg" alt="Mini Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Silver-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Silver-Face.html"  ><img src="https://dev.modifywatches.com/product_images/r/050/81750201102__34608_thumb.jpg" alt="Mini Silver Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[84]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/r/050/81750201102__34608_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/k/371/81750201102__84391_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/r/050/81750201102__34608_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/k/371/81750201102__84391_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-10T02:38:03Z</published>
 		<updated>2011-11-10T02:38:03Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Black-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Black-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Black-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Black-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Black Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Black-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Black-Face.html"  ><img src="https://www.modifywatches.com/product_images/k/938/81750201101__74195_thumb.jpg" alt="Mini Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Black-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Black-Face.html"  ><img src="https://dev.modifywatches.com/product_images/k/938/81750201101__74195_thumb.jpg" alt="Mini Black Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[85]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/k/938/81750201101__74195_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/k/948/81750201101__16962_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/k/938/81750201101__74195_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/k/948/81750201101__16962_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-21T20:26:56Z</published>
 		<updated>2011-11-21T20:26:56Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Blue-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Blue-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Blue-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Blue-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Blue Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Blue-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Blue-Face.html"  ><img src="https://www.modifywatches.com/product_images/d/538/81750201204__88354_thumb.jpg" alt="Mini Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Blue-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Blue-Face.html"  ><img src="https://dev.modifywatches.com/product_images/d/538/81750201204__88354_thumb.jpg" alt="Mini Blue Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[111]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/d/538/81750201204__88354_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/g/832/81750201204__04679_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/d/538/81750201204__88354_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/g/832/81750201204__04679_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-21T20:26:57Z</published>
 		<updated>2011-11-21T20:26:57Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Green-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Green-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Green-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Green-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Green Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Green-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Green-Face.html"  ><img src="https://www.modifywatches.com/product_images/c/059/81750201205__08427_thumb.jpg" alt="Mini Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Green-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Green-Face.html"  ><img src="https://dev.modifywatches.com/product_images/c/059/81750201205__08427_thumb.jpg" alt="Mini Green Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[112]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/c/059/81750201205__08427_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/f/306/81750201205__01107_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/c/059/81750201205__08427_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/f/306/81750201205__01107_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2011-11-21T20:26:58Z</published>
 		<updated>2011-11-21T20:26:58Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Pink-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Pink-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Pink-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Pink-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Pink Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Pink-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Pink-Face.html"  ><img src="https://www.modifywatches.com/product_images/s/654/81750201206__08252_thumb.jpg" alt="Mini Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Pink-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Pink-Face.html"  ><img src="https://dev.modifywatches.com/product_images/s/654/81750201206__08252_thumb.jpg" alt="Mini Pink Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[113]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/s/654/81750201206__08252_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/p/224/81750201206__27250_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/s/654/81750201206__08252_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/p/224/81750201206__27250_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-01-30T18:09:32Z</published>
 		<updated>2012-01-30T18:09:32Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Purple-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Purple-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Purple-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Purple-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Purple Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Purple-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Purple-Face.html"  ><img src="https://www.modifywatches.com/product_images/n/627/81750201217__72140_thumb.jpg" alt="Mini Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Purple-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Purple-Face.html"  ><img src="https://dev.modifywatches.com/product_images/n/627/81750201217__72140_thumb.jpg" alt="Mini Purple Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[176]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/n/627/81750201217__72140_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/v/260/81750201217__22429_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/n/627/81750201217__72140_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/v/260/81750201217__22429_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-01-30T18:09:33Z</published>
 		<updated>2012-01-30T18:09:33Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Orange-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Orange-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Orange-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Orange-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Orange Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Orange-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Orange-Face.html"  ><img src="https://www.modifywatches.com/product_images/v/874/81750201216__42113_thumb.jpg" alt="Mini Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Orange-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Orange-Face.html"  ><img src="https://dev.modifywatches.com/product_images/v/874/81750201216__42113_thumb.jpg" alt="Mini Orange Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[177]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/v/874/81750201216__42113_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/z/287/81750201216__07475_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/v/874/81750201216__42113_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/z/287/81750201216__07475_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-01-30T18:09:35Z</published>
 		<updated>2012-01-30T18:09:35Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Mini-Gold-Face.html" />
-		<id>http://www.modifywatches.com/products/Mini-Gold-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Mini-Gold-Face.html" />
+		<id>http://dev.modifywatches.com/products/Mini-Gold-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Mini Gold Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Mini-Gold-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Gold-Face.html"  ><img src="https://www.modifywatches.com/product_images/w/355/81750201215__94390_thumb.jpg" alt="Mini Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Mini-Gold-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Gold-Face.html"  ><img src="https://dev.modifywatches.com/product_images/w/355/81750201215__94390_thumb.jpg" alt="Mini Gold Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $25.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 		<isc:productid><![CDATA[178]]></isc:productid>
-		<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/w/355/81750201215__94390_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[https://www.modifywatches.com/product_images/m/969/81750201215__98931_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/w/355/81750201215__94390_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[https://dev.modifywatches.com/product_images/m/969/81750201215__98931_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$25.00]]></isc:price>
 	</entry>
 </feed>

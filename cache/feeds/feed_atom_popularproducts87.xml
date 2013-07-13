@@ -2,166 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=87&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=87&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-05-13T00:03:43Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:02Z</published>
 		<updated>2012-11-12T21:27:02Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face.html"  ><img src="http://www.modifywatches.com/product_images/j/610/streetsoccer__53424_thumb.jpg" alt="Street Soccer USA Face" /></a></div><p><span>The Street Soccer USA watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $30.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face.html"  ><img src="http://dev.modifywatches.com/product_images/j/610/streetsoccer__53424_thumb.jpg" alt="Street Soccer USA Face" /></a></div><p><span>The Street Soccer USA watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $30.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>The Street Soccer USA watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p>]]></isc:description>
 		<isc:productid><![CDATA[1345]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/j/610/streetsoccer__53424_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/e/183/streetsoccer__23302_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/j/610/streetsoccer__53424_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/e/183/streetsoccer__23302_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:02Z</published>
 		<updated>2012-11-12T21:27:02Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Black Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html"  ><img src="http://www.modifywatches.com/product_images/j/862/1362076748__18108_thumb.jpg" alt="Street Soccer USA Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Black-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/j/862/1362076748__18108_thumb.jpg" alt="Street Soccer USA Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1346]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/j/862/1362076748__18108_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/117/1362076748__02472_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/j/862/1362076748__18108_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/117/1362076748__02472_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:02Z</published>
 		<updated>2012-11-12T21:27:02Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Sky Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/v/643/1364578077__49286_thumb.jpg" alt="Street Soccer USA Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Sky-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/v/643/1364578077__49286_thumb.jpg" alt="Street Soccer USA Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1347]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/v/643/1364578077__49286_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/v/625/1364578077__34976_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/v/643/1364578077__49286_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/v/625/1364578077__34976_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:02Z</published>
 		<updated>2012-11-12T21:27:02Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/e/061/1366150846__52988_thumb.jpg" alt="Street Soccer USA Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/e/061/1366150846__52988_thumb.jpg" alt="Street Soccer USA Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1348]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/e/061/1366150846__52988_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/706/1366150846__20816_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/e/061/1366150846__52988_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/706/1366150846__20816_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:03Z</published>
 		<updated>2012-11-12T21:27:03Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Brown Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html"  ><img src="http://www.modifywatches.com/product_images/f/051/1367264486__65390_thumb.jpg" alt="Street Soccer USA Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Brown-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/f/051/1367264486__65390_thumb.jpg" alt="Street Soccer USA Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1349]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/051/1367264486__65390_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/a/259/1367264486__02052_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/051/1367264486__65390_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/a/259/1367264486__02052_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:03Z</published>
 		<updated>2012-11-12T21:27:03Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Crimson Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html"  ><img src="http://www.modifywatches.com/product_images/f/055/1367264412__51317_thumb.jpg" alt="Street Soccer USA Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Crimson-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/f/055/1367264412__51317_thumb.jpg" alt="Street Soccer USA Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1350]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/f/055/1367264412__51317_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/b/696/1367264412__54915_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/f/055/1367264412__51317_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/b/696/1367264412__54915_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:03Z</published>
 		<updated>2012-11-12T21:27:03Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Glow in the Dark Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://www.modifywatches.com/product_images/c/101/1352780823__89864_thumb.jpg" alt="Street Soccer USA Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/c/101/1352780823__89864_thumb.jpg" alt="Street Soccer USA Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1351]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/c/101/1352780823__89864_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/d/440/1352780823__44943_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/c/101/1352780823__89864_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/d/440/1352780823__44943_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:04Z</published>
 		<updated>2012-11-12T21:27:04Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/n/022/1352780824__03591_thumb.jpg" alt="Street Soccer USA Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/n/022/1352780824__03591_thumb.jpg" alt="Street Soccer USA Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1352]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/n/022/1352780824__03591_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/n/181/1352780824__23887_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/n/022/1352780824__03591_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/n/181/1352780824__23887_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:04Z</published>
 		<updated>2012-11-12T21:27:04Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Lime Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/q/610/1364578145__59894_thumb.jpg" alt="Street Soccer USA Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Lime-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/q/610/1364578145__59894_thumb.jpg" alt="Street Soccer USA Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1353]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/q/610/1364578145__59894_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/w/615/1364578145__64308_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/q/610/1364578145__59894_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/w/615/1364578145__64308_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:04Z</published>
 		<updated>2012-11-12T21:27:04Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html" />
-		<id>http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Street Soccer USA Face with Medium Grey Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html"  ><img src="http://www.modifywatches.com/product_images/e/347/1367264314__38688_thumb.jpg" alt="Street Soccer USA Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Street-Soccer-USA-Face-with-Medium-Grey-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/e/347/1367264314__38688_thumb.jpg" alt="Street Soccer USA Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1354]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/e/347/1367264314__38688_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/428/1367264314__55751_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/e/347/1367264314__38688_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/428/1367264314__55751_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 </feed>

@@ -80,7 +80,7 @@ $array = array(
   for ($i = 0; $i < 48; $i++)
     {
     print("<div style='float:left;padding:0px;width:160px;height:300px;text-align:left;'>");
-    print("<img src='http://www.modifywatches.com/photos/combos/".$array[$i][0].".JPG' width=145>");
+    print("<img src='http://dev.modifywatches.com/photos/combos/".$array[$i][0].".JPG' width=145>");
     print("<br><b style='color:#000000;font-family: 'Trebuchet MS', sans-serif;'>". $array[$i][1]."</b>");
     print("<p style='font-size:12px;font-family: 'Trebuchet MS', sans-serif;'>" . $array[$i][2] . "</p>");            
     print("</div>");  

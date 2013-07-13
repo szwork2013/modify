@@ -11,7 +11,7 @@ RewriteRule . /blog/index.php [L]
 
 <IfModule mod_rewrite.c>
    RewriteCond %{SERVER_PORT} ^443
-   RewriteRule ^ http://www.modifywatches.com%{REQUEST_URI} [R=301,L]
+   RewriteRule ^ http://dev.modifywatches.com%{REQUEST_URI} [R=301,L]
 </IfModule>
 
 # END WordPress

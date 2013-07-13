@@ -35,7 +35,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="http://www.modifywatches.com/css/master.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://dev.modifywatches.com/css/master.css" />
 <style type="text/css" media="screen">
 @import url( <?php bloginfo('stylesheet_url'); ?> );
 </style>

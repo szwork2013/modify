@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=81&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=81&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-03-28T23:18:44Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T18:20:49Z</published>
 		<updated>2012-10-27T18:20:49Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-Face.html" />
-		<id>http://www.modifywatches.com/products/Oski-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-Face.html" />
+		<id>http://dev.modifywatches.com/products/Oski-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-Face.html"  ><img src="http://www.modifywatches.com/product_images/a/972/oski__83598_thumb.jpg" alt="Oski Face" /></a></div><table border="0" cellspacing="0">
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-Face.html"  ><img src="http://dev.modifywatches.com/product_images/a/972/oski__83598_thumb.jpg" alt="Oski Face" /></a></div><table border="0" cellspacing="0">
 <colgroup width="2230"></colgroup> 
 <tbody>
 <tr>
@@ -24,136 +24,136 @@
 <tr>
 <td height="17" align="LEFT">The Oski watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbo..]]></isc:description>
 		<isc:productid><![CDATA[607]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/a/972/oski__83598_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/544/oski__36079_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/a/972/oski__83598_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/s/544/oski__36079_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$30.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:09:09Z</published>
 		<updated>2012-10-27T19:09:09Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-Face-with-Black-Strap.html" />
-		<id>http://www.modifywatches.com/products/Oski-Face-with-Black-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-Face-with-Black-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Oski-Face-with-Black-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski Face with Black Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-Face-with-Black-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/868/1362076743__39852_thumb.jpg" alt="Oski Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-Face-with-Black-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/868/1362076743__39852_thumb.jpg" alt="Oski Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[657]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/868/1362076743__39852_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/g/596/1362076743__66904_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/868/1362076743__39852_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/g/596/1362076743__66904_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:24:15Z</published>
 		<updated>2012-10-27T19:24:15Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Light-Blue.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Light-Blue.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Light-Blue.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Light-Blue.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Light Blue]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Light-Blue.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Light-Blue.html"  ><img src="http://www.modifywatches.com/product_images/n/826/1351391056__44106_thumb.jpg" alt="Oski in Light Blue" /></a></div>The Oski in Light Blue comes with one Oski watch face and one Blue Light strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Light-Blue.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Light-Blue.html"  ><img src="http://dev.modifywatches.com/product_images/n/826/1351391056__44106_thumb.jpg" alt="Oski in Light Blue" /></a></div>The Oski in Light Blue comes with one Oski watch face and one Blue Light strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Light Blue comes with one Oski watch face and one Blue Light strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..]]></isc:description>
 		<isc:productid><![CDATA[682]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/n/826/1351391056__44106_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/y/647/1351391056__66012_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/n/826/1351391056__44106_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/y/647/1351391056__66012_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:26:26Z</published>
 		<updated>2012-10-27T19:26:26Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Blue.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Blue.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Blue.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Blue.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Blue]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Blue.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Blue.html"  ><img src="http://www.modifywatches.com/product_images/m/533/1355420858__30792_thumb.jpg" alt="Oski in Blue" /></a></div>The Oski in Blue comes with one Oski watch face and one Blue Royal strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Blue.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Blue.html"  ><img src="http://dev.modifywatches.com/product_images/m/533/1355420858__30792_thumb.jpg" alt="Oski in Blue" /></a></div>The Oski in Blue comes with one Oski watch face and one Blue Royal strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Blue comes with one Oski watch face and one Blue Royal strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant..]]></isc:description>
 		<isc:productid><![CDATA[707]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/m/533/1355420858__30792_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/g/618/1355420858__70132_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/m/533/1355420858__30792_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/g/618/1355420858__70132_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:27:41Z</published>
 		<updated>2012-10-27T19:27:41Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Brown.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Brown.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Brown.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Brown.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Brown]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Brown.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Brown.html"  ><img src="http://www.modifywatches.com/product_images/g/704/1351391261__79404_thumb.jpg" alt="Oski in Brown" /></a></div>The Oski in Brown comes with one Oski watch face and one Brown strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Brown.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Brown.html"  ><img src="http://dev.modifywatches.com/product_images/g/704/1351391261__79404_thumb.jpg" alt="Oski in Brown" /></a></div>The Oski in Brown comes with one Oski watch face and one Brown strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Brown comes with one Oski watch face and one Brown strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..]]></isc:description>
 		<isc:productid><![CDATA[732]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/g/704/1351391261__79404_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/x/500/1351391261__22092_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/g/704/1351391261__79404_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/x/500/1351391261__22092_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:29:27Z</published>
 		<updated>2012-10-27T19:29:27Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Maroon.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Maroon.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Maroon.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Maroon.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Maroon]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Maroon.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Maroon.html"  ><img src="http://www.modifywatches.com/product_images/n/862/1360526675__05917_thumb.jpg" alt="Oski in Maroon" /></a></div>The Oski in Maroon comes with one Oski watch face and one Crimson strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant ..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Maroon.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Maroon.html"  ><img src="http://dev.modifywatches.com/product_images/n/862/1360526675__05917_thumb.jpg" alt="Oski in Maroon" /></a></div>The Oski in Maroon comes with one Oski watch face and one Crimson strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant ..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Maroon comes with one Oski watch face and one Crimson strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant ..]]></isc:description>
 		<isc:productid><![CDATA[757]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/n/862/1360526675__05917_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/p/285/1360526675__36830_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/n/862/1360526675__05917_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/p/285/1360526675__36830_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:33:44Z</published>
 		<updated>2012-10-27T19:33:44Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Glow in the Dark]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html"  ><img src="http://www.modifywatches.com/product_images/p/824/1351391625__78644_thumb.jpg" alt="Oski in Glow in the Dark" /></a></div>The Oski in Glow in the Dark comes with one Oski watch face and one Glow In the Dark strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Glow-in-the-Dark.html"  ><img src="http://dev.modifywatches.com/product_images/p/824/1351391625__78644_thumb.jpg" alt="Oski in Glow in the Dark" /></a></div>The Oski in Glow in the Dark comes with one Oski watch face and one Glow In the Dark strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Glow in the Dark comes with one Oski watch face and one Glow In the Dark strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a..]]></isc:description>
 		<isc:productid><![CDATA[782]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/p/824/1351391625__78644_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/q/981/1351391625__56766_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/p/824/1351391625__78644_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/q/981/1351391625__56766_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:34:58Z</published>
 		<updated>2012-10-27T19:34:58Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Green.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Green.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Green.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Green.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Green]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Green.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Green.html"  ><img src="http://www.modifywatches.com/product_images/r/011/1351391698__08714_thumb.jpg" alt="Oski in Green" /></a></div>The Oski in Green comes with one Oski watch face and one Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Green.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Green.html"  ><img src="http://dev.modifywatches.com/product_images/r/011/1351391698__08714_thumb.jpg" alt="Oski in Green" /></a></div>The Oski in Green comes with one Oski watch face and one Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Green comes with one Oski watch face and one Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant pol..]]></isc:description>
 		<isc:productid><![CDATA[807]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/r/011/1351391698__08714_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/393/1351391698__71049_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/r/011/1351391698__08714_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/393/1351391698__71049_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:36:21Z</published>
 		<updated>2012-10-27T19:36:21Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Lime-Green.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Lime-Green.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Lime-Green.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Lime-Green.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Lime Green]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Lime-Green.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Lime-Green.html"  ><img src="http://www.modifywatches.com/product_images/j/722/1351391781__44998_thumb.jpg" alt="Oski in Lime Green" /></a></div>The Oski in Lime Green comes with one Oski watch face and one Lime Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..<p><strong>Price: $50.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Lime-Green.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Lime-Green.html"  ><img src="http://dev.modifywatches.com/product_images/j/722/1351391781__44998_thumb.jpg" alt="Oski in Lime Green" /></a></div>The Oski in Lime Green comes with one Oski watch face and one Lime Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..<p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Lime Green comes with one Oski watch face and one Lime Green strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-res..]]></isc:description>
 		<isc:productid><![CDATA[832]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/j/722/1351391781__44998_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/r/384/1351391781__84146_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/j/722/1351391781__44998_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/r/384/1351391781__84146_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:37:51Z</published>
 		<updated>2012-10-27T19:37:51Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Oski-in-Grey.html" />
-		<id>http://www.modifywatches.com/products/Oski-in-Grey.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Oski-in-Grey.html" />
+		<id>http://dev.modifywatches.com/products/Oski-in-Grey.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Oski in Grey]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Oski-in-Grey.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Oski-in-Grey.html"  ><img src="http://www.modifywatches.com/product_images/u/729/1357161845__95520_thumb.jpg" alt="Oski in Grey" /></a></div>The Oski in Grey comes with one Oski watch face and one Grey strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant polyc..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Oski-in-Grey.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Oski-in-Grey.html"  ><img src="http://dev.modifywatches.com/product_images/u/729/1357161845__95520_thumb.jpg" alt="Oski in Grey" /></a></div>The Oski in Grey comes with one Oski watch face and one Grey strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant polyc..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The Oski in Grey comes with one Oski watch face and one Grey strap. the watch face is removable so that you can mix-and-match faces and straps of all styles from your modify collection. the strap is made from a soft and comfortable silicone material, the face is made from a scratch-resistant polyc..]]></isc:description>
 		<isc:productid><![CDATA[857]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/u/729/1357161845__95520_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/o/687/1357161845__39649_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/u/729/1357161845__95520_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/o/687/1357161845__39649_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 </feed>

@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="title" content="Modify Watches Design Voting">
 <meta name="description" content="I just voted for a Modify Watches design! Click here to vote." />
-<link rel="image_src" href="http://www.modifywatches.com/facebook/watchvote/images/design2.jpg" />
+<link rel="image_src" href="http://dev.modifywatches.com/facebook/watchvote/images/design2.jpg" />
 <title>One Second</title>
 </head>
 <body>
 
-	<img src="http://www.modifywatches.com/facebook/watchvote/images/design2.jpg" />
+	<img src="http://dev.modifywatches.com/facebook/watchvote/images/design2.jpg" />
 
 	<script type="text/javascript">
 		window.location = 'http://www.facebook.com/ModifyWatches?sk=app_230657263621383';

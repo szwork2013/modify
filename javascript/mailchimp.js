@@ -20,7 +20,7 @@ if (!jqueryLoaded) {
 }
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = 'https://www.modifywatches.com/javascript/mc_form.js';
+script.src = 'https://dev.modifywatches.com/javascript/mc_form.js';
 head.appendChild(script);
 var err_style = '';
 try{

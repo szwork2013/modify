@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<channel>
 		<title><![CDATA[Modify Watches: Popular Products]]></title>
-		<link>https://www.modifywatches.com</link>
+		<link>https://dev.modifywatches.com</link>
 		<description><![CDATA[A list of the popular products at Modify Watches.]]></description>
 		<pubDate>Sat, 18 Feb 2012 14:39:06 +0000</pubDate>
 		<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 		<item>
 			<title><![CDATA[Mini Domo Face]]></title>
-			<link>http://www.modifywatches.com/products/Mini-Domo-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Mini-Domo-Face.html</link>
 			<pubDate>Thu, 10 Nov 2011 02:38:04 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Mini-Domo-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Domo-Face.html"  ><img src="https://www.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg" alt="Mini Domo Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Domo-Face.html"  ><img src="https://www.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg" alt="Mini Domo Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Mini-Domo-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Domo-Face.html"  ><img src="https://dev.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg" alt="Mini Domo Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Domo-Face.html"  ><img src="https://dev.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg" alt="Mini Domo Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[86]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/k/653/81750201110__24051_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/c/641/81750201110__51125_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/k/653/81750201110__24051_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$30.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Mini Jeter Face]]></title>
-			<link>http://www.modifywatches.com/products/Mini-Jeter-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Mini-Jeter-Face.html</link>
 			<pubDate>Thu, 15 Dec 2011 14:19:05 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Mini-Jeter-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Jeter-Face.html"  ><img src="https://www.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg" alt="Mini Jeter Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Jeter-Face.html"  ><img src="https://www.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg" alt="Mini Jeter Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Mini-Jeter-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Jeter-Face.html"  ><img src="https://dev.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg" alt="Mini Jeter Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Jeter-Face.html"  ><img src="https://dev.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg" alt="Mini Jeter Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[145]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/r/422/81750201212__26412_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/p/595/81750201212__32547_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/r/422/81750201212__26412_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$30.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Mini Wilson Face]]></title>
-			<link>http://www.modifywatches.com/products/Mini-Wilson-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Mini-Wilson-Face.html</link>
 			<pubDate>Thu, 15 Dec 2011 14:19:05 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Mini-Wilson-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Wilson-Face.html"  ><img src="https://www.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg" alt="Mini Wilson Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Wilson-Face.html"  ><img src="https://www.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg" alt="Mini Wilson Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Mini-Wilson-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Wilson-Face.html"  ><img src="https://dev.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg" alt="Mini Wilson Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Wilson-Face.html"  ><img src="https://dev.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg" alt="Mini Wilson Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[147]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/r/004/81750201211__63245_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/h/580/81750201211__90745_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/r/004/81750201211__63245_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$30.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Mini Oski Face]]></title>
-			<link>http://www.modifywatches.com/products/Mini-Oski-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Mini-Oski-Face.html</link>
 			<pubDate>Tue, 03 Jan 2012 19:55:36 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Mini-Oski-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Oski-Face.html"  ><img src="https://www.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg" alt="Mini Oski Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-Oski-Face.html"  ><img src="https://www.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg" alt="Mini Oski Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Mini-Oski-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Oski-Face.html"  ><img src="https://dev.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg" alt="Mini Oski Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-Oski-Face.html"  ><img src="https://dev.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg" alt="Mini Oski Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[150]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/q/024/81750201213__75012_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/o/172/81750201213__10054_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/q/024/81750201213__75012_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$30.00]]></isc:price>
 		</item>
 		<item>
 			<title><![CDATA[Mini QR Face]]></title>
-			<link>http://www.modifywatches.com/products/Mini-QR-Face.html</link>
+			<link>http://dev.modifywatches.com/products/Mini-QR-Face.html</link>
 			<pubDate>Mon, 30 Jan 2012 18:07:22 +0000</pubDate>
-			<guid isPermaLink="false">http://www.modifywatches.com/products/Mini-QR-Face.html</guid>
-			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-QR-Face.html"  ><img src="https://www.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg" alt="Mini QR Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
-			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Mini-QR-Face.html"  ><img src="https://www.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg" alt="Mini QR Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
+			<guid isPermaLink="false">http://dev.modifywatches.com/products/Mini-QR-Face.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-QR-Face.html"  ><img src="https://dev.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg" alt="Mini QR Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Mini-QR-Face.html"  ><img src="https://dev.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg" alt="Mini QR Face" /></a></div><p>Type a description for this product here...</p><p><strong>Price: $30.00</strong> </p>]]></content:encoded>
 			<isc:description><![CDATA[<p>Type a description for this product here...</p>]]></isc:description>
 			<isc:productid><![CDATA[175]]></isc:productid>
-			<isc:thumb><![CDATA[https://www.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg]]></isc:thumb>
-			<isc:image><![CDATA[https://www.modifywatches.com/product_images/u/008/81750201214__80956_zoom.jpg]]></isc:image>
+			<isc:thumb><![CDATA[https://dev.modifywatches.com/product_images/u/270/81750201214__12746_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[https://dev.modifywatches.com/product_images/u/008/81750201214__80956_zoom.jpg]]></isc:image>
 			<isc:price><![CDATA[$30.00]]></isc:price>
 		</item>
 	</channel>

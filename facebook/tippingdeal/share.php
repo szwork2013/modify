@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="title" content="Modify Watches Tipping Deal">
 <meta name="description" content="Modify Watches is hosting a tipping deal for some explosively cool watches. Intense discounts... click here to check it out!" />
-<link rel="image_src" href="http://www.modifywatches.com/facebook/tippingdeale/images/shareimage.jpg" />
+<link rel="image_src" href="http://dev.modifywatches.com/facebook/tippingdeale/images/shareimage.jpg" />
 <title>One Second</title>
 </head>
 <body>
 
-	<img src="http://www.modifywatches.com/facebook/tippingdeale/images/shareimage.jpg" />
+	<img src="http://dev.modifywatches.com/facebook/tippingdeale/images/shareimage.jpg" />
 
 	<script type="text/javascript">
 		window.location = 'http://www.facebook.com/ModifyWatches?sk=app_238214236199634';

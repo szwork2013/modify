@@ -2,166 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: New Products - Red Birds]]></title>
 	<subtitle type="html"><![CDATA[A list of the new products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?categoryid=90&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?categoryid=90&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-05-24T17:04:57Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:38:58Z</published>
 		<updated>2013-05-20T23:38:58Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Pool Party Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/q/800/1369118338__07783_thumb.jpg" alt="Red Birds Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Pool-Party-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/q/800/1369118338__07783_thumb.jpg" alt="Red Birds Face with Pool Party Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[2032]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/q/800/1369118338__07783_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/v/448/1369118338__48971_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/q/800/1369118338__07783_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/v/448/1369118338__48971_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:34:34Z</published>
 		<updated>2013-05-20T23:34:34Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Neon Yellow Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html"  ><img src="http://www.modifywatches.com/product_images/s/467/1369118074__11525_thumb.jpg" alt="Red Birds Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Neon-Yellow-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/s/467/1369118074__11525_thumb.jpg" alt="Red Birds Face with Neon Yellow Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1991]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/s/467/1369118074__11525_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/x/609/1369118074__38120_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/s/467/1369118074__11525_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/x/609/1369118074__38120_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-05-20T23:27:08Z</published>
 		<updated>2013-05-20T23:27:08Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Cool Mist Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html"  ><img src="http://www.modifywatches.com/product_images/b/479/1369117737__70775_thumb.jpg" alt="Red Birds Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Cool-Mist-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/b/479/1369117737__70775_thumb.jpg" alt="Red Birds Face with Cool Mist Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1950]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/479/1369117737__70775_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/y/778/1369117737__00910_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/b/479/1369117737__70775_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/y/778/1369117737__00910_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:26:56Z</published>
 		<updated>2013-02-07T16:26:56Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Orchid Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/010/1368494004__72637_thumb.jpg" alt="Red Birds Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Orchid-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/010/1368494004__72637_thumb.jpg" alt="Red Birds Face with Orchid Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1799]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/010/1368494004__72637_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/i/166/1368494004__60944_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/010/1368494004__72637_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/i/166/1368494004__60944_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:26:47Z</published>
 		<updated>2013-02-07T16:26:47Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Robin's Egg Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/k/498/1368494048__95906_thumb.jpg" alt="Red Birds Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Robin%27s-Egg-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/k/498/1368494048__95906_thumb.jpg" alt="Red Birds Face with Robin's Egg Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1760]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/k/498/1368494048__95906_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/v/376/1368494048__52883_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/k/498/1368494048__95906_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/v/376/1368494048__52883_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:23:56Z</published>
 		<updated>2013-02-07T16:23:56Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Mint Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html"  ><img src="http://www.modifywatches.com/product_images/t/643/1368494119__84154_thumb.jpg" alt="Red Birds Face with Mint Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Mint-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/t/643/1368494119__84154_thumb.jpg" alt="Red Birds Face with Mint Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $42.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1721]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/t/643/1368494119__84154_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/c/086/1368494119__07509_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/t/643/1368494119__84154_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/c/086/1368494119__07509_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$42.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2013-02-07T16:21:10Z</published>
 		<updated>2013-02-07T16:21:10Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Black Glitter Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html"  ><img src="http://www.modifywatches.com/product_images/i/640/1368493901__49267_thumb.jpg" alt="Red Birds Face with Black Glitter Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Black-Glitter-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/i/640/1368493901__49267_thumb.jpg" alt="Red Birds Face with Black Glitter Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1682]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/i/640/1368493901__49267_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/p/327/1368493901__55969_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/i/640/1368493901__49267_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/p/327/1368493901__55969_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:58:51Z</published>
 		<updated>2012-10-27T19:58:51Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Abandon-All-Hope.html" />
-		<id>http://www.modifywatches.com/products/Abandon-All-Hope.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Abandon-All-Hope.html" />
+		<id>http://dev.modifywatches.com/products/Abandon-All-Hope.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Abandon All Hope]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Abandon-All-Hope.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Abandon-All-Hope.html"  ><img src="http://www.modifywatches.com/product_images/b/626/1364578081__06540_thumb.jpg" alt="Abandon All Hope" /></a></div>The 'Abandon All Hope' comes with one Birds Red watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..<p><strong>Price: $45.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Abandon-All-Hope.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Abandon-All-Hope.html"  ><img src="http://dev.modifywatches.com/product_images/b/626/1364578081__06540_thumb.jpg" alt="Abandon All Hope" /></a></div>The 'Abandon All Hope' comes with one Birds Red watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..<p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[The 'Abandon All Hope' comes with one Birds Red watch face and one Yellow strap. The watch face is removable so that you can mix-and-match faces and straps of all styles from your Modify collection. The strap is made from a soft and comfortable silicone material and the face is made from a scratch..]]></isc:description>
 		<isc:productid><![CDATA[1223]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/626/1364578081__06540_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/t/848/1364578081__54555_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/b/626/1364578081__06540_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/t/848/1364578081__54555_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:57:46Z</published>
 		<updated>2012-10-27T19:57:46Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with White Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html"  ><img src="http://www.modifywatches.com/product_images/r/276/1368599247__24329_thumb.jpg" alt="Red Birds Face with White Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-White-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/r/276/1368599247__24329_thumb.jpg" alt="Red Birds Face with White Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $45.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1198]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/r/276/1368599247__24329_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/i/208/1368599247__20819_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/r/276/1368599247__24329_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/i/208/1368599247__20819_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$45.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-10-27T19:56:44Z</published>
 		<updated>2012-10-27T19:56:44Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html" />
-		<id>http://www.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html" />
+		<id>http://dev.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[Red Birds Face with Turquoise Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html"  ><img src="http://www.modifywatches.com/product_images/x/039/1368493356__10944_thumb.jpg" alt="Red Birds Face with Turquoise Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/Red-Birds-Face-with-Turquoise-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/x/039/1368493356__10944_thumb.jpg" alt="Red Birds Face with Turquoise Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $50.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1173]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/x/039/1368493356__10944_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/665/1368493356__17483_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/x/039/1368493356__10944_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/665/1368493356__17483_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$50.00]]></isc:price>
 	</entry>
 </feed>

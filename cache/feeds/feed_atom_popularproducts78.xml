@@ -2,166 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
 	<title type="html"><![CDATA[Modify Watches: Popular Products]]></title>
 	<subtitle type="html"><![CDATA[A list of the popular products at Modify Watches.]]></subtitle>
-	<link rel="self" href="http://www.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=78&amp;type=atom" />
-	<id>http://www.modifywatches.com</id>
+	<link rel="self" href="http://dev.modifywatches.com/rss.php?action=popularproducts&amp;categoryid=78&amp;type=atom" />
+	<id>http://dev.modifywatches.com</id>
 	<updated>2013-06-26T15:34:46Z</updated>
 			<isc:store_title><![CDATA[Modify Watches]]></isc:store_title>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:25Z</published>
 		<updated>2012-11-12T21:27:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face.html"  ><img src="http://www.modifywatches.com/product_images/e/026/tetris__91472_thumb.jpg" alt="TETRIS™ Face" /></a></div><p><span>The Tetris watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $20.00</strong> </p>]]></content>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face.html"  ><img src="http://dev.modifywatches.com/product_images/e/026/tetris__91472_thumb.jpg" alt="TETRIS™ Face" /></a></div><p><span>The Tetris watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p><p><strong>Price: $20.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p><span>The Tetris watch face is removable so that you can mix-and-match the this design with any other straps from your Modify collection. The face is made from a scratch-resistant polycarbonate and stainless steel.</span></p>]]></isc:description>
 		<isc:productid><![CDATA[1370]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/e/026/tetris__91472_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/p/910/tetris__94279_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/e/026/tetris__91472_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/p/910/tetris__94279_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$20.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:25Z</published>
 		<updated>2012-11-12T21:27:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Black Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html"  ><img src="http://www.modifywatches.com/product_images/s/901/1372144961__08274_thumb.jpg" alt="TETRIS™ Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Black-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/s/901/1372144961__08274_thumb.jpg" alt="TETRIS™ Face with Black Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1371]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/s/901/1372144961__08274_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/k/140/1372144961__82547_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/s/901/1372144961__08274_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/k/140/1372144961__82547_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:25Z</published>
 		<updated>2012-11-12T21:27:25Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Sky Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/k/360/1372145323__94465_thumb.jpg" alt="TETRIS™ Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Sky-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/k/360/1372145323__94465_thumb.jpg" alt="TETRIS™ Face with Sky Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1372]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/k/360/1372145323__94465_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/j/679/1372145323__95548_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/k/360/1372145323__94465_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/j/679/1372145323__95548_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:26Z</published>
 		<updated>2012-11-12T21:27:26Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Royal Blue Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html"  ><img src="http://www.modifywatches.com/product_images/h/475/1372145207__54946_thumb.jpg" alt="TETRIS™ Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Royal-Blue-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/h/475/1372145207__54946_thumb.jpg" alt="TETRIS™ Face with Royal Blue Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1373]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/h/475/1372145207__54946_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/s/030/1372145207__92017_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/h/475/1372145207__54946_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/s/030/1372145207__92017_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:26Z</published>
 		<updated>2012-11-12T21:27:26Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Brown Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html"  ><img src="http://www.modifywatches.com/product_images/z/105/1372145986__79817_thumb.jpg" alt="TETRIS™ Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Brown-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/z/105/1372145986__79817_thumb.jpg" alt="TETRIS™ Face with Brown Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $32.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1374]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/z/105/1372145986__79817_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/f/075/1372145986__10649_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/z/105/1372145986__79817_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/f/075/1372145986__10649_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$32.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:26Z</published>
 		<updated>2012-11-12T21:27:26Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Crimson Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html"  ><img src="http://www.modifywatches.com/product_images/l/914/1370907624__35446_thumb.jpg" alt="TETRIS™ Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Crimson-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/l/914/1370907624__35446_thumb.jpg" alt="TETRIS™ Face with Crimson Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $32.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1375]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/l/914/1370907624__35446_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/z/403/1370907624__86334_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/l/914/1370907624__35446_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/z/403/1370907624__86334_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$32.50]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:27Z</published>
 		<updated>2012-11-12T21:27:27Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Glow in the Dark Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://www.modifywatches.com/product_images/d/740/1370906860__33511_thumb.jpg" alt="TETRIS™ Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Glow-in-the-Dark-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/d/740/1370906860__33511_thumb.jpg" alt="TETRIS™ Face with Glow in the Dark Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1376]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/d/740/1370906860__33511_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/m/421/1370906860__22219_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/d/740/1370906860__33511_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/m/421/1370906860__22219_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:27Z</published>
 		<updated>2012-11-12T21:27:27Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/k/512/1372145127__67070_thumb.jpg" alt="TETRIS™ Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/k/512/1372145127__67070_thumb.jpg" alt="TETRIS™ Face with Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1377]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/k/512/1372145127__67070_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/r/609/1372145127__21081_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/k/512/1372145127__67070_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/r/609/1372145127__21081_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:27Z</published>
 		<updated>2012-11-12T21:27:27Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Lime Green Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html"  ><img src="http://www.modifywatches.com/product_images/b/529/1370906860__03294_thumb.jpg" alt="TETRIS™ Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Lime-Green-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/b/529/1370906860__03294_thumb.jpg" alt="TETRIS™ Face with Lime Green Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $40.00</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1378]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/b/529/1370906860__03294_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/p/671/1370906860__65444_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/b/529/1370906860__03294_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/p/671/1370906860__65444_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$40.00]]></isc:price>
 	</entry>
 	<entry xmlns="http://www.w3.org/2005/Atom">
 		<published>2012-11-12T21:27:27Z</published>
 		<updated>2012-11-12T21:27:27Z</updated>
-		<link rel="alternate" type="text/html" href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html" />
-		<id>http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html</id>
+		<link rel="alternate" type="text/html" href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html" />
+		<id>http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html</id>
 		<title type="html" xml:space="preserve"><![CDATA[TETRIS™ Face with Medium Grey Strap]]></title>
-		<content type="html" xml:space="preserve" xml:base="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://www.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html"  ><img src="http://www.modifywatches.com/product_images/y/379/1372146035__62456_thumb.jpg" alt="TETRIS™ Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
+		<content type="html" xml:space="preserve" xml:base="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://dev.modifywatches.com/products/TETRIS%E2%84%A2-Face-with-Medium-Grey-Strap.html"  ><img src="http://dev.modifywatches.com/product_images/y/379/1372146035__62456_thumb.jpg" alt="TETRIS™ Face with Medium Grey Strap" /></a></div><p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 <p><strong>Price: $32.50</strong> </p>]]></content>
 		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
 		<isc:description><![CDATA[<p>This is a super sweet mod which contains a %%GLOBAL_FaceName%% nested beautifully in a %%GLOBAL_StrapName%%</p>
 ]]></isc:description>
 		<isc:productid><![CDATA[1379]]></isc:productid>
-		<isc:thumb><![CDATA[http://www.modifywatches.com/product_images/y/379/1372146035__62456_thumb.jpg]]></isc:thumb>
-		<isc:image><![CDATA[http://www.modifywatches.com/product_images/n/858/1372146035__25602_zoom.jpg]]></isc:image>
+		<isc:thumb><![CDATA[http://dev.modifywatches.com/product_images/y/379/1372146035__62456_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://dev.modifywatches.com/product_images/n/858/1372146035__25602_zoom.jpg]]></isc:image>
 		<isc:price><![CDATA[$32.50]]></isc:price>
 	</entry>
 </feed>
