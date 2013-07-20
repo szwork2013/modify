@@ -1,0 +1,66 @@
+<!-- HTML5 Carousel -->
+	
+	<div class="main center">
+		<header class="heavyHeader">Best Sellers</header>
+		<div id="myCarousel" class="carousel">
+			<!--<div id="sboxCats">
+				<div style="display:none;">
+					%%Panel.CategoryHeading%%
+					%%Panel.CategoryPagingTop%%
+					%%Panel.CategoryContent%%
+					%%Panel.CategoryPagingBottom%%
+				</div>
+			</div>-->
+			<div class="carousel-inner">
+				<div class="item active">
+					<div class="threecol">Item1</div>
+					<div class="threecol">Item2</div>
+					<div class="threecol">Item3</div>
+					<div class="threecol">Item4</div>
+				</div>
+				<div class="item">
+					<div class="threecol">Item5</div>
+					<div class="threecol">Item6</div>
+					<div class="threecol">Item7</div>
+					<div class="threecol">Item8</div>
+				</div>
+			</div>
+
+			<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  			<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+		</div>
+	</div>
+
+	<span>
+		<script type="text/template" id="product-template">
+			<%= image %>
+			<div>
+				<% if (type == "3" || type == "4") { %>
+					<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;">Buy Now</a>
+				<% } else { %>
+					<a class="nBut visualize" href="#">Add to Visualizer</a>
+				<% } %>
+				<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>
+			</div>
+			<a href="<%= link %>" class="">
+				<figcaption>
+					<%= name %><br>
+					<span><%= price %></span><br>
+				</figcaption>
+			</a>
+
+			<div class="ProductCompareButton" style="display:none">
+				<input type="checkbox" class="CheckBox" name="compare_product_ids" id="compare_<%= id %>" value="<%= id %>" onclick="product_comparison_box_changed(this.checked)"> <label for="compare_<%= id %>">Compare</label> <br>
+			</div>
+
+			<div class="ProductActionAdd" style="display:none;">
+				<a href="<%= link %>">Choose Options</a>
+			</div>
+		</script>
+
+		<script type="text/template" id="sandboxpreview-template">
+			<figure class="product">
+				<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
+			</figure>
+		</script>
+	</span>
