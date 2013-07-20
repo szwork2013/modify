@@ -197,7 +197,6 @@ class ISC_SANDBOX
 			$this->ClearSandbox();
 			error_log("About to redirect");
 			die(json_encode(array('error' => false, 'products' => json_decode($this->GetJSON()), 'justAdded' => $product)));
-			error_log(" SON OF A !@$$@#%");
 		} else {
 			die("404");
 		}

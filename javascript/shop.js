@@ -49,8 +49,6 @@ $(function () {
 			return this;
 		}
 	});
-
-
 	
 	var ProductModel = Backbone.Model.extend({
 		defaults: function() {
@@ -103,7 +101,6 @@ $(function () {
 			return false;
 		},
 
-
 		buyNow: function() {
 			console.log("btn buyNow");
 			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
@@ -124,7 +121,6 @@ $(function () {
 			});
 			return false;
 		},
-		
 
 		// jQuery visualization to add to Cart
 
@@ -406,7 +402,7 @@ $(function () {
 		el: $("#CategoryBreadcrumb"),
 		
 		initialize: function(opts) {
-			this.$el.append('<ul><li><a href="http://dev.modifywatches.com/">Home</a></li></ul>');
+			this.$el.append('<ul><li><a href="http://www.modifywatches.com/">Home</a></li></ul>');
 			this.$el = this.$el.children("ul").last();
 			
 			this.Breadcrumbs = new BreadcrumbCollection();
