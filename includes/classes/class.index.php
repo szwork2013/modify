@@ -38,6 +38,10 @@
 					$title = GetConfig('StoreName');
 				}
 				
+				$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/carousel.js';
+				$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/bootstrap-carousel.js';
+
+
 				$GLOBALS['CenterIt'] = "center";
 				$GLOBALS['ISC_CLASS_TEMPLATE']->SetPageTitle($title);
 				$GLOBALS['ISC_CLASS_TEMPLATE']->SetTemplate("default");
