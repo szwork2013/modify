@@ -5,8 +5,6 @@ $(function () {
 	// Prepare
     var History = window.History;
 
-    console.log("whhhhhhy?");
-
     // Bind to StateChange Event
     History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
         var State = History.getState(); // Note: We are using History.getState() instead of event.state
@@ -170,7 +168,6 @@ $(function () {
 	
 	var CategoryView = Backbone.View.extend({
 		initialize: function(opts) {
-			console.log("derp");
 
 			this.model = new CategoryModel(opts.model);
 			var header = new ProductHeaderView(this.model.toJSON());
@@ -180,8 +177,6 @@ $(function () {
 			this.Products.bind('add', this.addOne, this);
 			this.Products.bind('all', this.render, this);
 			_.bindAll(this, 'scrolling', 'appender');
-			_.bindAll(this, 'update', 'appender');
-
 
 			that = this;
 			_.each(this.model.get('products'), function(product) {
@@ -192,7 +187,6 @@ $(function () {
 			this.scrolling();
 
 			this.udpate();
-			console.log("update this sucka");
 						
 			this.$el.append('<br class="Clear" />');
 		},
@@ -257,34 +251,6 @@ $(function () {
 					$("#sboxPreview").addClass('fxTop').css({ left: (origVisOffset.left) + "px", right: 'auto', width: origVisWidth + "px" });
 				} else {
 					$("#sboxPreview").removeClass('fxTop').css({ left: 'auto', right: 0 });
-				}
-			});
-		},
-
-		update: function() {
-			this.keepLoading = true;
-			var that = this;
-		
-			that.loading = true;
-			$.ajax({
-				url: config.ShopPath + "/remote.php",
-				data: {
-					w: 'getShopPage',
-					page: 2,
-					type: false,
-					size: false,
-					color: false,
-					category: ''
-				},
-				success: function(data) {
-					console.log(JSON.stringify(data));
-					that.model.set('page', page);
-					data = $.parseJSON(data);
-					that.appender(data);
-					that.loading = false;
-				},
-				error: function(data) {
-					console.log("Well this is embarrassing . We\'re not sure what happened... <br />We suggest refreshing the page :)");
 				}
 			});
 		},
