@@ -185,8 +185,6 @@ $(function () {
 			});
 						
 			this.scrolling();
-
-			this.udpate();
 						
 			this.$el.append('<br class="Clear" />');
 		},
