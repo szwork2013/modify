@@ -40,7 +40,7 @@
 				
 				$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/carousel.js';
 				//$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/shop.js';
-				//$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/history.js';
+				$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/history.js';
 				$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/bootstrap-carousel.js';
 
 
