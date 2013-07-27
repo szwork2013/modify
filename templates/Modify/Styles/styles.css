@@ -4483,8 +4483,9 @@ p.AddCartButton {
 
 .carousel-inner {
   position: relative;
-  width: 100%;
+  width: 850px;
   overflow: hidden;
+  margin: auto;
 }
 
 .carousel-inner > .item {
