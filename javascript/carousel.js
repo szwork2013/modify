@@ -92,9 +92,7 @@ $(function () {
 		tagName: 'figure',
 		
 		className: 'product',
-		
-		template:_.template($('#product-template').html()),
-		
+				
 		events: {
 			'click img': "addToSandbox",
 			'click .visualize': "addToSandbox",
@@ -1197,6 +1195,8 @@ $(function () {
 		}
 	});
 	
+	// Size Chooser 
+
 	var sandboxSizeChooser = Backbone.View.extend({
 		id: 'SboxSizeChoose',
 		
