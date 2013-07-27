@@ -201,16 +201,16 @@ $(function () {
 		scrolling: function() {
 			this.keepLoading = true;
 			var that = this;
-			var origSideOffset = $("#sboxSide").offset().top;
-			var origVisOffset = $("#sboxPreview").offset();
-			var origVisWidth = $("#sboxPreview").width();
+			// var origSideOffset = $("#sboxSide").offset().top;
+			// var origVisOffset = $("#sboxPreview").offset();
+			// var origVisWidth = $("#sboxPreview").width();
 		
-			$(window).scroll(function() {
-				// Infinite scroll
-				if(($("#sboxMain").height() + $("#sboxMain").offset().top) - ($(window).scrollTop() + $(window).height()) < 80 && !that.loading && that.model.get('products').length > 15 && !window.sandbox.model.get('open')) {
-					page = parseInt(that.model.get('page'), 10) + 1;
+			// $(window).scroll(function() {
+			// 	// Infinite scroll
+			// 	if(($("#sboxMain").height() + $("#sboxMain").offset().top) - ($(window).scrollTop() + $(window).height()) < 80 && !that.loading && that.model.get('products').length > 15 && !window.sandbox.model.get('open')) {
+			// 		page = parseInt(that.model.get('page'), 10) + 1;
 					
-					that.loading = true;
+			// 		that.loading = true;
 					$.ajax({
 						url: config.ShopPath + "/remote.php",
 						data: {
@@ -233,23 +233,23 @@ $(function () {
 							});
 						}
 					});
-				}
+				// }
 				
 				// Lock Filters
-				if($(window).scrollTop() >= (origSideOffset - 50)) {
-					$("#sboxSide").addClass('fxTop');
-				} else {
-					$("#sboxSide").removeClass('fxTop');
-				}
+				// if($(window).scrollTop() >= (origSideOffset - 50)) {
+				// 	$("#sboxSide").addClass('fxTop');
+				// } else {
+				// 	$("#sboxSide").removeClass('fxTop');
+				// }
 				
-				if(origVisOffset.left < 0 && !$("#sboxPreview").hasClass('fxTop')) {
-					origVisOffset = $("#sboxPreview").offset();
-				}
-				if($(window).scrollTop() >= (origVisOffset.top - 50)) {
-					$("#sboxPreview").addClass('fxTop').css({ left: (origVisOffset.left) + "px", right: 'auto', width: origVisWidth + "px" });
-				} else {
-					$("#sboxPreview").removeClass('fxTop').css({ left: 'auto', right: 0 });
-				}
+				// if(origVisOffset.left < 0 && !$("#sboxPreview").hasClass('fxTop')) {
+				// 	origVisOffset = $("#sboxPreview").offset();
+				// }
+				// if($(window).scrollTop() >= (origVisOffset.top - 50)) {
+				// 	$("#sboxPreview").addClass('fxTop').css({ left: (origVisOffset.left) + "px", right: 'auto', width: origVisWidth + "px" });
+				// } else {
+				// 	$("#sboxPreview").removeClass('fxTop').css({ left: 'auto', right: 0 });
+				// }
 			});
 		},
 		
