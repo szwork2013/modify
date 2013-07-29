@@ -181,9 +181,6 @@ class ISC_SANDBOX
 	}
 
 	private function RemoteAddOne() {
-		ini_set("log_errors", 1);
-		ini_set("error_log", "/tmp/php-errors.log");
-		error_log("entered Remote add");
 		$product = $this->AddToSandbox();
 		if(!$product) {
 			die("404");
@@ -195,8 +192,7 @@ class ISC_SANDBOX
 		$vid = $product['variation'];
 		if ($GLOBALS['ISC_CLASS_CART']->RemoteAddProductToCart($id, $quantity, $vid)) {
 			$this->ClearSandbox();
-			error_log("About to redirect");
-			die(json_encode(array('error' => false, 'products' => json_decode($this->GetJSON()), 'justAdded' => $product)));
+			die(json_encode(array('error' => 'false', 'products' => json_decode($this->GetJSON()), 'justAdded' => $product)));
 		} else {
 			die("404");
 		}
@@ -386,7 +382,6 @@ class ISC_SANDBOX
 				'associations' => $item->getAssociations(),
 				'size' => $item->getVariationOptions()
 			);
-			
 			$associations = $item->getAssociations();
 			
 			if($item->getType() == "1") {
@@ -427,7 +422,7 @@ class ISC_SANDBOX
 					'size' => $product['size']['Size'],
 					'strapid' => $product['id'],
 					'link' => prodLink($product['name']),
-					'quicklink' => prodLink($product['name']). '?quickView=true'
+					'quicklink' => prodLink($product['name'])
 				);
 			}
 		}
@@ -458,7 +453,7 @@ class ISC_SANDBOX
 			$row['strapid'] = $strap[0];
 			$row['size'] = $face[1]['Size'];
 			$row['link'] = prodLink($row['prodname']);
-			$row['quicklink'] = prodLink($row['prodname']) . '?quickView=true';
+			$row['quicklink'] = prodLink($row['prodname']) ;
 			return $row;
 		}
 	}
