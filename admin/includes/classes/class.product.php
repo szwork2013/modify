@@ -2354,7 +2354,7 @@
 					
 					// Update Base variables all nice and good like
 					$modData['arrData']['prodhash'] = md5(time().uniqid(rand(), true));
-					$modData['arrData']['prodname'] = $faceData['prodname'] . " with " . $strapData['prodname'];
+					if (!$update) $modData['arrData']['prodname'] = $faceData['prodname'] . " with " . $strapData['prodname'];
 					$modData['arrData']['prodcats'] = array_merge($faceData['prodcats'], $strapData['prodcats']);
 					
 					$GLOBALS['FaceName'] = $faceData['prodname'];

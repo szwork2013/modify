@@ -185,6 +185,8 @@ $(function () {
 			});
 						
 			this.scrolling();
+
+			//this.update();
 						
 			this.$el.append('<br class="Clear" />');
 		},
@@ -211,6 +213,7 @@ $(function () {
 					page = parseInt(that.model.get('page'), 10) + 1;
 					
 					that.loading = true;
+					console.log(shopApp.model.get('catid'));
 					$.ajax({
 						url: config.ShopPath + "/remote.php",
 						data: {
@@ -224,6 +227,7 @@ $(function () {
 						success: function(data) {
 							that.model.set('page', page);
 							data = $.parseJSON(data);
+							console.log(data);
 							that.appender(data);
 							that.loading = false;
 						},

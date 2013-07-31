@@ -203,8 +203,6 @@ $(function () {
 				carouselIter ++;
 			});
 						
-			
-						
 			this.$el.append('<br class="Clear" />');
 		},
 		

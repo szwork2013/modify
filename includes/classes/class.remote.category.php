@@ -30,8 +30,6 @@
 			$GLOBALS['DisplayVisualizer'] = ((isset($_GET['a']) && $_GET['a'] == "browse") ? 'display:none;' : '');
 			
 			$GLOBALS['ProductTitleText'] = ((isset($_GET['a']) && $_GET['a'] == "browse") ? 'Products' : 'Choose Faces & Straps');
-			
-						
 			return json_encode($GLOBALS['CategoryDump']);
 		}
 		
@@ -64,7 +62,6 @@
 			foreach($products as $row) {
 				$variations = array();
 				$this->setProductGlobals($row);
-				
 				$query = "SELECT combinationid, vcoptionids, vcvariationid, vcstock 
 						  FROM [|PREFIX|]product_variation_combinations
 						  WHERE vcproductid = '" . $row['productid'] . "'";
@@ -76,7 +73,7 @@
 				$temp = array();
 				
 				$temp = array(
-					'link'   => $GLOBALS['ProductLink'] . '?quickView=true',
+					'link'   => $GLOBALS['ProductLink'] ,
 					'image'  => $GLOBALS['ProductThumb'],
 					'name'   => $GLOBALS['ProductName'],
 					'id'     => $GLOBALS['ProductId'],
