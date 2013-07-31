@@ -192,7 +192,7 @@ $(function () {
 		addOne: function(product) {
 			var view = new ProductView({model: product});
 			if(this.loading) {
-				$("#sboxCats > div").last().append(view.render().el);
+				$("#myCarousel > div").last().append(view.render().el);
 			} else {
 				this.$el.append(view.render().el);
 			}	
@@ -215,19 +215,22 @@ $(function () {
 						url: config.ShopPath + "/remote.php",
 						data: {
 							w: 'getShopPage',
-							page: page,
-							type: shopApp.model.get('typeid'),
-							size: shopApp.model.get('sizeid'),
-							color: shopApp.model.get('colid'),
-							category: (shopApp.model.get('catid') == false ? '' : shopApp.model.get('catid'))
+							page: 1,
+							type: false,
+							size: false,
+							color: undefined,
+							category: 'Best%252dSellers'
 						},
 						success: function(data) {
-							that.model.set('page', page);
+							that.model.set('page', 2);
 							data = $.parseJSON(data);
+							console.log("Success!");
+							console.log(data);
 							that.appender(data);
 							that.loading = false;
 						},
 						error: function(data) {
+							console.log(data['category']);
 							new genericModal({
 								message: 'Well this is embarrassing . We\'re not sure what happened... <br />We suggest refreshing the page :)'
 							});
@@ -250,7 +253,7 @@ $(function () {
 				// } else {
 				// 	$("#sboxPreview").removeClass('fxTop').css({ left: 'auto', right: 0 });
 				// }
-			});
+			// });
 		},
 		
 		appender: function(products) {
