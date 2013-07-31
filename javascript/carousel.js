@@ -176,22 +176,42 @@ $(function () {
 			this.Products = new ProductCollection();
 			this.Products.bind('add', this.addOne, this);
 			this.Products.bind('all', this.render, this);
-			_.bindAll(this, 'scrolling', 'appender');
+			_.bindAll(this, 'getWatches', 'appender');
 
 			that = this;
-			_.each(this.model.get('products'), function(product) {
+
+			carouselIter = 0;
+			end = false;
+
+			console.log(this.model.get('products'));
+
+			var products = this.getWatches();
+
+			console.log(products);
+
+			_.each(products, function(product) {
+				if (carouselIter % 4 == 0) {
+					if(carouselIter > 0) {
+						end = true;
+					} else {
+						end = false;
+					}
+					that.split(end);
+				}
 				product.order = that.Products.nextOrder();
 				that.Products.add(product);
+				carouselIter ++;
 			});
 						
-			this.scrolling();
+			
 						
 			this.$el.append('<br class="Clear" />');
 		},
 		
 		addOne: function(product) {
 			var view = new ProductView({model: product});
-			$("#carousel-inner > div").last().append(view.render().el);
+			console.log(view.render().el);
+			$("#carousel-inner").append(view.render().el);
 			//if(this.loading) {
 			//	$("#carousel-inner > div").last().append(view.render().el);
 			//} else {
@@ -199,7 +219,7 @@ $(function () {
 			//}	
 		},
 		
-		scrolling: function() {
+		getWatches: function() {
 			this.keepLoading = true;
 			var that = this;
 			// var origSideOffset = $("#sboxSide").offset().top;
@@ -229,6 +249,7 @@ $(function () {
 							console.log(data);
 							that.appender(data);
 							that.loading = false;
+							return data;
 						},
 						error: function(data) {
 							console.log(data['category']);
@@ -260,18 +281,24 @@ $(function () {
 		split: function(end) {
 			if (end){
 				ending = "</div>";
-				$("#carousel-inner > div").last().append(ending);
+				$("#carousel-inner").append(ending);
+				console.log(ending);
+				el = "<div class='item'>";
+				$("#carousel-inner").append(el);
+				console.log(el);
+			} else {
+				el = "<div class='item active'>";
+				$("#carousel-inner").append(el);
+				console.log(el);
 			}
-			el = "<div class='item'>";
-			$("#carousel-inner > div").last().append(el);
 		},
 		
 		appender: function(products) {
+			console.log("I'm appending a sentry");
 			that = this;
 			carouselIter = 0;
 			end = false;
 			_.each(products, function(product) {
-				carouselIter ++;
 				if (carouselIter % 4 == 0) {
 					if(carouselIter > 0) {
 						end = true;
@@ -280,6 +307,7 @@ $(function () {
 					}
 					that.split(end);
 				}
+				carouselIter ++;
 				that.Products.add(product);
 			});
 		}
