@@ -191,11 +191,12 @@ $(function () {
 		
 		addOne: function(product) {
 			var view = new ProductView({model: product});
-			if(this.loading) {
-				$("#myCarousel > div").last().append(view.render().el);
-			} else {
-				this.$el.append(view.render().el);
-			}	
+			$("#carousel-inner > div").last().append(view.render().el);
+			//if(this.loading) {
+			//	$("#carousel-inner > div").last().append(view.render().el);
+			//} else {
+			//	this.$el.append(view.render().el);
+			//}	
 		},
 		
 		scrolling: function() {
@@ -255,10 +256,30 @@ $(function () {
 				// }
 			// });
 		},
+
+		split: function(end) {
+			if (end){
+				ending = "</div>";
+				$("#carousel-inner > div").last().append(ending);
+			}
+			el = "<div class='item'>";
+			$("#carousel-inner > div").last().append(el);
+		},
 		
 		appender: function(products) {
 			that = this;
+			carouselIter = 0;
+			end = false;
 			_.each(products, function(product) {
+				carouselIter ++;
+				if (carouselIter % 4 == 0) {
+					if(carouselIter > 0) {
+						end = true;
+					} else {
+						end = false;
+					}
+					that.split(end);
+				}
 				that.Products.add(product);
 			});
 		}
