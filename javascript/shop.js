@@ -74,7 +74,8 @@ $(function () {
 		events: {
 			'click img': "addToSandbox",
 			'click .visualize': "addToSandbox",
-			'click .buyNow' : "buyNow"
+			'click .buyNow' : "buyNow",
+			'click .prodQuickView' : "initQuickView"
 		},
 		
 		render: function() {
@@ -153,6 +154,51 @@ $(function () {
 		  }
 		  return this.last().get('order') + 1;
 		}
+	});
+
+	var ProductQuickView = Backbone.View.extend({
+
+		model: ProductModel,
+
+		className: 'product',
+
+		template:_.template($('#product-template').html()),
+
+		events: {
+			'click .close': "close",
+			'click .visualize': "addToSandbox",
+			'click .buyNow' : "buyNow",
+		},
+
+		// render the quickview to document with the current model
+		initialize: function(product) {
+			$('quicky').append(this.template(this.model.toJSON());
+		}, 
+
+		// remove the quickview from the document
+		close: function() {
+
+		},
+
+
+		// Wasn't quite sure whether this could be inherited
+		// from the product class, might have to remake it again
+		buyNow: function() {
+
+		},
+
+
+		// Wasn't quite sure whether this could be inherited
+		// from the product class, might have to remake it again
+		addToSandbox: function() {
+
+		}
+
+
+
+
+
+
 	});
 
 
