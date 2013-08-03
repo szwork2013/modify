@@ -143,6 +143,7 @@ $(function () {
 
 		initQuickView: function(){
 			prodQuickView = new ProductQuickView()
+			prodQuickView.render(this.model.toJSON());
 		}
 	});
 	
@@ -164,7 +165,7 @@ $(function () {
 
 		model: ProductModel,
 
-		className: 'prodQuickView',
+		className: 'prodQuickViewModal',
 
 		template:_.template($('#product-template').html()),
 
@@ -175,8 +176,11 @@ $(function () {
 		},
 
 		// render the quickview to document with the current model
-		initialize: function() {
-			$('quicky').append(this.template(this.model));
+		render: function(product) {
+			$(".ggrad").append(this.template(product));
+			console.log(product);
+			console.log(this.template(product));
+			$('.prodQuickView').fancybox();
 		}, 
 
 		// remove the quickview from the document
