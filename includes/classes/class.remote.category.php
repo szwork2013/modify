@@ -79,6 +79,8 @@
 					'id'     => $GLOBALS['ProductId'],
 					'price'  => $GLOBALS['ProductPrice'],
 					'type'	 => $GLOBALS['ProductPhysType'],
+					'desc'   => $GLOBALS['ProductDesc'],
+					'made_by'=> $GLOBALS['ProductMadeBy']
 					'rating' => (!isset($productrating) ? $GLOBALS['ProductRating'] : null),
 					'variations' => $variations
 				);

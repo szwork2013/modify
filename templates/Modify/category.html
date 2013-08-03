@@ -172,8 +172,7 @@
 			<div id="rightContent">
 				<div id="name" class="block">
 					<div>
-							<h1><%= name %></h1>
-						<p class="funny"><%= funny_name%></p>
+						<h1><%= name %></h1>
 						<span class="named">Named By <%= named_by %></span>
 						<span class="price">
 							<%= price %>
@@ -182,7 +181,12 @@
 					<div style="clear:both;"></div>
 				</div>
 				<%= desc %>
-				<div class="block">					
+				<div class="block">
+				<% if (type == "3" || type == "4") { %>
+					<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;">Buy Now</a>
+				<% } else { %>
+					<a class="nBut visualize" href="#">Add to Visualizer</a>
+				<% } %>			
 					<input type="submit" class="ctaBut buyNow" value="Add to Cart" alt="" />
 					<div style="clear:both;"></div>
 				</div>

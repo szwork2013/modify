@@ -48,12 +48,14 @@ class PRODUCTS_PANEL extends PANEL
 			$GLOBALS['ProductCartQuantity'] = (int)$GLOBALS['CartQuantity'.$row['productid']];
 		}
 
-		$GLOBALS['ProductId'] = (int)$row['productid'];
-		$GLOBALS['ProductName'] = isc_html_escape($row['prodname']);
-		$GLOBALS['ProductLink'] = ProdLink($row['prodname']);
-		$GLOBALS['ProductRating'] = (int)$row['prodavgrating'];
+		$GLOBALS['ProductId']       = (int)$row['productid'];
+		$GLOBALS['ProductName']     = isc_html_escape($row['prodname']);
+		$GLOBALS['ProductLink']     = ProdLink($row['prodname']);
+		$GLOBALS['ProductRating']   = (int)$row['prodavgrating'];
 		$GLOBALS['ProductPhysType'] = (int)$row['prodphystype'];
-		$GLOBALS['ProductColors'] = (int)$row['prodcolorids'];
+		$GLOBALS['ProductColors']   = (int)$row['prodcolorids'];
+		$GLOBALS['ProductDesc']     = strip_tags($row['proddesc']);
+		$GLOBALS['ProductMadeBy']   = $row['prodquoteauthor'];
 
 		// Determine the price of this product
 		$GLOBALS['ProductPrice'] = '';
