@@ -139,6 +139,10 @@ $(function () {
 		
 		pulseIt: function() {
 			$('#sboxPreview').fadeOut(300, function() { $('#sboxPreview').fadeIn(); });
+		},
+
+		initQuickView: function(){
+			prodQuickView = new ProductQuickView()
 		}
 	});
 	
@@ -160,7 +164,7 @@ $(function () {
 
 		model: ProductModel,
 
-		className: 'product',
+		className: 'prodQuickView',
 
 		template:_.template($('#product-template').html()),
 
@@ -171,8 +175,8 @@ $(function () {
 		},
 
 		// render the quickview to document with the current model
-		initialize: function(product) {
-			$('quicky').append(this.template(this.model.toJSON());
+		initialize: function() {
+			$('quicky').append(this.template(this.model));
 		}, 
 
 		// remove the quickview from the document
@@ -193,11 +197,6 @@ $(function () {
 		addToSandbox: function() {
 
 		}
-
-
-
-
-
 
 	});
 
