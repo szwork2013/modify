@@ -138,7 +138,8 @@
 			<% } else { %>
 				<a class="nBut visualize" href="#">Add to Visualizer</a>
 			<% } %>
-			<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>
+			<!--<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>-->
+			<a class="nBut prodQuickView" href="#">View Product Info</a>
 		</div>
 		<a href="<%= link %>" class="">
 			<figcaption>
@@ -162,39 +163,38 @@
 		</figure>
 	</script>
 
-<script type="text/template" id="product-quickview-template">
-	<div id="FastProductDetails">
-		<div class="BlockContent">
+	<script type="text/template" id="product-quickview-template">
+		<div id="FastProductDetails">
+			<div class="BlockContent">
 
-			<div id="leftContent">
-					<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
-			</div>
-			<div id="rightContent">
-				<div id="name" class="block">
-					<div>
-						<h1><%= name %></h1>
-						<span class="named">Named By <%= named_by %></span>
-						<span class="price">
-							<%= price %>
-						</span>
+				<div id="leftContent">
+						<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
+				</div>
+				<div id="rightContent">
+					<div id="name" class="block">
+						<div>
+							<h1><%= name %></h1>
+							<span class="named">Named By <%= made_by %></span>
+							<span class="price">
+								<%= price %>
+							</span>
+						</div>
+						<div style="clear:both;"></div>
 					</div>
-					<div style="clear:both;"></div>
+					<%= desc %>
+					<div class="block">
+					<% if (type == "3" || type == "4") { %>
+						<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;">Buy Now</a>
+					<% } else { %>
+						<a class="nBut visualize" href="#">Add to Visualizer</a>
+					<% } %>
+						<div style="clear:both;"></div>
+					</div>
 				</div>
-				<%= desc %>
-				<div class="block">
-				<% if (type == "3" || type == "4") { %>
-					<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;">Buy Now</a>
-				<% } else { %>
-					<a class="nBut visualize" href="#">Add to Visualizer</a>
-				<% } %>			
-					<input type="submit" class="ctaBut buyNow" value="Add to Cart" alt="" />
-					<div style="clear:both;"></div>
-				</div>
+				<br class="Clear" />
 			</div>
-			<br class="Clear" />
 		</div>
-	</div>
-</script>
+	</script>
 
 </span>
 

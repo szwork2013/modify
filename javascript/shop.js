@@ -57,8 +57,8 @@ $(function () {
 				image: '',
 				name: '',
 				price: '',
-				funny_name: '',
-				named_by: '',
+				desc: '',
+				made_by: '',
 				rating: 0
 			};
 		}
@@ -154,6 +154,7 @@ $(function () {
 		  return this.last().get('order') + 1;
 		}
 	});
+
 
 
 	// ****** CATEGORY ******* //
