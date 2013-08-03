@@ -75,7 +75,7 @@ $(function () {
 			'click img': "addToSandbox",
 			'click .visualize': "addToSandbox",
 			'click .buyNow' : "buyNow",
-			'click .prodQuickView' : "initQuickView"
+			'click .viewProdInfo' : "initQuickView"
 		},
 		
 		render: function() {
@@ -167,7 +167,7 @@ $(function () {
 
 		className: 'prodQuickViewModal',
 
-		template:_.template($('#product-template').html()),
+		template:_.template($('#product-quickview-template').html()),
 
 		events: {
 			'click .close': "close",
@@ -177,10 +177,12 @@ $(function () {
 
 		// render the quickview to document with the current model
 		render: function(product) {
-			$(".ggrad").append(this.template(product));
+			
 			console.log(product);
 			console.log(this.template(product));
-			$('.prodQuickView').fancybox();
+
+			$(".quicky").html(this.template(product));
+
 		}, 
 
 		// remove the quickview from the document

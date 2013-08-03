@@ -25,6 +25,7 @@
 			});
 		});
 	</script>
+	<div class="quicky"></div>
 	<div id="container" class="nopad">
 		%%Panel.ShopNavigation%%
 	</div>
@@ -139,7 +140,7 @@
 				<a class="nBut visualize" href="#">Add to Visualizer</a>
 			<% } %>
 			<!--<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>-->
-			<a class="nBut prodQuickView" href="#">View Product Info</a>
+			<a class="nBut viewProdInfo" href="#FastProductDetails">View Product Info</a>
 		</div>
 		<a href="<%= link %>" class="">
 			<figcaption>
@@ -168,7 +169,7 @@
 			<div class="BlockContent">
 
 				<div id="leftContent">
-						<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
+						<%= image %>
 				</div>
 				<div id="rightContent">
 					<div id="name" class="block">
