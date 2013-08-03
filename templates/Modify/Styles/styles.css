@@ -4474,6 +4474,13 @@ p.AddCartButton {
 
 
 /* Carousel */
+#carouselMain {
+  width: 850px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+}
+
 
 .carousel {
   position: relative;
@@ -4486,10 +4493,12 @@ p.AddCartButton {
   width: 850px;
   overflow: hidden;
   margin: auto;
+  margin-left: 70px;
 }
 
 .carousel-inner > .item {
   position: relative;
+
   display: none;
   -webkit-transition: 0.6s ease-in-out left;
      -moz-transition: 0.6s ease-in-out left;

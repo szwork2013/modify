@@ -57,6 +57,8 @@ $(function () {
 				image: '',
 				name: '',
 				price: '',
+				funny_name: '',
+				named_by: '',
 				rating: 0
 			};
 		}

@@ -82,18 +82,18 @@ $(function () {
 		
 		addToSandbox: function() {
 			console.log("btn addToSandbox");
-			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
-				var that = this;
-				$.each(this.model.get('variations'), function(index, value) {
-					if(value.vcoptionids == shopApp.model.get('sizeid')) {
-						that.model.set('active_variation', value.combinationid);
-					}
-				});
-			} else {
-				this.model.unset('active_variation');
-			}
+			// if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+			// 	var that = this;
+			// 	$.each(this.model.get('variations'), function(index, value) {
+			// 		if(value.vcoptionids == shopApp.model.get('sizeid')) {
+			// 			that.model.set('active_variation', value.combinationid);
+			// 		}
+			// 	});
+			// } else {
+			// 	this.model.unset('active_variation');
+			// }
 			window.sandbox.add({
-				product: this.model.toJSON(),
+				product: this.model,
 				context: this, 
 				callback: 'jumpToSandbox',
 				showSuccess: true
@@ -103,18 +103,18 @@ $(function () {
 
 		buyNow: function() {
 			console.log("btn buyNow");
-			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
-				var that = this;
-				$.each(this.model.get('variations'), function(index, value) {
-					if(value.vcoptionids == shopApp.model.get('sizeid')) {
-						that.model.set('active_variation', value.combinationid);
-					}
-				});
-			} else {
-				this.model.unset('active_variation');
-			}
+			// if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+			// 	var that = this;
+			// 	$.each(this.model.get('variations'), function(index, value) {
+			// 		if(value.vcoptionids == shopApp.model.get('sizeid')) {
+			// 			that.model.set('active_variation', value.combinationid);
+			// 		}
+			// 	});
+			// } else {
+			// 	this.model.unset('active_variation');
+			// }
 			window.sandbox.buyNow({
-				product: this.model.toJSON(),
+				product: this.model,
 				context: this, 
 				callback: 'redirectToCart',
 				showSuccess: true
@@ -226,7 +226,7 @@ $(function () {
 		
 			// $(window).scroll(function() {
 			// 	// Infinite scroll
-			// 	if(($("#sboxMain").height() + $("#sboxMain").offset().top) - ($(window).scrollTop() + $(window).height()) < 80 && !that.loading && that.model.get('products').length > 15 && !window.sandbox.model.get('open')) {
+			// 	if(($("#carouselMain").height() + $("#carouselMain").offset().top) - ($(window).scrollTop() + $(window).height()) < 80 && !that.loading && that.model.get('products').length > 15 && !window.sandbox.model.get('open')) {
 			// 		page = parseInt(that.model.get('page'), 10) + 1;
 					
 			// 		that.loading = true;
@@ -484,7 +484,7 @@ $(function () {
 	});
 	
 	var ProductsView = Backbone.View.extend({
-		el: $("#sboxMain"),
+		el: $("#carouselMain"),
 		
 		initialize: function(opts) {
 			this.breadcrumbs = new BreadcrumbsView(opts.breadcrumbs);
@@ -1563,7 +1563,7 @@ $(function () {
 			
 			var topper = $("#sboxPreview").offset().top;
 			var righter = $(document).width() - $("#sboxPreview").offset().left - $("#sboxPreview").outerWidth();
-			var lefter = $("#sboxMain").offset().left;
+			var lefter = $("#carouselMain").offset().left;
 			$("#sandbox .opened").css({
 				right: righter + "px",
 				top: topper + "px"
@@ -1575,7 +1575,7 @@ $(function () {
 			$("#sandbox .opened").animate({
 				width: totalWidth + "px",
 			}, 500, function() {
-				$("#sboxMain").css('height', $("#sandbox .opened").height()+'px');
+				$("#carouselMain").css('height', $("#sandbox .opened").height()+'px');
 				$(".sboxContains").css('height', $("#sandbox .opened").height()+'px').fadeIn();
 				$('#whiteDrop').bind({
 					mouseenter: function() {
@@ -1620,7 +1620,7 @@ $(function () {
 		close: function() {
 			var that = this;
 			$("#header").removeClass('mini');
-			$("#sboxMain").css('height', 'auto');
+			$("#carouselMain").css('height', 'auto');
 			$("#sandbox .opened").animate(
 				{
 					width: 0,

@@ -162,6 +162,36 @@
 		</figure>
 	</script>
 
+<script type="text/template" id="product-quickview-template">
+	<div id="FastProductDetails">
+		<div class="BlockContent">
+
+			<div id="leftContent">
+					<img src="<%= config.ShopPath + "/product_images/" + imagefilethumb %>" alt="<%= prodname %>"></a>
+			</div>
+			<div id="rightContent">
+				<div id="name" class="block">
+					<div>
+							<h1><%= name %></h1>
+						<p class="funny"><%= funny_name%></p>
+						<span class="named">Named By <%= named_by %></span>
+						<span class="price">
+							<%= price %>
+						</span>
+					</div>
+					<div style="clear:both;"></div>
+				</div>
+				<%= desc %>
+				<div class="block">					
+					<input type="submit" class="ctaBut buyNow" value="Add to Cart" alt="" />
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+			<br class="Clear" />
+		</div>
+	</div>
+</script>
+
 </span>
 
 
