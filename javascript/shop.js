@@ -178,11 +178,18 @@ $(function () {
 		// render the quickview to document with the current model
 		render: function(product) {
 			
-			console.log(product);
+			this.model = product;
 			console.log(this.template(product));
 
-			$(".quicky").html(this.template(product));
-
+			$("#quicky").html(this.template(product));
+			console.log($("#quicky").html());
+			$(this).fancybox({
+				'type': 'inline',
+				'href': '#quicky',
+				'width': 790,
+				'height': 500,
+				'autoDimensions': false
+			}).click();
 		}, 
 
 		// remove the quickview from the document
@@ -193,16 +200,47 @@ $(function () {
 
 		// Wasn't quite sure whether this could be inherited
 		// from the product class, might have to remake it again
-		buyNow: function() {
-
+		addToSandbox: function() {
+			console.log("btn addToSandbox");
+			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+				var that = this;
+				$.each(this.model.get('variations'), function(index, value) {
+					if(value.vcoptionids == shopApp.model.get('sizeid')) {
+						that.model.set('active_variation', value.combinationid);
+					}
+				});
+			} else {
+				this.model.unset('active_variation');
+			}
+			window.sandbox.add({
+				product: this.model.toJSON(),
+				context: this, 
+				callback: 'jumpToSandbox',
+				showSuccess: true
+			});
+			return false;
 		},
 
-
-		// Wasn't quite sure whether this could be inherited
-		// from the product class, might have to remake it again
-		addToSandbox: function() {
-
-		}
+		buyNow: function() {
+			console.log("btn buyNow");
+			if(	typeof shopApp !== 'undefined' && shopApp.model.get('sizeid') !== false) {
+				var that = this;
+				$.each(this.model.get('variations'), function(index, value) {
+					if(value.vcoptionids == shopApp.model.get('sizeid')) {
+						that.model.set('active_variation', value.combinationid);
+					}
+				});
+			} else {
+				this.model.unset('active_variation');
+			}
+			window.sandbox.buyNow({
+				product: this.model.toJSON(),
+				context: this, 
+				callback: 'redirectToCart',
+				showSuccess: true
+			});
+			return false;
+		},
 
 	});
 
@@ -811,7 +849,7 @@ $(function () {
 
 	var ShopAppView = Backbone.View.extend({
 		el: $("#main"),
-		
+	
 		initialize: function(opts) {
 			shopModel = {
 				catid: opts.catid,
@@ -829,17 +867,11 @@ $(function () {
 			this.filter = new FiltersView(opts);
 			this.products = new ProductsView(opts);
 			
-			$(".viewProdInfo").fancybox({
-				'width': 790,
-				'height': 500,
-				'autoDimensions': false
-			});
 		},
 		
 		fetch: function(model) {
 			if(!window.fetching) {
 				window.fetching = true;
-				
 				$("#contentLoading").show();
 				
 				model.fetch({
@@ -877,11 +909,6 @@ $(function () {
 			window.fetching = false;
 			$("#contentLoading").hide();
 			
-			$(".viewProdInfo").fancybox({
-				'width': 790,
-				'height': 500,
-				'autoDimensions': false
-			});
 		},
 		
 		setHistory: function() {
