@@ -26,7 +26,7 @@
 		});
 	</script>
 	<div style="width:790px;height:500px;overflow: auto;position:relative;">
-		<div class="quicky"></div>
+		<div class="quicky" id="quicky"></div>
 	</div>
 	<div id="container" class="nopad">
 		%%Panel.ShopNavigation%%
@@ -34,7 +34,8 @@
 	<div class="container" class="nopad">
 		
 		<div id="main" role="main" class="fncysans wShad">
-		  
+		  	<div class="gradBG small">
+	   		</div>
 			%%Panel.WrapperBanner%%
 			%%Panel.SandboxWalkthrough%%
 			<div id="sboxSide">
@@ -134,7 +135,7 @@
 				<a class="nBut visualize" href="#">Add to Visualizer</a>
 			<% } %>
 			<!--<a class="nBut viewProdInfo iframe" href="<%= link %>">View Product Info</a>-->
-			<a class="nBut viewProdInfo" href="#FastProductDetails">View Product Info</a>
+			<a class="nBut viewProdInfo" href="#quicky">View Product Info</a>
 		</div>
 		<a href="<%= link %>" class="">
 			<figcaption>
