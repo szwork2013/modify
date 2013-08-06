@@ -73,7 +73,7 @@
 				$temp = array();
 				
 				$temp = array(
-					'link'   => $GLOBALS['ProductLink'] ,
+					'link'   => $GLOBALS['ProductLink'] . '?quickView=true',
 					'image'  => $GLOBALS['ProductThumb'],
 					'name'   => $GLOBALS['ProductName'],
 					'id'     => $GLOBALS['ProductId'],

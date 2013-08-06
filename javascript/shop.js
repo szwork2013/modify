@@ -74,8 +74,8 @@ $(function () {
 		events: {
 			'click img': "addToSandbox",
 			'click .visualize': "addToSandbox",
-			'click .buyNow' : "buyNow",
-			'click .viewProdInfo' : "initQuickView"
+			'click .buyNow' : "buyNow"
+			// 'click .viewProdInfo' : "initQuickView"
 		},
 		
 		render: function() {
@@ -141,10 +141,10 @@ $(function () {
 			$('#sboxPreview').fadeOut(300, function() { $('#sboxPreview').fadeIn(); });
 		},
 
-		initQuickView: function(){
-			prodQuickView = new ProductQuickView()
-			prodQuickView.render(this.model.toJSON());
-		}
+		// initQuickView: function(){
+		// 	prodQuickView = new ProductQuickView()
+		// 	prodQuickView.render(this.model.toJSON());
+		// }
 	});
 	
 	var ProductCollection = Backbone.Collection.extend({
@@ -1716,6 +1716,19 @@ $(function () {
 	
 	$("#oSandbox").bind('click', function() {
 		window.sandbox.show();
+	});
+
+
+	$(".viewProdInfo").click(function(event){
+		event.preventDefault();
+		console.log('clicky click click');
+	});
+
+	$(".viewProdInfo").fancybox({
+		'type': 'inline',
+		'width': 790,
+		'height': 500,
+		'autoDimensions': false
 	});
 	
 	$('.eSubscribe').click(function() {
