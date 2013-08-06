@@ -202,9 +202,12 @@ div[role=main] {
   margin: 0 3px;
 }
 #rightContent {
-  width: 795px;
+  width: 500px;
   float: right;
   color: #4c4e47;
+  max-height: 480px;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 #rightContent .block {
   border-bottom: 1px solid #eef0e5;
@@ -382,7 +385,4 @@ div[role=main] {
 }
 #FastProductDetails #leftContent {
   margin-right: 0px;
-}
-#FastProductDetails #rightContent {
-  width: 500px;
 }
