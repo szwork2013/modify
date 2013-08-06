@@ -165,7 +165,7 @@ $(function () {
 
 		model: ProductModel,
 
-		className: 'prodQuickViewModal',
+		id: 'FastProductDetails',
 
 		template:_.template($('#product-quickview-template').html()),
 

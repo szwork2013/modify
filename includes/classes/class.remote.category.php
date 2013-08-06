@@ -81,6 +81,7 @@
 					'type'	 => $GLOBALS['ProductPhysType'],
 					'desc'   => $GLOBALS['ProductDesc'],
 					'made_by'=> $GLOBALS['ProductMadeBy'],
+					'funny_desc' => $GLOBALS['ProductFunDesc'],
 					'rating' => (!isset($productrating) ? $GLOBALS['ProductRating'] : null),
 					'variations' => $variations
 				);

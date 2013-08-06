@@ -25,8 +25,10 @@
 			});
 		});
 	</script>
-	<div style="width:790px;height:500px;overflow: auto;position:relative;">
-		<div class="quicky" id="quicky"></div>
+	<div style="display:none">
+		<div style="width:790px;height:500px;overflow: auto;position:relative;">
+			<div class="quicky" id="quicky"></div>
+		</div>
 	</div>
 	<div id="container" class="nopad">
 		%%Panel.ShopNavigation%%
@@ -162,10 +164,16 @@
 	<script type="text/template" id="product-quickview-template">
 		<div id="FastProductDetails">
 			<div class="BlockContent">
-
 				<div id="leftContent">
 						<%= image %>
-				</div>
+						<div id="made" class="block" style="display:%%GLOBAL_HideMadeBy%%">
+							<span>This watch is made using:</span>
+							<ul>
+								%%SNIPPET_ProductMadeByList%%
+							</ul>
+							<div style="clear:both;"></div>
+						</div>
+				</div>	
 				<div id="rightContent">
 					<div id="name" class="block">
 						<div>
@@ -177,23 +185,34 @@
 						</div>
 						<div style="clear:both;"></div>
 					</div>
-					<%= desc %>
 					<div class="block">
-					<% if (type == "3" || type == "4") { %>
-						<a class="ctaBut buyNow" href="#" style="margin-bottom: 10px;">Buy Now</a>
-					<% } else { %>
-						<a class="nBut visualize" href="#">Add to Visualizer</a>
-					<% } %>
-						<div style="clear:both;"></div>
+						<h3>Product Description</h3>
+						<%= funny_desc %>
+						<%= desc %>
+					</div>
+					<div class="block">
+						<h3>Specifications</h3>
+						<ul>
+							<li>2 Sizes
+								<ul>
+									<li>Classic Watch Faces are (LxW) 1.7in x 1.6in and Classic straps are (LxW) 9in x .9in.</li>
+									<li>Mini Watch Faces are (LxW) 1.3in x 1.2in and Mini straps are (LxW) 8.7in x .7in.</li>
+								</ul>
+							</li>
+							<li>Water-resistant: Go swimming!</li>
+							<li>Made of stainless steel and scratch resistant PC</li>
+							<li>Smothered by Modify branding</li>
+							<li>All, yes all, Modify Watches are interchangeable, so you can mix-and-match faces and straps to show your colors. The more pieces you have, the more value you find (1 face x 1 strap = 1 Mod | 3 faces x 3 straps = 9 Mods) ... its multiples of fun!</li>
+						</ul>
 					</div>
 				</div>
 				<br class="Clear" />
+					
 			</div>
 		</div>
 	</script>
 
 </span>
-
 
 <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/fancybox/fancybox.js?2.5"></script>\
 <link rel="stylesheet" type="text/css" href="%%GLOBAL_ShopPath%%/javascript/fancybox/fancybox.css" media="screen" />

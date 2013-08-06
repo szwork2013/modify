@@ -55,7 +55,13 @@ class PRODUCTS_PANEL extends PANEL
 		$GLOBALS['ProductPhysType'] = (int)$row['prodphystype'];
 		$GLOBALS['ProductColors']   = (int)$row['prodcolorids'];
 		$GLOBALS['ProductDesc']     = strip_tags($row['proddesc']);
-		$GLOBALS['ProductMadeBy']   = $row['prodquoteauthor'];
+		$GLOBALS['ProductMadeBy']   = strip_tags($row['prodquoteauthor']);
+		if($GLOBALS['ProductMadeBy'] == '') {
+			$GLOBALS['ProductMadeBy'] = 'The Modify Team';
+		}
+		$GLOBALS['ProductFunDesc']   = strip_tags($row['prodfundesc']);
+
+		
 
 		// Determine the price of this product
 		$GLOBALS['ProductPrice'] = '';

@@ -140,7 +140,6 @@ CLASS ISC_FASTPRODUCTDETAILS_PANEL extends PANEL
 		$GLOBALS['ProductMaxTinyHeight'] = ISC_PRODUCT_IMAGE::getSizeHeight(ISC_PRODUCT_IMAGE_SIZE_TINY);
 
 
-
 		$GLOBALS['ProductTinyBoxWidth'] = $GLOBALS['ProductMaxTinyWidth']+4;
 		$GLOBALS['ProductTinyBoxHeight'] = $GLOBALS['ProductMaxTinyHeight']+4;
 

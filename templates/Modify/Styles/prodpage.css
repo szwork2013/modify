@@ -210,12 +210,13 @@ div[role=main] {
   border-bottom: 1px solid #eef0e5;
   padding-bottom: 10px;
   margin-bottom: 20px;
+  font-size: 0.8em;
 }
 #rightContent .block#name  > div:first-child {
   float: left;
 }
 #rightContent .block h1 {
-  margin: 0px 0px 10px;
+  margin: 15px 0px 10px;
   padding: 0px;
   font-size: 2.2em;
   font-weight: normal;
@@ -383,5 +384,5 @@ div[role=main] {
   margin-right: 0px;
 }
 #FastProductDetails #rightContent {
-  width: 410px;
+  width: 500px;
 }

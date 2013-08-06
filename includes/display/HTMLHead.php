@@ -69,6 +69,9 @@ CLASS ISC_HTMLHEAD_PANEL extends PANEL
 				),
 				array(
 					'stylesheet' => 'Styles/iselector.css'
+				),
+				array(
+					'stylesheet' => 'Styles/prodpage.css'
 				)
 			);
 

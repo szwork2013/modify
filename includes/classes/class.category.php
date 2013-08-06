@@ -69,7 +69,6 @@
 			}
 			$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/shop.js';
 			$GLOBALS['AdditionalScripts'][] = GetConfig('AppPath').'/javascript/history.js';
-			$GLOBALS['AdditionalScripts'][] = GetConfig('ShopPath').'/templates/Modify/Styles/prodpage.css';
 
 			$GLOBALS['CatId'] = 0;
 			$this->_catlayoutfile = "category";
