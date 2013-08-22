@@ -135,6 +135,7 @@ $(function () {
 		},
 
 		redirectToCart: function() {
+
 		},
 		
 		pulseIt: function() {
@@ -1719,17 +1720,25 @@ $(function () {
 	});
 
 
-	$(".viewProdInfo").click(function(event){
-		event.preventDefault();
-		console.log('clicky click click');
-	});
+	// $(".viewProdInfo").click(function(event){
+ // 		event.preventDefault();
+ // 		console.log('clicky click click');
+	// });
 
-	$(".viewProdInfo").fancybox({
-		'type': 'inline',
-		'width': 790,
-		'height': 500,
-		'autoDimensions': false
-	});
+	// $(".viewProdInfo").click(function() {
+	// 	var that = this;
+	// 	console.log('FANCY!');
+ // 		$.fancybox({
+	// 		'type': 'inline',
+	// 		'width': 790,
+	// 		'height': 500,
+	// 		'autoDimensions': false,
+	// 		'href': $(this).attr("href")
+	// 	});
+ // 	});
+
+
+
 	
 	$('.eSubscribe').click(function() {
 		var subscribeModal = new genericModal({

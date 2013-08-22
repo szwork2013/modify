@@ -4,6 +4,13 @@
 	%%Panel.Header%%
 	<script type="text/javascript">
 		$(function() {
+			$(".viewProdInfo").fancybox({
+				'type': 'inline',
+				'width': 790,
+				'height': 500,
+				'autoDimensions': false
+			});
+
 			$("#helpme .nBut").click(function() {
 				$.fancybox({
 						'padding'       : 0,
